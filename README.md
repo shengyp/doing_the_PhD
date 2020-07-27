@@ -44,7 +44,7 @@ Table of Contents
 
 
 ## 博士学位论文答辩
-1. Tensors and their Applications in Graph-Structured Domains. [[ISWC 2012]](http://www.cip.ifi.lmu.de/~nickel/iswc2012-learning-on-linked-data/)
+1. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681)
 
 
 ## 博士就业
