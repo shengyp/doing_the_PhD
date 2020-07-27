@@ -30,6 +30,10 @@ Table of Contents
 2. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
+3. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期(Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+
+
+
 ## 如何读论文
 1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
 
@@ -50,7 +54,7 @@ Table of Contents
 
 
 ## 我国博士研究生累积招生情况
-1. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
+1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 2020.06.15. 
 
 
 ## 博士就业
