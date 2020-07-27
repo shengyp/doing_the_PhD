@@ -18,6 +18,8 @@ Table of Contents
   * [博士导师](#博士导师)
   * [读博延期问题](#读博延期问题)
   * [博士学位论文答辩](#博士学位论文答辩)
+  * [博士就业](#博士学位论文答辩)
+  
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -45,4 +47,9 @@ Table of Contents
 1. Tensors and their Applications in Graph-Structured Domains. [[ISWC 2012]](http://www.cip.ifi.lmu.de/~nickel/iswc2012-learning-on-linked-data/)
 
 
+## 博士就业
+1. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
+
+
+2. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
 
