@@ -71,22 +71,25 @@ Table of Contents
 
 
 ## 灵魂拷问
-1. [孙笑尘](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+1. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
 
-2. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
+2. [孙笑尘](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
 
 
-2. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+3. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
 
 
-3. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+4. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-4. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+5. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-5. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+6. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+7. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
