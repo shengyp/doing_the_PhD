@@ -33,6 +33,9 @@ Table of Contents
 3. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期(Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
+4. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+
+
 
 ## 如何读论文
 1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
@@ -54,7 +57,7 @@ Table of Contents
 
 
 ## 我国博士研究生累积招生情况
-1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 2020.06.15. 
+1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线, 2020.06.15. 
 
 
 ## 博士就业
