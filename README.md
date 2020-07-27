@@ -52,7 +52,7 @@ Table of Contents
 
 
 ## 延期毕业问题
-2. Shih-Fu Chang, LP Morency, Alexander Hauptmann, Alberto Del Bimbo, Cathal Gurrin, Hayley Hung, Heng Ji, Alan Smeaton. [Panel: Challenges for Multimedia/Multimodal Research in the Next Decade](https://blender.cs.illinois.edu/paper/multimediapanel.pdf). ACMMM 2019. [[Paper]](https://blender.cs.illinois.edu/paper/multimediapanel.pdf)
+1. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
 
 
 ## 博士学位论文答辩
@@ -74,22 +74,25 @@ Table of Contents
 1. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
 
-2. [孙笑尘](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+2. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
 
 
 3. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
 
 
-4. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+4. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
 
 
-5. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+5. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-6. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+6. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-7. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+7. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+8. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
