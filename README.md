@@ -12,7 +12,6 @@ Table of Contents
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
 <!--   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text) -->
   * [如何开个好头](#如何开个好头)
-<!--   * [如何做科研](#如何做科研) -->
   * [如何读论文](#如何读论文)
   * [如何写论文](#如何写论文)
   * [博士生的导师](#博士生的导师)
