@@ -19,7 +19,7 @@ Table of Contents
   * [博士学位论文答辩](#博士学位论文答辩)
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [博士就业](#博士就业)
-  
+  * [灵魂拷问](#灵魂拷问)
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -65,4 +65,22 @@ Table of Contents
 
 
 2. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+
+
+## 灵魂拷问
+1. [孙笑尘](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+
+
+2. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+
+
+3. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+
+
+4. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+5. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+
+
 
