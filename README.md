@@ -49,7 +49,13 @@ Table of Contents
 ## 如何写论文
 1. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
 
+
 2. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
+
+
+3. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). [[Video]](http://www.mooc.ai/course/778)
+
+
 
 
 
@@ -59,6 +65,7 @@ Table of Contents
 
 ## 延期毕业问题
 1. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+
 
 
 ## 博士学位论文答辩
@@ -99,7 +106,7 @@ Table of Contents
 7. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
 
 
-8. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [Manual](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+8. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
