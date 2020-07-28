@@ -53,19 +53,24 @@ Table of Contents
 2. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
 
 
-3. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). [[Video]](http://www.mooc.ai/course/778). 2020.04.01.
+3. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg).
 
 
-4. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
+4. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). [[Video]](http://www.mooc.ai/course/778). 2020.04.01.
 
 
-5. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 2020.03.21.
+5. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
 
 
-6. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g). [[Video]](https://www.bilibili.com/video/av95344119). 2020.03.13.
+6. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 2020.03.21.
 
 
-7. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394). 2020.03.07, 1h视频公开课.
+7. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g). [[Video]](https://www.bilibili.com/video/av95344119). 2020.03.13.
+
+
+8. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394). 2020.03.07, 1h视频公开课.
+
+
 
 
 
