@@ -59,7 +59,16 @@ Table of Contents
 4. [How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw). 2020.05.15. [[PPT]](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)
 
 
-4. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
+5. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
+
+
+6. [论文写作小白的成长之路](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng). 2020.04.02 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf)
+
+
+7. [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf)
+
+
+8. [计算机视觉会议论文从投稿到接收](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf)
 
 
 5. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). [[Video]](http://www.mooc.ai/course/778). 2020.04.01.
