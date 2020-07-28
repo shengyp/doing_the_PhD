@@ -65,7 +65,7 @@ Table of Contents
 6. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g). [[Video]](https://www.bilibili.com/video/av95344119). 2020.03.13.
 
 
-7. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394). [[PPT]](./report/浅谈研究生学位论文选题.pdf). 2020.03.07, 1h视频公开课.
+7. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394). 2020.03.07, 1h视频公开课.
 
 
 
