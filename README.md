@@ -45,6 +45,9 @@ Table of Contents
 
 
 ## 如何写论文
+1. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
+
+2. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
 
 
 ## 博士生的导师
@@ -56,11 +59,10 @@ Table of Contents
 
 
 ## 博士学位论文答辩
-1. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
 
 
 ## 我国博士研究生累积招生情况
-1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线, 2020.06.15. 
+1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
 
 ## 博士就业
