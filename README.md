@@ -16,7 +16,7 @@ Table of Contents
   * [如何写论文](#如何写论文)
   * [博士生的导师](#博士生的导师)
   * [延期毕业问题](#延期毕业问题)
-  * [博士学位论文答辩](#博士学位论文答辩)
+  * [博士学位论文](#博士学位论文)
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [博士就业](#博士就业)
   * [灵魂拷问](#灵魂拷问)
@@ -100,7 +100,7 @@ Table of Contents
 
 
 
-## 博士学位论文答辩
+## 博士学位论文
 1. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
