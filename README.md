@@ -86,6 +86,10 @@ Table of Contents
 13. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394). 2020.03.07, 1h视频公开课.
 
 
+14. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
+
+
+
 
 ## 博士生的导师
 1. Adrian Lee, Carina Dennis and Philip Campbell. [Nature’s guide for mentors](https://www.nature.com/articles/447791a.pdf). 2020.06.06. [[《Nature》发文：好导师的16个标准 (Interpreted in Chinese)]](https://www.toutiao.com/i6835253788102623747/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1591526703&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202006071845020100260760843B257EE1&group_id=6835253788102623747) 
