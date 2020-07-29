@@ -59,6 +59,8 @@ Table of Contents
 4. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
 
 
+5. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
+
 
 
 ## 如何读论文
@@ -71,7 +73,7 @@ Table of Contents
 3. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法 (Interpreted in Chinese)]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
 
 
-3. [一文教你如何快速高效阅读Paper（硕士生版](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
+3. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
 
 
 
@@ -120,6 +122,20 @@ Table of Contents
 
 15. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
 
+
+16. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf).
+
+
+17. [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf).
+
+
+18. [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf).
+
+
+19. [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf).
+
+
+20. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
 
