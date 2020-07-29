@@ -2,7 +2,7 @@
 
 
 
-Here, we are concentrate on collection of research papers relate to information extraction for multi-modal data.   
+Here, we are concenta.   
 
 
 Table of Contents
@@ -199,9 +199,6 @@ Table of Contents
 
 
 
-
-
-
 ## 灵魂拷问
 1. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
@@ -229,5 +226,7 @@ Table of Contents
 
 9. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
+
+updated in 2020.07.30
 
 
