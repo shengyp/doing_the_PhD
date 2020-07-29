@@ -147,13 +147,19 @@ Table of Contents
 21. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
-22. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+22. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
 
 
-23. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+23. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
 
 
-24. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
+24. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+
+
+25. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+
+
+26. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
 
