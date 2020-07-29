@@ -1,8 +1,8 @@
 # Doing_the_PhD
 
 
+作者认为，博士旅程是围绕个人身心、认知与能力而开展的一段修行。 在这段独孤求索的旅程中，。
 
-Here, we are concenta.   
 
 
 Table of Contents
