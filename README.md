@@ -126,27 +126,34 @@ Table of Contents
 14. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
 
 
-15. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
+15. [如何写一篇合格的NLP论文？](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA). 2019.11.28.
 
 
-16. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf).
+16. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
 
 
-17. [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf).
+17. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf).
 
 
-18. [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf).
+18. [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf).
 
 
-19. [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf).
+19. [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf).
 
 
-20. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+20. [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf).
 
 
-21. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+21. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
+22. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+
+
+23. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+
+
+24. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
 
