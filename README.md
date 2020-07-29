@@ -1,15 +1,12 @@
 # Doing_the_PhD
 
 
-作者认为，博士旅程是围绕个人身心、认知与能力而开展的一段修行。 在这段独孤求索的旅程中，。
-
+作者认为，博士旅程是一段围绕个人身心、认知与能力而开展的难得的修行。 在这段独孤求索的旅程中，内涵丰富、切实有效的相关资源无疑可为博士生们注入，使他们能够更具朝气，更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的各项挑战，最终迭代升级，修行圆满。  
 
 
 Table of Contents
 =================
 
-
-<!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
 <!--   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text) -->
   * [如何开个好头](#如何开个好头)
   * [好的研究想法如何产生](#好的研究想法如何产生)
