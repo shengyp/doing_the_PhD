@@ -42,7 +42,7 @@ Table of Contents
 5. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
 
 
-
+6. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文) (Interpreted in Chinese)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
 ## 如何读论文
@@ -115,6 +115,8 @@ Table of Contents
 
 
 
+
+
 ## 我国博士研究生累积招生情况
 1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
@@ -126,7 +128,7 @@ Table of Contents
 2. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
 
 
-3. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文) (Interpreted in Chinese)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+
 
 
 
