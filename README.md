@@ -61,6 +61,9 @@ Table of Contents
 1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
 
 
+2. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg). 2019.10.11. 
+
+
 
 ## 如何写论文
 1. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw).
