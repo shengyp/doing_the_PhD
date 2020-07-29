@@ -12,7 +12,7 @@ Table of Contents
 <!--   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks) -->
 <!--   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text) -->
   * [如何开个好头](#如何开个好头)
-  * [好的研究想法如何诞生](#好的研究想法如何诞生)
+  * [好的研究想法如何产生](#好的研究想法如何产生)
   * [如何读论文](#如何读论文)
   * [如何写论文](#如何写论文)
   * [博士生的导师](#博士生的导师)
@@ -46,8 +46,14 @@ Table of Contents
 6. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文) (Interpreted in Chinese)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
-## 好的研究想法如何诞生
+## 好的研究想法如何产生
 1. 黄民烈. [本科生如何做出好的科研](./report/undergrad-res.pdf).
+
+
+2. [清华刘知远： 好的研究想法从哪里来](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg).
+
+
+3. [How to do Research](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf). [[2万字超长干货论文，MIT人工智能实验室：如何做研究？ (Interpreted in Chinese)]](https://www.wxnmh.com/thread-5926286.htm)
 
 
 
