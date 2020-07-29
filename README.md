@@ -132,34 +132,22 @@ Table of Contents
 16. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
 
 
-17. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf).
+17. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
-18. [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf).
+18. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
 
 
-19. [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf).
+19. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
 
 
-20. [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf).
+20. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
 
 
-21. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+21. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
 
 
-22. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
-
-
-23. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
-
-
-24. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
-
-
-25. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
-
-
-26. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
+22. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
 
