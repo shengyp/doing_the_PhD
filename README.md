@@ -62,6 +62,12 @@ Table of Contents
 5. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
 
 
+6. [信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ). 2019.08.19. 
+
+
+7. [施一公：如何一个通宵写出「Nature」文章](https://www.sohu.com/a/240043800_773043). 2019.07.08.
+
+
 
 ## 如何读论文
 1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
@@ -136,6 +142,11 @@ Table of Contents
 
 
 20. [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+
+
+21. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+
+
 
 
 
