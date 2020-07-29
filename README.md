@@ -33,7 +33,7 @@ Table of Contents
 3. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
-3. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期(Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+3. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
 4. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
@@ -43,6 +43,8 @@ Table of Contents
 
 
 6. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文) (Interpreted in Chinese)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+
+
 
 
 ## 如何读论文
@@ -114,6 +116,8 @@ Table of Contents
 2. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
+3. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ). 2019.02.06.
+
 
 
 
@@ -145,16 +149,19 @@ Table of Contents
 4. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
 
 
-5. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+5. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
 
 
-6. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+6. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-7. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+7. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-8. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+8. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+9. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
