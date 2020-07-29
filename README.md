@@ -1,4 +1,4 @@
-# Doing_the_Ph.D.
+# Doing_the_PhD
 
 
 
