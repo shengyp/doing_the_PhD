@@ -126,6 +126,10 @@ Table of Contents
 2. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
 
 
+3. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文) (Interpreted in Chinese)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+
+
+
 ## 灵魂拷问
 1. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
