@@ -67,6 +67,10 @@ Table of Contents
 3. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法 (Interpreted in Chinese)]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
 
 
+3. [一文教你如何快速高效阅读Paper（硕士生版](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
+
+
+
 ## 如何写论文
 1. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw).
 
