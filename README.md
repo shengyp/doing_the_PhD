@@ -56,6 +56,10 @@ Table of Contents
 3. [How to do Research](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf). [[2万字超长干货论文，MIT人工智能实验室：如何做研究？ (Interpreted in Chinese)]](https://www.wxnmh.com/thread-5926286.htm)
 
 
+4. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
+
+
+
 
 ## 如何读论文
 1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
@@ -135,7 +139,10 @@ Table of Contents
 2. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-3. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ). 2019.02.06.
+3. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+
+
+4. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ). 2019.02.06.
 
 
 
