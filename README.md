@@ -22,6 +22,7 @@ Table of Contents
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [博士就业](#博士就业)
   * [灵魂拷问](#灵魂拷问)
+  * [这些事不干](#这些事不干)
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -214,6 +215,10 @@ Table of Contents
 
 
 9. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+
+
+## 这些事不干
+1. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
 updated in 2020.07.30
