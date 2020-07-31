@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人身心、认知与能力而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源往往会将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [博士就业]、 [灵魂拷问]、  [青椒的苦恼]、 [这些事不干]这12个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [青椒的苦恼]、 [灵魂拷问]、  [这些事不干]这11个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -20,9 +20,8 @@ Table of Contents
   * [延期毕业问题](#延期毕业问题)
   * [博士学位论文](#博士学位论文)
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
-  * [博士就业](#博士就业)
-  * [灵魂拷问](#灵魂拷问)
   * [青椒的苦恼](#青椒的苦恼)
+  * [灵魂拷问](#灵魂拷问)
   * [这些事不干](#这些事不干)
 
 
@@ -177,17 +176,18 @@ Table of Contents
 
 
 
-
 ## 我国博士研究生累积招生情况
 1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
 
-## 博士就业
-1. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
+## 青椒的苦恼
+1. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
 
 
 2. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
 
+
+3. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
 
 
 ## 灵魂拷问
@@ -216,10 +216,6 @@ Table of Contents
 
 
 9. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
-
-
-## 青椒的苦恼
-1. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
 
 
 ## 这些事不干
