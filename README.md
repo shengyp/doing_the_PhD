@@ -225,6 +225,9 @@ Table of Contents
 1. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
+2. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+
+
 updated in 2020.07.31
 
 
