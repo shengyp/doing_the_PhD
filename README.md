@@ -92,67 +92,70 @@ Table of Contents
 2. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
 
 
-3. [中国学生写论文常见毛病：冗长、无聊、不注重用图美感？](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA). AI科技评论. 2020.08.01.
+3. [211硕士毕业作，第一篇1区SCI论文发表经验谈](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244). AI科技评论. 2020.07.30.
 
 
-4. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
+4. [中国学生写论文常见毛病：冗长、无聊、不注重用图美感？](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA). AI科技评论. 2020.08.01.
 
 
-5. [《科研论文撰写策略》](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA). 2020.06.15.
+5. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
 
 
-6. [How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw). 2020.05.15. [[PPT]](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)
+6. [《科研论文撰写策略》](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA). 2020.06.15.
 
 
-7. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
+7. [How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw). 2020.05.15. [[PPT]](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)
 
 
-8. [论文写作小白的成长之路](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng). 2020.04.02 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf)
+8. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
 
 
-9. [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf)
+9. [论文写作小白的成长之路](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng). 2020.04.02 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf)
 
 
-10. [计算机视觉会议论文从投稿到接收](). 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
+10. [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf)
 
 
-11. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). 2020.04.01. [[Video]](http://www.mooc.ai/course/778)
+11. [计算机视觉会议论文从投稿到接收](). 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
 
 
-12. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
+12. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). 2020.04.01. [[Video]](http://www.mooc.ai/course/778)
 
 
-13. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). 2020.03.21. [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
+13. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
 
 
-14. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g).  2020.03.13. [[Video]](https://www.bilibili.com/video/av95344119)
+14. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). 2020.03.21. [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
 
 
-15. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
+15. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g).  2020.03.13. [[Video]](https://www.bilibili.com/video/av95344119)
 
 
-16. [如何写一篇合格的NLP论文？](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA). 2019.11.28.
+16. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
 
 
-17. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
+17. [如何写一篇合格的NLP论文？](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA). 2019.11.28.
 
 
-18. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+18. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
 
 
-19. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
+19. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
-20. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
+20. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
 
 
-21. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+21. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
 
 
-22. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+22. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
 
 
-23. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
+23. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+
+
+24. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
 
@@ -228,6 +231,9 @@ Table of Contents
 2. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
 
 
-updated in 2020.07.31
+3. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+
+
+updated in 2020.08.01
 
 
