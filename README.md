@@ -92,7 +92,7 @@ Table of Contents
 2. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
 
 
-3. [211硕士毕业作，第一篇1区SCI论文发表经验谈](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244). AI科技评论. 2020.07.30.
+3. [211硕士毕业作，第一篇1区SCI论文发表经验谈](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244). 2020.07.30.
 
 
 4. [中国学生写论文常见毛病：冗长、无聊、不注重用图美感？](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA). AI科技评论. 2020.08.01.
