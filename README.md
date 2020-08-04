@@ -73,16 +73,19 @@ Table of Contents
 
 
 ## 如何读论文
-1. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
+1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
 
 
-2. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg). 2019.10.11. 
+2. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
 
 
-3. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法 (Interpreted in Chinese)]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
+3. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg). 2019.10.11. 
 
 
-3. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
+4. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法 (Interpreted in Chinese)]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
+
+
+5. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
 
 
 
@@ -179,7 +182,7 @@ Table of Contents
 3. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
 
 
-4. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ). 2019.02.06.
+4. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
 
