@@ -188,7 +188,10 @@ Table of Contents
 
 
 ## 我国博士研究生培养结构
-1. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+1. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
+
+
+2. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
 
 
 
@@ -231,13 +234,16 @@ Table of Contents
 
 
 ## 这些事不干
-1. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
+1. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2018.08.04
 
 
-2. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+2. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
-3. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+3. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+
+
+4. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
 
 
 updated in 2020.08.01
