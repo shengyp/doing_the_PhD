@@ -237,16 +237,19 @@ Table of Contents
 
 
 ## 这些事不干
-1. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2018.08.04
+1. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
 
 
-2. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
+2. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
 
 
-3. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+3. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
-4. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+4. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+
+
+5. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
 
 
 updated in 2020.08.01
