@@ -23,6 +23,7 @@ Table of Contents
   * [我国博士研究生培养结构](#我国博士研究生培养结构)
   * [青椒的苦恼](#青椒的苦恼)
   * [灵魂拷问](#灵魂拷问)
+  * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
   * [这些事不干](#这些事不干)
 
 
@@ -240,6 +241,10 @@ Table of Contents
 
 
 10. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+
+
+## 高校岗位设置与评价体制
+1. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
 
 
 ## 这些事不干
