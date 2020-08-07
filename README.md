@@ -177,7 +177,7 @@ Table of Contents
 
 
 ## 博士学位论文
-1. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908). 知乎.
+1. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
 
 
 2. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
