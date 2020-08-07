@@ -177,16 +177,19 @@ Table of Contents
 
 
 ## 博士学位论文
-1. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
+1. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908). 知乎.
 
 
-2. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
+2. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
-3. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+3. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-4. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
+4. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+
+
+5. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
 
