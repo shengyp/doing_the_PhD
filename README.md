@@ -212,6 +212,8 @@ Table of Contents
 3. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
 
 
+4. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+
 
 ## 青椒的苦恼
 1. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
