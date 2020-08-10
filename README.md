@@ -260,7 +260,10 @@ Table of Contents
 
 
 ## 高校岗位设置与评价体制
-1. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+1. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ). 规国ABC. 2020.08.09. 
+
+
+2. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
 
 
 ## 这些事不干
