@@ -274,10 +274,13 @@ Table of Contents
 
 
 ## 这些事不干
-1. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
+1. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928). 2020.08.10
 
 
-2. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
+2. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
+
+
+3. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
 
 
 3. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
