@@ -274,7 +274,7 @@ Table of Contents
 
 
 ## 这些事不干
-1. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928). 2020.08.10
+1. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
 
 
 2. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
