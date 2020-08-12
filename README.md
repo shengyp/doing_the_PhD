@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [青椒的苦恼]、 [灵魂拷问]、 [高校岗位设置与评价体制]、 [这些事不干]这15个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [青椒的苦恼]、 [灵魂拷问]、 [高校岗位设置与评价体制]、 [这些事不干]、 [英才陨落]这16个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -27,6 +27,8 @@ Table of Contents
   * [灵魂拷问](#灵魂拷问)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
   * [这些事不干](#这些事不干)
+  * [英才陨落](#英才陨落)
+
 
 
 ## 一个执着的决定
@@ -274,24 +276,31 @@ Table of Contents
 
 
 ## 这些事不干
-1. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
+1. [这所985大学宣布调查结果：论文抄袭事实成立！撤销其硕士学位！](https://mp.weixin.qq.com/s/q2wss3K9vEYjYhiSMPrzAA)  2020.08.12
 
 
-2. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
+2. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
 
 
-3. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
+3. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
 
 
-3. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
+4. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
 
 
-4. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+5. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
-5. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+6. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
 
 
-updated in 2020.08.01
+7. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+
+
+## 英才陨落
+1. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
+
+
+updated in 2020.08.13
 
 
