@@ -32,7 +32,7 @@ Table of Contents
 
 
 ## 一个执着的决定
-1. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg). 2020.08.13. 
+1. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
 
 
 2. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
