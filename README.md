@@ -26,6 +26,7 @@ Table of Contents
   * [青椒的苦恼](#青椒的苦恼)
   * [灵魂拷问](#灵魂拷问)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
+  * [谨慎破除“唯论文”现象](#谨慎破除“唯论文”现象)
   * [这些事不干](#这些事不干)
   * [英才陨落](#英才陨落)
 
@@ -276,6 +277,11 @@ Table of Contents
 
 
 2. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+
+
+## 谨慎破除“唯论文”现象
+1. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
+
 
 
 ## 这些事不干
