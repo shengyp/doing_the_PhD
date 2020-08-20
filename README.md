@@ -33,7 +33,7 @@ Table of Contents
 
 
 ## 一个执着的决定
-1. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632). 
+1. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
 
 
 2. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
