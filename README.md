@@ -166,7 +166,7 @@ Table of Contents
 19. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
 
 
-20. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07.
+20. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 | [施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)
 
 
 21. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
