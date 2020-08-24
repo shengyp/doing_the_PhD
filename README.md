@@ -289,7 +289,10 @@ Table of Contents
 
 
 ## 谨慎破除“唯论文”现象
-1. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
+1. [​不唯SCI，博士生要怎么培养？当我们反对SCI至上时，我们到底在反对什么？](https://mp.weixin.qq.com/s/hNiqOJum-Kr0F4riawaeAA)  2020.08.24. 
+
+
+2. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
 
 
 
