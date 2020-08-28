@@ -187,7 +187,7 @@ Table of Contents
 
 
 ## 如何做报告
-1. [Nature：13个维度，手把手教“研究er”如何做报告(https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
+1. [Nature：13个维度，手把手教“研究er”如何做报告](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
 
 
 
