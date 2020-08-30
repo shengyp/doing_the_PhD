@@ -26,6 +26,7 @@ Table of Contents
   * [青椒的苦恼](#青椒的苦恼)
   * [灵魂拷问](#灵魂拷问)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
+  * [职位晋升](#职位晋升)
   * [谨慎破除“唯论文”现象](#谨慎破除“唯论文”现象)
   * [把论文写在祖国大地上](#把论文写在祖国大地上)
   * [这些事不干](#这些事不干)
@@ -296,6 +297,10 @@ Table of Contents
 2. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
 
 
+## 职位晋升
+1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg). 2020.08.29
+
+
 ## 谨慎破除“唯论文”现象
 1. [​不唯SCI，博士生要怎么培养？当我们反对SCI至上时，我们到底在反对什么？](https://mp.weixin.qq.com/s/hNiqOJum-Kr0F4riawaeAA)  2020.08.24. 
 
@@ -305,7 +310,7 @@ Table of Contents
 
 
 ## 把论文写在祖国大地上
-1. [把论文写在祖国大地上](https://mp.weixin.qq.com/s/RexfEwlcnpY4RDxRJ9ZKsw)  2020.08.29. 
+1. [把论文写在祖国大地上](https://mp.weixin.qq.com/s/RexfEwlcnpY4RDxRJ9ZKsw). 2020.08.29. 
 
 
 
