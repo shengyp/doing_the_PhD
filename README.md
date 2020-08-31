@@ -47,7 +47,7 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ)  2020.08.31.
+1. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
 
 
 2. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
@@ -56,7 +56,7 @@ Table of Contents
 3. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
 
 
-4. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA). 2020.08.06. 
+4. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
 
 
 5. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
@@ -110,7 +110,7 @@ Table of Contents
 2. 沈向洋. [沈向洋：读论文的三个层次](https://mp.weixin.qq.com/s/DTPLmmi0W3K5f865Gj1SWg).
 
 
-3. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg). 2019.10.11. 
+3. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg)  2019.10.11. 
 
 
 4. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法 (Interpreted in Chinese)]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
@@ -347,6 +347,6 @@ Table of Contents
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn). 
 
 
-updated in 2020.08.28
+updated in 2020.08.31
 
 
