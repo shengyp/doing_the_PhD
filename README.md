@@ -81,7 +81,7 @@ Table of Contents
 
 
 ## 好的研究想法如何产生
-1. 黄民烈. [本科生如何做出好的科研](./report/undergrad-res.pdf).
+1. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
 
 
 2. [清华刘知远： 好的研究想法从哪里来](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg).
