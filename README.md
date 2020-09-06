@@ -87,7 +87,7 @@ Table of Contents
 
 
 ## 好的研究想法如何产生
-1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw).
+1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
 
 
 2. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
