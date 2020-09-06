@@ -87,25 +87,28 @@ Table of Contents
 
 
 ## 好的研究想法如何产生
-1. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
+1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw).
 
 
-2. [清华刘知远： 好的研究想法从哪里来](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg).
+2. [清华黄民烈：本科生如何做出好的科研](./report/undergrad-res.pdf).
 
 
-3. [How to do Research](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf). [[2万字超长干货论文，MIT人工智能实验室：如何做研究？ (Interpreted in Chinese)]](https://www.wxnmh.com/thread-5926286.htm)
+3. [清华刘知远： 好的研究想法从哪里来](https://mp.weixin.qq.com/s/88mrVSz1JA0FB2-5toWCSg).
 
 
-4. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
+4. [How to do Research](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf). [[2万字超长干货论文，MIT人工智能实验室：如何做研究？ (Interpreted in Chinese)]](https://www.wxnmh.com/thread-5926286.htm)
 
 
-5. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
+5. [周志华：如何做研究，如何写论文](./report/如何做研究-如何写论文.pdf). 
 
 
-6. [信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ). 2019.08.19. 
+6. [An Introduction to your Research Journey at Otago](./tutorials/An_Introduction_to_your_Research_Journey_at_Otago.pdf).
 
 
-7. [施一公：如何一个通宵写出「Nature」文章](https://www.sohu.com/a/240043800_773043). 2019.07.08.
+7. [信息图汇总： 挖掘优秀研究问题的6种方法、科研论文要素、如何阅读期刊文章](https://mp.weixin.qq.com/s/JlFnO9N92oQs2PqUE2WVfQ). 2019.08.19. 
+
+
+8. [施一公：如何一个通宵写出「Nature」文章](https://www.sohu.com/a/240043800_773043). 2019.07.08.
 
 
 
