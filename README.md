@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [青椒的苦恼]、 [灵魂拷问]、 [高校岗位设置与评价体制]、 [职位晋升]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这20个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [青椒的苦恼]、 [灵魂拷问]、 [高校岗位设置与评价体制]、 [职位晋升]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这21个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -36,13 +36,16 @@ Table of Contents
 
 
 ## 一个执着的决定
-1. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
+1. [什么才是读博的真正理由？](https://mp.weixin.qq.com/s/mR-Zck1w8Vpn2tKbcIxowQ)  2020.09.06. 
 
 
-2. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
+2. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
 
 
-3. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
+3. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
+
+
+4. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -311,6 +314,11 @@ Table of Contents
 
 ## 职位晋升
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg). 2020.08.29
+
+
+## 教师待遇
+1. [重磅！这类教师地位待遇要提高！薪酬、编制大变化](https://www.toutiao.com/i6868561413112234509/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599405130&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200906231210010026077208302EFC5A&group_id=6868561413112234509). 2020.09.04
+
 
 
 ## 谨慎破除“唯论文”现象
