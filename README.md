@@ -133,7 +133,7 @@ Table of Contents
 
 
 ## 如何写论文
-1. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw).
+1. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw)
 
 
 2. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
