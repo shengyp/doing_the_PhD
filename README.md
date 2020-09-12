@@ -50,46 +50,49 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
+1. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
 
 
-2. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
+2. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
 
 
-3. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
+3. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
 
 
-4. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
+4. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
 
 
-5. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
+5. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
 
 
-6. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
+6. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
 
 
-7. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
+7. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
 
 
-8. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
+8. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
 
 
-9. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
+9. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
 
 
-10. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+10. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
 
 
-11. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
+11. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
-12. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+12. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
 
 
-13. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+13. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
 
 
-14. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+14. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+
+
+15. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
 ## 好的研究想法如何产生
@@ -246,25 +249,28 @@ Table of Contents
 
 
 ## 我国博士研究生培养结构
-1. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
+1. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
 
 
-2. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
+2. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
 
 
-3. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
+3. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
 
 
-4. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
+4. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
 
 
-5. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
+5. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
 
 
-6. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+6. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
 
 
-7. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+7. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+
+
+8. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
 
 
 ## 青椒的苦恼
