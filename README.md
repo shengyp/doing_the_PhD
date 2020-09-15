@@ -48,6 +48,9 @@ Table of Contents
 4. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
 
 
+5. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A). 2020.06.27. 
+
+
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
 1. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
@@ -234,19 +237,22 @@ Table of Contents
 
 
 ## 博士学位论文
-1. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
+1. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ).
 
 
-2. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
+2. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
 
 
-3. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
+3. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
-4. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+4. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-5. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
+5. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+
+
+6. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
 
@@ -336,6 +342,9 @@ Table of Contents
 
 ## 教师待遇
 1. [重磅！这类教师地位待遇要提高！薪酬、编制大变化](https://www.toutiao.com/i6868561413112234509/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599405130&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200906231210010026077208302EFC5A&group_id=6868561413112234509). 2020.09.04
+
+
+2. [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431/answer/1445148851?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group1_Answer&utm_campaign=shareopn). 
 
 
 
