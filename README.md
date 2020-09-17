@@ -229,10 +229,13 @@ Table of Contents
 
 
 ## 延期毕业问题
-1. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+1. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
 
 
-2. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
+2. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+
+
+3. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
 
 
 
@@ -359,7 +362,10 @@ Table of Contents
 
 
 ## 把论文写在祖国大地上
-1. [把论文写在祖国大地上](https://mp.weixin.qq.com/s/RexfEwlcnpY4RDxRJ9ZKsw). 2020.08.29. 
+1. [学术界为啥不爱投中文期刊？](https://mp.weixin.qq.com/s/xgJE2-YbExhQHE6zoat06g)  2020.09.16.
+
+
+2. [把论文写在祖国大地上](https://mp.weixin.qq.com/s/RexfEwlcnpY4RDxRJ9ZKsw). 2020.08.29. 
 
 
 
