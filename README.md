@@ -267,28 +267,34 @@ Table of Contents
 
 
 ## 我国博士研究生培养结构
-1. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
+1. [教育部：要敢于让人毕不了业，坚决杜绝研究生学位“注水”](https://3w.huanqiu.com/a/564394/3zzNhE3RPoj?agt=20&tt_from=weixin&tt_group_id=6875267362271003144&utm_campaign=client_share&wxshare_count=1&timestamp=1600796461&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020092301410001002202015227AF7C48&group_id=6875267362271003144). 2020.09.22. 
 
 
-2. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
+2. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
 
 
-3. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
+3. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
 
 
-4. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
+4. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
 
 
-5. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
+5. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
 
 
-6. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
+6. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
 
 
-7. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+7. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
 
 
-8. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+8. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+
+
+9. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+
+
+10. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
 
 
 ## 青椒的苦恼
