@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [青椒的苦恼]、 [灵魂拷问]、 [高校岗位设置与评价体制]、 [职位晋升]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这21个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [灵魂拷问]、 [博士后了没]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这21个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -23,10 +23,11 @@ Table of Contents
   * [博士学位论文](#博士学位论文)
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [我国博士研究生培养结构](#我国博士研究生培养结构)
-  * [青椒的苦恼](#青椒的苦恼)
   * [灵魂拷问](#灵魂拷问)
+  * [博士后了没](#博士后了没)
+  * [青椒的苦恼](#青椒的苦恼)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
-  * [职位晋升](#职位晋升)
+  * [教师待遇](#教师待遇)
   * [谨慎破除“唯论文”现象](#谨慎破除“唯论文”现象)
   * [把论文写在祖国大地上](#把论文写在祖国大地上)
   * [这些事不干](#这些事不干)
@@ -49,6 +50,7 @@ Table of Contents
 
 
 5. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A). 2020.06.27. 
+
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -102,6 +104,7 @@ Table of Contents
 
 
 17. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+
 
 
 ## 好的研究想法如何产生
@@ -226,9 +229,9 @@ Table of Contents
 
 
 
-
 ## 博士生的导师
 1. Adrian Lee, Carina Dennis and Philip Campbell. [Nature’s guide for mentors](https://www.nature.com/articles/447791a.pdf). 2020.06.06. [[《Nature》发文：好导师的16个标准]](https://www.toutiao.com/i6835253788102623747/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1591526703&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202006071845020100260760843B257EE1&group_id=6835253788102623747) 
+
 
 
 ## 延期毕业问题
@@ -266,6 +269,7 @@ Table of Contents
 1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
 
+
 ## 我国博士研究生培养结构
 1. [导师让学生干私活？教育部决定......](https://mp.weixin.qq.com/s/rwr1nQkMCuIjN7cq-c3wZw). 2020.09.23. 
 
@@ -300,18 +304,6 @@ Table of Contents
 11. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
 
 
-## 青椒的苦恼
-1. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
-
-
-2. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
-
-
-3. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
-
-
-4. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
-
 
 ## 灵魂拷问
 1. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
@@ -344,6 +336,26 @@ Table of Contents
 10. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
+
+## 博士后了没
+1. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
+
+
+
+## 青椒的苦恼
+1. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
+
+
+2. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
+
+
+3. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+
+
+4. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
+
+
+
 ## 高校岗位设置与评价体制
 1. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ)  规国ABC. 2020.08.09. 
 
@@ -352,16 +364,14 @@ Table of Contents
 
 
 
-
-## 职位晋升
-1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg). 2020.08.29
-
-
 ## 教师待遇
-1. [重磅！这类教师地位待遇要提高！薪酬、编制大变化](https://www.toutiao.com/i6868561413112234509/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599405130&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200906231210010026077208302EFC5A&group_id=6868561413112234509). 2020.09.04
+1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
 
 
-2. [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431/answer/1445148851?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group1_Answer&utm_campaign=shareopn). 
+2. [重磅！这类教师地位待遇要提高！薪酬、编制大变化](https://www.toutiao.com/i6868561413112234509/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599405130&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200906231210010026077208302EFC5A&group_id=6868561413112234509). 2020.09.04
+
+
+3. [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431/answer/1445148851?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group1_Answer&utm_campaign=shareopn)
 
 
 
@@ -406,8 +416,9 @@ Table of Contents
 8. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
 
 
+
 ## 症状
-1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn). 
+1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
 
 
 
@@ -415,6 +426,6 @@ Table of Contents
 1. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
 
 
-updated in 2020.09.06
+updated in 2020.09.25
 
 
