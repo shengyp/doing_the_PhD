@@ -343,16 +343,19 @@ Table of Contents
 
 
 ## 青椒的苦恼
-1. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
+1. [阅读青年和面上基金本子感悟：8个常见错误不要犯！](https://mp.weixin.qq.com/s/6F1n87gXWK2toXnZ-7a-DQ) 2020.09.26.
 
 
-2. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
+2. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
 
 
-3. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+3. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
 
 
-4. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
+4. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+
+
+5. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
 
 
 
