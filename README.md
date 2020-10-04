@@ -55,55 +55,61 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
+1. [​博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
 
 
-2. [​读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
+2. [​避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
 
 
-3. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
+3. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
 
 
-4. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
+4. [​读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
 
 
-5. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
+5. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
 
 
-6. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
+6. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
 
 
-7. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
+7. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
 
 
-8. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
+8. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
 
 
-9. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
+9. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
 
 
-10. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
+10. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
 
 
-11. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
+11. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
 
 
-12. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
+12. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
 
 
-13. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+13. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
 
 
-14. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
+14. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
 
 
-15. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+15. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
-16. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+16. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
 
 
-17. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+17. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+
+
+18. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+
+
+19. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
 
@@ -246,62 +252,71 @@ Table of Contents
 
 
 ## 博士学位论文
-1. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ).
+1. [如何撰写高水平的博士论文？超全论文指导！](https://mp.weixin.qq.com/s/TTbWrCzNTtg3IYdjnLhs-A) 2020.09.28.
 
 
-2. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
+2. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ).
 
 
-3. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
+3. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
 
 
-4. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
+4. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
-5. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+5. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-6. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
+6. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+
+
+7. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
 
 ## 我国博士研究生累积招生情况
-1. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
+1. [教育部：2025年专硕扩招到研究生总规模2/3](https://mp.weixin.qq.com/s/i1KHpQDle4M4r08U3ZyTLw). 中国教育在线. 2020.10.02. 
+
+
+2. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
 
 
 ## 我国博士研究生培养结构
-1. [导师让学生干私活？教育部决定......](https://mp.weixin.qq.com/s/rwr1nQkMCuIjN7cq-c3wZw). 2020.09.23. 
+1. [“土博士”和“洋博士”哪个更厉害？读哪个更好？](https://mp.weixin.qq.com/s/ntjsmjrEV8xrWjzCbYM1XQ) 2020.09.28. 
 
 
-2. [教育部：要敢于让人毕不了业，坚决杜绝研究生学位“注水”](https://3w.huanqiu.com/a/564394/3zzNhE3RPoj?agt=20&tt_from=weixin&tt_group_id=6875267362271003144&utm_campaign=client_share&wxshare_count=1&timestamp=1600796461&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020092301410001002202015227AF7C48&group_id=6875267362271003144). 2020.09.22. 
+2. [导师让学生干私活？教育部决定......](https://mp.weixin.qq.com/s/rwr1nQkMCuIjN7cq-c3wZw). 2020.09.23. 
 
 
-3. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
+3. [教育部：要敢于让人毕不了业，坚决杜绝研究生学位“注水”](https://3w.huanqiu.com/a/564394/3zzNhE3RPoj?agt=20&tt_from=weixin&tt_group_id=6875267362271003144&utm_campaign=client_share&wxshare_count=1&timestamp=1600796461&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020092301410001002202015227AF7C48&group_id=6875267362271003144). 2020.09.22. 
 
 
-4. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
+4. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
 
 
-5. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
+5. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
 
 
-6. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
+6. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
 
 
-7. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
+7. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
 
 
-8. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
+8. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
 
 
-9. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+9. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
 
 
-10. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+10. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
 
 
-11. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
+11. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+
+
+12. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
 
 
 
@@ -379,10 +394,13 @@ Table of Contents
 
 
 ## 谨慎破除“唯论文”现象
-1. [​不唯SCI，博士生要怎么培养？当我们反对SCI至上时，我们到底在反对什么？](https://mp.weixin.qq.com/s/hNiqOJum-Kr0F4riawaeAA)  2020.08.24. 
+1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
 
 
-2. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
+2. [​不唯SCI，博士生要怎么培养？当我们反对SCI至上时，我们到底在反对什么？](https://mp.weixin.qq.com/s/hNiqOJum-Kr0F4riawaeAA)  2020.08.24. 
+
+
+3. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
 
 
 
@@ -429,6 +447,6 @@ Table of Contents
 1. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
 
 
-updated in 2020.09.25
+updated in 2020.09.29
 
 
