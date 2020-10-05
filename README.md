@@ -157,7 +157,7 @@ Table of Contents
 
 
 ## 如何写论文
-1. [文献综述怎么写？这篇文章说的透彻！](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g). 2020.10.05.
+1. [文献综述怎么写？这篇文章说的透彻！](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g) 2020.10.05.
 
 
 2. [最担心的事情还是发生了？SCI论文被拒稿的所有问题都在这里](https://www.toutiao.com/i6873611828962951694/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600429810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009181950090101441200672A04409B&group_id=6873611828962951694). 2020.09.18.
