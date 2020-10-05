@@ -397,7 +397,7 @@ Table of Contents
 
 
 ## 谨慎破除“唯论文”现象
-1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
+1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的.](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
 
 
 2. [​不唯SCI，博士生要怎么培养？当我们反对SCI至上时，我们到底在反对什么？](https://mp.weixin.qq.com/s/hNiqOJum-Kr0F4riawaeAA)  2020.08.24. 
