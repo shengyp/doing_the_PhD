@@ -55,61 +55,64 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [​博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
+1. [​985高校教授：给初涉科研同学的八条建议](https://mp.weixin.qq.com/s/AgnVuuthhakib5PbZuOIyA). 2020.10.07.
 
 
-2. [​避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
+2. [​博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
 
 
-3. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
+3. [​避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
 
 
-4. [​读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
+4. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
 
 
-5. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
+5. [​读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
 
 
-6. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
+6. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
 
 
-7. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
+7. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
 
 
-8. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
+8. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
 
 
-9. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
+9. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
 
 
-10. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
+10. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
 
 
-11. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
+11. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
 
 
-12. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
+12. [如何规划自己的博士五年生活？](https://mp.weixin.qq.com/s/CK9VuozM4Ot23sz2VGAkDQ)  2020.08.14.
 
 
-13. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
+13. [顶会最佳论文奖得主：初入科研领域，如何正确做科研？](https://mp.weixin.qq.com/s/nMpERKYOmNhLNQrXUxcBfA)  2020.08.06. 
 
 
-14. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
+14. [科研新手入门初探](https://mp.weixin.qq.com/s/BnKESACUwSOOff2y4tWVCw). 2020.07.06. 
 
 
-15. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
+15. [[ICLR 2020] Tips for prospective and early-stage PhD students (如何读一个成功的机器学习博士)](./report/Tips_for_prospective_and_early-stage_PhD_students.pdf). 2020.05.02. 
 
 
-16. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
+16. Lucy A. Taylor. [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x). [[这20件事，我真希望我读博前就知道]](https://mp.weixin.qq.com/s/tJ93cun139eDiOCEzQkN2g) 
 
 
-17. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
+17. [Doing the PhD](https://port.sas.ac.uk/mod/book/view.php?id=1553&chapterid=1444). [[如何入坑PhD？这份读博指南教你如何做笔记、整理参考书目、管理时间、如何写作、对自己和导师合理预期]](https://mp.weixin.qq.com/s/KslzBsIINqhmCLR9xgcH2g) 
 
 
-18. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+18. [Making a Positive Start to Your PhD or Professional Doctorate (为读博入坑开个好头)](https://3b019afd-1feb-4a2f-85e6-8dceac7c66ea.filesusr.com/ugd/489d73_620fda29be1542549ad753cbc8df8ebe.pdf). 2020.07.01
 
 
-19. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
+19. [Advice to PhD students (读博士有风险？这43条建议为你指向希望的彼岸)](https://www.ncbs.res.in/sites/default/files/users/sandhyab/PhDstudents.pdf). 2017.12.14.
+
+
+20. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
 
@@ -157,79 +160,82 @@ Table of Contents
 
 
 ## 如何写论文
-1. [文献综述怎么写？这篇文章说的透彻！](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g) 2020.10.05.
+1. [保持高效论文写作的10个原则！](https://mp.weixin.qq.com/s/qYu3obNgDlG3dkNcZpjShA) 2020.10.09.
 
 
-2. [最担心的事情还是发生了？SCI论文被拒稿的所有问题都在这里](https://www.toutiao.com/i6873611828962951694/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600429810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009181950090101441200672A04409B&group_id=6873611828962951694). 2020.09.18.
+2. [文献综述怎么写？这篇文章说的透彻！](https://mp.weixin.qq.com/s/ZWD1uBZHVY2pVXexR5yn_g) 2020.10.05.
 
 
-3. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw)
+3. [最担心的事情还是发生了？SCI论文被拒稿的所有问题都在这里](https://www.toutiao.com/i6873611828962951694/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600429810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009181950090101441200672A04409B&group_id=6873611828962951694). 2020.09.18.
 
 
-4. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
+4. [如何把文献综述写得清新脱俗？](https://mp.weixin.qq.com/s/JG1bL6DTbnjZCYoUMLE3Lw)
 
 
-5. 【SCI论文写作 | 科研狗如何逃过审稿人暴击】[第一期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247503971&idx=1&sn=6caa6249e8b37210985b2b025ec08fd4&chksm=e8d1a7b8dfa62eaec6c11492acf7adb570081143c8e9acf29717f833735b01a8c364eb9008f8&scene=21#wechat_redirect) | [第二期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247504405&idx=2&sn=c308773d68d7b62faa69e504d5bc17c1&chksm=e8d1a5cedfa62cd891c59943ca7fbccae5804cfaca5692f80952851a1dc3c0ce0c89c000d9dc&scene=21#wechat_redirect) | [第三期](https://mp.weixin.qq.com/s/03yQTjfEPuYS94_8BlfF5g).
+5. 李龙科. [如何做好⼀份学术报告 & 简单介绍 LaTeX 的使用](http://cicpi.ustc.edu.cn/indico/getFile.py/access?sessionId=2&resId=1&materialId=0&confId=681).
 
 
-6. [211硕士毕业作，第一篇1区SCI论文发表经验谈](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244). 2020.07.30.
+6. 【SCI论文写作 | 科研狗如何逃过审稿人暴击】[第一期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247503971&idx=1&sn=6caa6249e8b37210985b2b025ec08fd4&chksm=e8d1a7b8dfa62eaec6c11492acf7adb570081143c8e9acf29717f833735b01a8c364eb9008f8&scene=21#wechat_redirect) | [第二期](https://mp.weixin.qq.com/s?__biz=MzIzNjc0MTMwMA==&mid=2247504405&idx=2&sn=c308773d68d7b62faa69e504d5bc17c1&chksm=e8d1a5cedfa62cd891c59943ca7fbccae5804cfaca5692f80952851a1dc3c0ce0c89c000d9dc&scene=21#wechat_redirect) | [第三期](https://mp.weixin.qq.com/s/03yQTjfEPuYS94_8BlfF5g).
 
 
-7. [中国学生写论文常见毛病：冗长、无聊、不注重用图美感？](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA). AI科技评论. 2020.08.01.
+7. [211硕士毕业作，第一篇1区SCI论文发表经验谈](https://www.toutiao.com/i6855168325979210244/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276403&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011806430101470830762152DB4D&group_id=6855168325979210244). 2020.07.30.
 
 
-8. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
+8. [中国学生写论文常见毛病：冗长、无聊、不注重用图美感？](https://mp.weixin.qq.com/s/sAlVnqsG_GqIUWA-JoX5gA). AI科技评论. 2020.08.01.
 
 
-9. [《科研论文撰写策略》](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA). 2020.06.15.
+9. William T.Freeman. [How to write a good paper (如何写好一篇顶会论文, 来自CVPR 2020)](https://mp.weixin.qq.com/s/CpICiPiBmX2l4kDdFcJz4Q).
 
 
-10. [How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw). 2020.05.15. [[PPT]](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)
+10. [《科研论文撰写策略》](https://mp.weixin.qq.com/s/u8pCkdHKzSQZglB2eLNZVA). 2020.06.15.
 
 
-11. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
+11. [How to write an effective paper summary? (如何写一份有效的机器学习/自然语言处理论文摘要)](https://mp.weixin.qq.com/s/3CDt9YIIQFRYlcTf9Itvmw). 2020.05.15. [[PPT]](./tutorials/How_to_write_an_effective_ML_or_NLP_paper_summary.pdf)
 
 
-12. 【智源论坛Live】 [论文写作小白的成长之路](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng). 2020.04.02 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf) | [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf) | [计算机视觉会议论文从投稿到接收]. 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
+12. [高产来自“长期主义”：智源学者朱军谈ICLR 2020 全球发文第二的经验法则](https://mp.weixin.qq.com/s/YfMbhXYSM8lgc0-HirGAeg). 2020.05.02.
 
 
-13. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). 2020.04.01. [[Video]](http://www.mooc.ai/course/778)
+13. 【智源论坛Live】 [论文写作小白的成长之路](https://mp.weixin.qq.com/s/L3rNCFl6MLxcd8mIM5-cng). 2020.04.02 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/兰艳艳_中科院_论文写作小白的成长之路.pdf) | [如何以初学者的身份写好一篇国际学术论文](https://mp.weixin.qq.com/s/v8AuRYtLuQoRkwgsreqsZw). 2020.04.10 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/赵鑫_中国人民大学_如何以初学者的身份写好一篇国际学术论文.pdf) | [计算机视觉会议论文从投稿到接收]. 2020.03.17 智源论坛Live # 学术论文写作专题报告会. [[PPT]](./tutorials/施柏鑫_北京大学_计算机视觉会议论文从投稿到接收.pdf)
 
 
-14. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
+14. [人大赵鑫： 如何以初学者角度写好一篇国际学术论文](https://mp.weixin.qq.com/s/Kb9Vnl3gpYWsOC-AY1TjTw). 2020.04.01. [[Video]](http://www.mooc.ai/course/778)
 
 
-15. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). 2020.03.21. [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
+15. [【SCI】牛人写SCI常用经典词和常用句型](https://mp.weixin.qq.com/s/-j_5iQZs_8DzqMfLYt7L4g). 2020.03.29.
 
 
-16. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g).  2020.03.13. [[Video]](https://www.bilibili.com/video/av95344119)
+16. [厦大林子雨： 论文是怎样炼成的](https://mp.weixin.qq.com/s/hZ1bNssbSOCqU_ixTKgtrg). 2020.03.21. [[PPT]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
 
 
-17. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
+17. [本科4篇顶会论文如何做到？清华特奖高天宇干货分享：我是这样写论文、做实验、与导师相处](https://mp.weixin.qq.com/s/iaNTQ5WnLIpqNlytGa7N4g).  2020.03.13. [[Video]](https://www.bilibili.com/video/av95344119)
 
 
-18. [如何写一篇合格的NLP论文？](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA). 2019.11.28.
+18. [清华大学刘洋教授： 浅谈研究生学位论文选题方法](https://mp.weixin.qq.com/s/HeWV1JFXt7TbXRzSUUXP9Q). 2020.03.07, 1h视频公开课. [[PPT]](./report/浅谈研究生学位论文选题.pdf) [[Video]](http://live.weibo.com/show?id=1042152:607f38f3d74c851faa2e56425cdc3394)
 
 
-19. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
+19. [如何写一篇合格的NLP论文？](https://mp.weixin.qq.com/s/q0AHWxMBFwehzjYvqYPdFA). 2019.11.28.
 
 
-20. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
+20. [How to Write a Good Scientific Paper](https://spie.org/samples/9781510619142.pdf). 2019.09.
 
 
-21. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
+21. [Writing a scientific paper, step by painful step](./tutorials/Lafferty_WritingScientificPaper.pdf) | [Styling and structuring the literature review](./tutorials/Styling_and_structuring_the_literature_review.pdf) | [Translanguaging and Academic Writing](./tutorials/Translanguaging_Academic_Writing.pdf) | [Writing a Literature Review](./tutorials/Writing_a_Literature_Review.pdf) | [Writing for Impact: How to Prepare a Journal Article](./tutorials/WritingResearchPaper_Ibrahim.pdf).
 
 
-22. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 | [施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)
+22. [SCI高级句型改造原则与技巧](https://www.sohu.com/a/288105939_773056). 2019.01.10.
 
 
-23. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
+23. [施一公：我有6个办法提高英文科研写作能力](http://www.360doc.com/content/18/1207/18/1520684_800041281.shtml). 2018.12.07 | [施一公：高年级博士、博士后、PI如何提高英文科研写作能力？](https://mp.weixin.qq.com/s/rQRoqO8Oxoidpfp_OFONKw)
 
 
-24. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+24. [教你六步写好一篇学术论文](https://www.sohu.com/a/215177192_683950). 2018.01.07.
 
 
-25. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
+25. [How I Write: An Inquiry Into the Writing Practices of Academics](http://sage.cnpereading.com/paragraph/download/10.1177/1056492615585875). 2016.
+
+
+26. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
 
@@ -244,13 +250,16 @@ Table of Contents
 
 
 ## 延期毕业问题
-1. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
+1. [博士生延期的十大原因！以及导师无法原谅你的五个错误……](https://mp.weixin.qq.com/s/-cStKx_PijLUGyaZSNoF2g) 浙大学报英文版. 2020.10.09. 
 
 
-2. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+2. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
 
 
-3. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
+3. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+
+
+4. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
 
 
 
@@ -379,19 +388,22 @@ Table of Contents
 1. [自科基金大比拼！下一轮双一流，谁能上车？谁会下车？](https://mp.weixin.qq.com/s/wh3t2SDys_nqUjcAjtrHew) 2020.10.04.
 
 
-2. [阅读青年和面上基金本子感悟：8个常见错误不要犯！](https://mp.weixin.qq.com/s/6F1n87gXWK2toXnZ-7a-DQ) 2020.09.26.
+2. [杨卫院士详解科研评审制度：基金申请5点实用建议！](https://mp.weixin.qq.com/s/tuQAoWiE6MjGuGSePaFCPw) 2020.10.01.
 
 
-3. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
+3. [阅读青年和面上基金本子感悟：8个常见错误不要犯！](https://mp.weixin.qq.com/s/6F1n87gXWK2toXnZ-7a-DQ) 2020.09.26.
 
 
-4. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
+4. [步步惊心：高校聘用合同可能潜藏的十大陷阱](https://www.toutiao.com/i6857040046323991052/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541551&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008041945500100200760981E095AFE&group_id=6857040046323991052) 2020.08.04.
 
 
-5. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+5. [高校青年教师为何容易掉入聘用合同陷阱？](https://www.toutiao.com/i6855278848330859020/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596194145&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202007311915440101470831042D0AC43D&group_id=6855278848330859020) 2020.07.30.
 
 
-6. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
+6. [真诚发问：为什么博士毕业首选去高校任职](https://mp.weixin.qq.com/s/t0Btzt4NPzHcEJEzo1HGkA). 2020.07.27. 
+
+
+7. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
 
 
 
