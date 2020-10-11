@@ -264,31 +264,34 @@ Table of Contents
 
 
 ## 博士学位论文
-1. [重磅：学位论文作假将纳入信用记录！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247514797&idx=2&sn=ab303e8b4d71deaeed47cf74da3a6105&chksm=fd43c834ca3441220dc9366e4353a73505a3b3d291192feab01a646e4560f33fdb917d9998df&scene=21#wechat_redirect) 2020.09.
+1. [这篇博士毕业论文致谢句句诛心......](https://mp.weixin.qq.com/s/ZcplsvbATBWUOQyrYsHxfQ) 2020.10.10.
 
 
-2. [最新！教育部发文：立刻全面排查近5年博士、硕士学位论文作假行为！](https://mp.weixin.qq.com/s/T3J8Xsel0zz8AgdrKk46wA) 2020.09.05.
+2. [重磅：学位论文作假将纳入信用记录！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247514797&idx=2&sn=ab303e8b4d71deaeed47cf74da3a6105&chksm=fd43c834ca3441220dc9366e4353a73505a3b3d291192feab01a646e4560f33fdb917d9998df&scene=21#wechat_redirect) 2020.09.
 
 
-3. [如何撰写高水平的博士论文？超全论文指导！](https://mp.weixin.qq.com/s/TTbWrCzNTtg3IYdjnLhs-A) 2020.09.28.
+3. [最新！教育部发文：立刻全面排查近5年博士、硕士学位论文作假行为！](https://mp.weixin.qq.com/s/T3J8Xsel0zz8AgdrKk46wA) 2020.09.05.
 
 
-4. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ).
+4. [如何撰写高水平的博士论文？超全论文指导！](https://mp.weixin.qq.com/s/TTbWrCzNTtg3IYdjnLhs-A) 2020.09.28.
 
 
-5. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
+5. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ).
 
 
-6. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
+6. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
 
 
-7. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
+7. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
-8. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+8. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-9. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
+9. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+
+
+10. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
 
@@ -348,34 +351,37 @@ Table of Contents
 
 
 ## 灵魂拷问
-1. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
+1. [原本要与Hinton当同事，最后被迫Bengio门下读博？ | 独立研究员的坎坷之路](https://mp.weixin.qq.com/s/j9EXWftG5bTJY8QdvI1k1w). 2020.10.10.
 
 
-2. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
+2. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
 
 
-3. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+3. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
 
-4. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
+4. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
 
 
-5. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
+5. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
 
 
-6. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
+6. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
 
 
-7. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+7. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
 
 
-8. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+8. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-9. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+9. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-10. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+10. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+11. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
