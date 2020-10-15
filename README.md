@@ -354,37 +354,40 @@ Table of Contents
 
 
 ## 灵魂拷问
-1. [原本要与Hinton当同事，最后被迫Bengio门下读博？ | 独立研究员的坎坷之路](https://mp.weixin.qq.com/s/j9EXWftG5bTJY8QdvI1k1w). 2020.10.10.
+1. [大连理工的悲剧发生后，读博又休学的我有些话想说](https://mp.weixin.qq.com/s/hsFV7RRMBoxbWAHGLeRTlw). 2020.10.15.
 
 
-2. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
+2. [原本要与Hinton当同事，最后被迫Bengio门下读博？ | 独立研究员的坎坷之路](https://mp.weixin.qq.com/s/j9EXWftG5bTJY8QdvI1k1w). 2020.10.10.
 
 
-3. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
+3. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
 
 
-4. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+4. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
 
-5. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
+5. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
 
 
-6. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
+6. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
 
 
-7. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
+7. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
 
 
-8. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+8. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
 
 
-9. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+9. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-10. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+10. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-11. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+11. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+12. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
