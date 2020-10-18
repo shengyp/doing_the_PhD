@@ -460,10 +460,13 @@ Table of Contents
 
 
 ## 这些事不干
-1. [科技部查处一批论文造假案：南医大苏州医院肾内科主任被解聘](https://www.toutiao.com/i6872899576735465997/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600238277&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009161437570101441311344388C72E&group_id=6872899576735465997)  2020.09.16
+1. [2019诺贝尔奖得主塞门扎翻车！论文涉嫌造假，网友：P图才是科研利器？](https://mp.weixin.qq.com/s/4EMg__C1cB0YmkB2cMO9gQ)  2020.10.18
 
 
-2. [这所985大学宣布调查结果：论文抄袭事实成立！撤销其硕士学位！](https://mp.weixin.qq.com/s/q2wss3K9vEYjYhiSMPrzAA)  2020.08.12
+2. [科技部查处一批论文造假案：南医大苏州医院肾内科主任被解聘](https://www.toutiao.com/i6872899576735465997/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600238277&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009161437570101441311344388C72E&group_id=6872899576735465997)  2020.09.16
+
+
+3. [这所985大学宣布调查结果：论文抄袭事实成立！撤销其硕士学位！](https://mp.weixin.qq.com/s/q2wss3K9vEYjYhiSMPrzAA)  2020.08.12
 
 
 3. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
@@ -499,6 +502,6 @@ Table of Contents
 
 
 
-updated in 2020.10.14
+updated in 2020.10.18
 
 
