@@ -498,14 +498,17 @@ Table of Contents
 
 
 ## 英才陨落
-1. [痛惜！年仅42岁，复旦年轻女教授因病医治无效去世](https://mp.weixin.qq.com/s/JDKYfZcOehSJJkgzd9rfaQ). 2020.10.14.
+1. [巨星陨落：武大首位女院士张俐娜院士逝世，46岁才开始科研](https://mp.weixin.qq.com/s/nowkuK4XxfBER2IV_i3kUA). 2020.10.19.
 
 
-2. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
+2. [痛惜！年仅42岁，复旦年轻女教授因病医治无效去世](https://mp.weixin.qq.com/s/JDKYfZcOehSJJkgzd9rfaQ). 2020.10.14.
+
+
+3. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
 
 
 
 
-updated in 2020.10.18
+updated in 2020.10.19
 
 
