@@ -50,7 +50,7 @@ Table of Contents
 4. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
 
 
-5. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A). 2020.06.27. 
+5. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A) 2020.06.27. 
 
 
 
@@ -338,7 +338,7 @@ Table of Contents
 10. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
 
 
-11. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w). 2020.08.28. 
+11. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w) 2020.08.28. 
 
 
 12. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
