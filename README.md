@@ -80,7 +80,7 @@ Table of Contents
 8. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
 
 
-9. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ).
+9. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)
 
 
 10. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
@@ -161,7 +161,7 @@ Table of Contents
 
 
 ## 如何写论文
-1. [优化“论文结构”，教你写出一篇高分SCI](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180) 2020.10.25.
+1. [优化“论文结构”，教你写出一篇高分SCI.](https://www.toutiao.com/i6887440181578695180/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603624108&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201025190827010147083104170C5670&group_id=6887440181578695180) 2020.10.25.
 
 
 2. [保持高效论文写作的10个原则！](https://mp.weixin.qq.com/s/qYu3obNgDlG3dkNcZpjShA) 2020.10.09.
