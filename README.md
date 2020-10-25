@@ -497,7 +497,7 @@ Table of Contents
 7. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
 
 
-8. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651). 2020.08.01. 
+8. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651) 2020.08.01. 
 
 
 
