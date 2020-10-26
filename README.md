@@ -249,7 +249,10 @@ Table of Contents
 
 
 ## 博士生的导师
-1. Adrian Lee, Carina Dennis and Philip Campbell. [Nature’s guide for mentors](https://www.nature.com/articles/447791a.pdf). 2020.06.06. [[《Nature》发文：好导师的16个标准]](https://www.toutiao.com/i6835253788102623747/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1591526703&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202006071845020100260760843B257EE1&group_id=6835253788102623747) 
+1. [学生不努力，导师能怎么办？](https://hub.baai.ac.cn/view/3027) 2020.10.22. 
+
+
+2. Adrian Lee, Carina Dennis and Philip Campbell. [Nature’s guide for mentors](https://www.nature.com/articles/447791a.pdf). 2020.06.06. [[《Nature》发文：好导师的16个标准]](https://www.toutiao.com/i6835253788102623747/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1591526703&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202006071845020100260760843B257EE1&group_id=6835253788102623747) 
 
 
 
