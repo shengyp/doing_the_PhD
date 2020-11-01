@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [灵魂拷问]、 [博士后了没]、  [博士生的去向]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这22个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这23个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -25,6 +25,7 @@ Table of Contents
   * [我国博士研究生培养结构](#我国博士研究生培养结构)
   * [灵魂拷问](#灵魂拷问)
   * [博士后了没](#博士后了没)
+  * [洋博士们](#洋博士们)
   * [毕业生的去向](#毕业生的去向)
   * [青椒的苦恼](#青椒的苦恼)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
@@ -257,19 +258,22 @@ Table of Contents
 
 
 ## 延期毕业问题
-1. [加快读博失败的10种方法](https://mp.weixin.qq.com/s/CyCPxLk7u-ECTcMNaFK_MQ). 2020.10.28. 
+1. [985名校开除52名博士生：在最好的位置懒惰，你会失去什么？](https://www.toutiao.com/i6889689045614461452/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1604163836&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202011010103560101441200671A64373B&group_id=6889689045614461452) 2020.10.31.
 
 
-2. [博士生延期的十大原因！以及导师无法原谅你的五个错误……](https://mp.weixin.qq.com/s/-cStKx_PijLUGyaZSNoF2g) 浙大学报英文版. 2020.10.09. 
+2. [加快读博失败的10种方法](https://mp.weixin.qq.com/s/CyCPxLk7u-ECTcMNaFK_MQ). 2020.10.28. 
 
 
-3. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
+3. [博士生延期的十大原因！以及导师无法原谅你的五个错误……](https://mp.weixin.qq.com/s/-cStKx_PijLUGyaZSNoF2g) 浙大学报英文版. 2020.10.09. 
 
 
-4. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+4. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
 
 
-5. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
+5. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+
+
+6. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
 
 
 
@@ -409,6 +413,10 @@ Table of Contents
 
 ## 博士后了没
 1. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
+
+
+## 洋博士们
+1. [国外博士生都过的啥日子？](https://mp.weixin.qq.com/s/6ELJPPQtcPXIekDnhpKLhQ) 2020.10.29.
 
 
 ## 毕业生的去向
