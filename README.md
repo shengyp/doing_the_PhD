@@ -462,16 +462,19 @@ Table of Contents
 
 
 ## 高校岗位设置与评价体制
-1. [施一公：西湖大学评审终身副教授，为何让教师“讲故事”？](https://export.shobserver.com/toutiao/html/303005.html?tt_from=weixin&tt_group_id=6886439840687063565&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407309&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306550901002202604006A7C387&group_id=6886439840687063565)  2020.10.22. 
+1. [IEEE首位华人主席：不能再用数数评价科研人员，学术界崇尚的是「质」](https://mp.weixin.qq.com/s/H7XpYYxgLC5cb36lpn1Kig)  2020.11.07. 
 
 
-2. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ)  规国ABC. 2020.08.09. 
+2. [施一公：西湖大学评审终身副教授，为何让教师“讲故事”？](https://export.shobserver.com/toutiao/html/303005.html?tt_from=weixin&tt_group_id=6886439840687063565&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407309&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306550901002202604006A7C387&group_id=6886439840687063565)  2020.10.22. 
 
 
-3. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+3. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ)  规国ABC. 2020.08.09. 
 
 
-4. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
+4. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+
+
+5. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
 
 
 ## 教师待遇
