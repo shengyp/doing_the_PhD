@@ -554,17 +554,23 @@ Table of Contents
 
 
 ## 英才陨落
-1. [巨星陨落：武大首位女院士张俐娜院士逝世，46岁才开始科研](https://mp.weixin.qq.com/s/nowkuK4XxfBER2IV_i3kUA). 2020.10.19.
+1. [姚期智恩师刘炯朗去世，享年86岁](https://mp.weixin.qq.com/s/SUkdXelOZ02JZcffXHEnew). 2020.11.09.
 
 
-2. [痛惜！年仅42岁，复旦年轻女教授因病医治无效去世](https://mp.weixin.qq.com/s/JDKYfZcOehSJJkgzd9rfaQ). 2020.10.14.
+2. [“黄瓜王”侯锋院士逝世！今年已送别34位共和国两院院士](https://mp.weixin.qq.com/s/iMWBcxH-aIy-Ck1TtDbKLQ). 2020.11.09.
 
 
-3. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
+3. [巨星陨落：武大首位女院士张俐娜院士逝世，46岁才开始科研](https://mp.weixin.qq.com/s/nowkuK4XxfBER2IV_i3kUA). 2020.10.19.
+
+
+4. [痛惜！年仅42岁，复旦年轻女教授因病医治无效去世](https://mp.weixin.qq.com/s/JDKYfZcOehSJJkgzd9rfaQ). 2020.10.14.
+
+
+5. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
 
 
 
 
-updated in 2020.10.28
+updated in 2020.11.09
 
 
