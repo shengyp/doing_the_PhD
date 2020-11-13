@@ -494,6 +494,10 @@ http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200870
 ) 2020.12. [[Report]](https://mp.weixin.qq.com/s/Ph9--ufP9i4s_DYVo3GX5Q)
 
 
+2. [重磅消息：《2021年度国家自然科学基金项目指南》拟12月中旬发布](
+https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
+
+
 
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
