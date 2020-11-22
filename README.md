@@ -331,6 +331,9 @@ Table of Contents
 1. [二十载AI论文大调查，十万多篇论文分析“学界鸿沟在加剧”](https://mp.weixin.qq.com/s/C91ofL_fNMPjEWhHfz-OVg). AI科技评论. 2020.11.22. 
 
 
+2. [ei刊物和sci刊物区别](https://www.toutiao.com/i6897466130898715147/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605991937&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201122045216010028056197135D2531&group_id=6897466130898715147). 2020.11.21. 
+
+
 
 ## 我国博士研究生累积招生情况
 1. [教育部：2025年专硕扩招到研究生总规模2/3](https://mp.weixin.qq.com/s/i1KHpQDle4M4r08U3ZyTLw). 中国教育在线. 2020.10.02. 
