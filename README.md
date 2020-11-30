@@ -43,25 +43,28 @@ Table of Contents
 
 
 ## 一个执着的决定
-1. [读博意味着什么？如何趟过这个坑，Suzan这几页slides给你指南下](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg)  2020.11.26. 
+1. [要不要读博？机器学习博五学生和强化学习博士展开了一场battle](https://mp.weixin.qq.com/s/L57qcEXiYNc1Thvu6hOtIw)  2020.11.30. 
 
 
-2. [我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg)  2020.11.05. 
+2. [读博意味着什么？如何趟过这个坑，Suzan这几页slides给你指南下](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg)  2020.11.26. 
 
 
-2. [什么才是读博的真正理由？](https://mp.weixin.qq.com/s/mR-Zck1w8Vpn2tKbcIxowQ)  2020.09.06. 
+3. [我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg)  2020.11.05. 
 
 
-3. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
+4. [什么才是读博的真正理由？](https://mp.weixin.qq.com/s/mR-Zck1w8Vpn2tKbcIxowQ)  2020.09.06. 
 
 
-4. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
+5. [做导师的第一届博士好不好？](https://www.zhihu.com/question/339449769/answer/1419213630?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632) 
 
 
-5. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
+6. [本硕双非决战985博士，一战失败，二战成名！](https://mp.weixin.qq.com/s/SvQysj1ilCqheXzswlGnhg)  2020.08.13. 
 
 
-6. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A) 2020.06.27. 
+7. [一位疫情期间上岸博士的经验分享](https://mp.weixin.qq.com/s/X3Kx36XtObJsJmvMyFsp0A). 2020.08.06. 
+
+
+8. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A) 2020.06.27. 
 
 
 
