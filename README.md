@@ -267,7 +267,10 @@ Table of Contents
 
 
 ## 如何投论文
-1. [国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA). 2020.10.26.
+1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g). 2020.10.30.
+
+
+2. [国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA). 2020.10.26.
 
 
 
@@ -359,58 +362,61 @@ Table of Contents
 
 
 ## 我国博士研究生培养结构
-1. [创新谈：培养更多帅才型科学家](https://m2.people.cn/r/MV8xXzMxOTA1ODIzXzEwNTNfMTYwMzY3NDM0OQ==?source=xiao&tt_from=weixin&tt_group_id=6887730246427247111&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603890739&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202010282112190100220201520C18CDDF&group_id=6887730246427247111) 2020.10.26.
+1. [打破“唯名校”论！教育部：毕业院校、是否全日制…不得作为招聘限制条件](https://mp.weixin.qq.com/s/uzFZoDLq7_XtM2R8Bywx8g). 2020.10.26.
 
 
-2. [教育部部长：推动有关部门把该放的事权、人权、财权放给学校](https://www.toutiao.com/i6886416240789684749/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407271&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306543101002202604006A7BF57&group_id=6886416240789684749) 2020.10.22.
+2. [创新谈：培养更多帅才型科学家](https://m2.people.cn/r/MV8xXzMxOTA1ODIzXzEwNTNfMTYwMzY3NDM0OQ==?source=xiao&tt_from=weixin&tt_group_id=6887730246427247111&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603890739&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202010282112190100220201520C18CDDF&group_id=6887730246427247111). 2020.10.26.
 
 
-3. [重磅文件：《深化新时代教育评价改革总体方案》出台](https://mp.weixin.qq.com/s/W9gfgVxdMEzOXhrOQFArlg) 2020.10.15. 
+3. [教育部部长：推动有关部门把该放的事权、人权、财权放给学校](https://www.toutiao.com/i6886416240789684749/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407271&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306543101002202604006A7BF57&group_id=6886416240789684749) 2020.10.22.
 
 
-4. [教育部：将给予导师决定硕博士能否毕业的自主权！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515306&idx=1&sn=2b5662b67f77f6f13b8e09419e149687&chksm=fd43ce33ca344725b6f6ca41cc625e76934fd041faec26cd3c9db014185d6fa32fcb3f69dee1&scene=21#wechat_redirect) 2020.09. 
+4. [重磅文件：《深化新时代教育评价改革总体方案》出台](https://mp.weixin.qq.com/s/W9gfgVxdMEzOXhrOQFArlg) 2020.10.15. 
 
 
-5. [重磅！教育部连发两文：不适合的导师，退出！不适合的研究生，分流！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515596&idx=3&sn=4f5625fa30122f58a44b4c1731964da7&chksm=fd43cf55ca3446437a35e22df16fbcd24e97a6511d23255a24df3ec62abebb21cb93bf5172e4&scene=21#wechat_redirect) 2020.09. 
+5. [教育部：将给予导师决定硕博士能否毕业的自主权！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515306&idx=1&sn=2b5662b67f77f6f13b8e09419e149687&chksm=fd43ce33ca344725b6f6ca41cc625e76934fd041faec26cd3c9db014185d6fa32fcb3f69dee1&scene=21#wechat_redirect) 2020.09. 
 
 
-6. [导师要接受学生评价？如何加强博导岗位管理？教育部深度解读](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515679&idx=2&sn=d24c1e68bb48fa31a1f47568323aa0e7&chksm=fd43cc86ca3445909b565ff9ce65f4741c4a94cc0b093fc2210c1702c74de78801cc97810d95&scene=21#wechat_redirect) 2020.09. 
+6. [重磅！教育部连发两文：不适合的导师，退出！不适合的研究生，分流！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515596&idx=3&sn=4f5625fa30122f58a44b4c1731964da7&chksm=fd43cf55ca3446437a35e22df16fbcd24e97a6511d23255a24df3ec62abebb21cb93bf5172e4&scene=21#wechat_redirect) 2020.09. 
 
 
-7. [“土博士”和“洋博士”哪个更厉害？读哪个更好？](https://mp.weixin.qq.com/s/ntjsmjrEV8xrWjzCbYM1XQ) 2020.09.28. 
+7. [导师要接受学生评价？如何加强博导岗位管理？教育部深度解读](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247515679&idx=2&sn=d24c1e68bb48fa31a1f47568323aa0e7&chksm=fd43cc86ca3445909b565ff9ce65f4741c4a94cc0b093fc2210c1702c74de78801cc97810d95&scene=21#wechat_redirect) 2020.09. 
 
 
-8. [导师让学生干私活？教育部决定......](https://mp.weixin.qq.com/s/rwr1nQkMCuIjN7cq-c3wZw). 2020.09.23. 
+8. [“土博士”和“洋博士”哪个更厉害？读哪个更好？](https://mp.weixin.qq.com/s/ntjsmjrEV8xrWjzCbYM1XQ) 2020.09.28. 
 
 
-9. [教育部：要敢于让人毕不了业，坚决杜绝研究生学位“注水”](https://3w.huanqiu.com/a/564394/3zzNhE3RPoj?agt=20&tt_from=weixin&tt_group_id=6875267362271003144&utm_campaign=client_share&wxshare_count=1&timestamp=1600796461&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020092301410001002202015227AF7C48&group_id=6875267362271003144). 2020.09.22. 
+9. [导师让学生干私活？教育部决定......](https://mp.weixin.qq.com/s/rwr1nQkMCuIjN7cq-c3wZw). 2020.09.23. 
 
 
-10. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
+10. [教育部：要敢于让人毕不了业，坚决杜绝研究生学位“注水”](https://3w.huanqiu.com/a/564394/3zzNhE3RPoj?agt=20&tt_from=weixin&tt_group_id=6875267362271003144&utm_campaign=client_share&wxshare_count=1&timestamp=1600796461&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020092301410001002202015227AF7C48&group_id=6875267362271003144). 2020.09.22. 
 
 
-11. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
+11. [习近平在科学家座谈会上的讲话](https://mp.weixin.qq.com/s/9e5Fo-XHWVEiqMkLdQ7-eg). 2020.09.11. 
 
 
-12. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w) 2020.08.28. 
+12. [提升博士教育质量须加强博导岗位管理](https://www.toutiao.com/i6869909042429428237/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1599671209&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009100106480101470830480E3D077C&group_id=6869909042429428237). 2020.09.08. 
 
 
-13. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
+13. [29所一流大学延长学制！博士3年毕业有多难？](https://mp.weixin.qq.com/s/xV44mu4ex86fnUY5fyUq3w) 2020.08.28. 
 
 
-14. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
+14. [研究生“严进严出”培养成为新常态](https://www.toutiao.com/i6862478113217970695/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1597830170&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020081917424901014502602221263AC3&group_id=6862478113217970695). 光明网. 2020.08.19. 
 
 
-15. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
+15. [光明时评：取消论文“硬杠杠”是研究生教育分层分类发展的必然](https://m.gmw.cn/toutiao/2020-08/07/content_34068473.htm?tt_from=weixin&tt_group_id=6858148508478898695&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596807198&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200807213318010028056197085B9905&group_id=6858148508478898695). 光明网. 2020.08.07. 
 
 
-16. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
+16. [博士学制延长为4年 中国传媒大学启动研究生教育重大改革](https://rev.uar.hubpd.com/static/tpl/contentFrame/toutiao/contentFrame.html?itemId=96ee9e345a2b0be969320fa6d5e6192c&at=UAR-000405_374&tt_from=weixin&tt_group_id=6856955495291290126&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596541590&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020080419463001002607720906098FE6&group_id=6856955495291290126). 中国传媒大学. 2020.08.04. 
 
 
-17. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+17. [取消学术型硕士，增扩博士，北京大学这个学院做出研究生培养结构调整](https://mp.weixin.qq.com/s/RBTBxj_Ug0ByCXR2c3VAaA). 北京大学国家发展研究院（NSD）. 2020.06.18. 
 
 
-18. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
+18. [习近平对研究生教育工作作出重要指示](https://www.toutiao.com/i6854869658475397636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596033666&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020072922410601002805619708C2C231&group_id=6854869658475397636). 2020.07.29. 
+
+
+19. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
 
 
 
