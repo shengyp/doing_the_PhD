@@ -500,10 +500,13 @@ Table of Contents
 
 
 ## 博士后了没
-1. [【解读】中国博士后科学基金会负责人就新修订的《中国博士后科学基金资助规定》答记者问](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652004192&idx=1&sn=05d652002e57c2d8acd543cda3240ea0&chksm=81057273b672fb6507d0d4b6870f86d2336f320f2834183f8c19356608a2588fc451da011320&mpshare=1&scene=23&srcid=1105BlytWtbXtgjLbtCUxAkF&sharer_sharetime=1604665803634&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.07.29.
+1. [Nature首次「博士后」前景调查：计算机、数学学者最乐观，63%的人想继续留在学界](https://mp.weixin.qq.com/s/VHnPn0Oz799cVCwbwS12Bg). 2020.12.02.
 
 
-2. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
+2. [【解读】中国博士后科学基金会负责人就新修订的《中国博士后科学基金资助规定》答记者问](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652004192&idx=1&sn=05d652002e57c2d8acd543cda3240ea0&chksm=81057273b672fb6507d0d4b6870f86d2336f320f2834183f8c19356608a2588fc451da011320&mpshare=1&scene=23&srcid=1105BlytWtbXtgjLbtCUxAkF&sharer_sharetime=1604665803634&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.07.29.
+
+
+3. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
 
 
 
