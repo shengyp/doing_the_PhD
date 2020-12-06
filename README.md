@@ -354,10 +354,13 @@ Table of Contents
 
 
 ## 我国博士研究生累积招生情况
-1. [教育部：2025年专硕扩招到研究生总规模2/3](https://mp.weixin.qq.com/s/i1KHpQDle4M4r08U3ZyTLw). 中国教育在线. 2020.10.02. 
+1. [研究生再次大幅扩招！高校能否承载？教育部最新表态来了](https://mp.weixin.qq.com/s/vKrsqx2Fwyb6DFQsVMLW3Q). 2020.12.06. 
 
 
-2. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
+2. [教育部：2025年专硕扩招到研究生总规模2/3](https://mp.weixin.qq.com/s/i1KHpQDle4M4r08U3ZyTLw). 中国教育在线. 2020.10.02. 
+
+
+3. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
 
 
