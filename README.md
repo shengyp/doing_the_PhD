@@ -623,43 +623,46 @@ https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 
 
 ## 这些事不干
-1. [正道的光！苦等六年，天津大学原硕士研究生 123 页 PDF 实名举报学术不端教授，现已被天大火速解聘](https://mp.weixin.qq.com/s/BtZjHu9g1tsVCzVkiFZmig). 2020.11.20
+1. [论文中了顶会，却被曝抄袭前导师小组论文，多处原文及公式完全一致丨Reddit高热](https://mp.weixin.qq.com/s/eBTja_QRiODpSU7S-3p9RA). 2020.12.07
 
 
-2. [2005年IOI满分得主周源陷学术不端风波：以女友为一作身份发表学生论文](https://mp.weixin.qq.com/s/3cCtoSoiwRQ84kPgSJSSDA). 2020.11.07
+2. [正道的光！苦等六年，天津大学原硕士研究生 123 页 PDF 实名举报学术不端教授，现已被天大火速解聘](https://mp.weixin.qq.com/s/BtZjHu9g1tsVCzVkiFZmig). 2020.11.20
 
 
-3. [突发 | 北大博士在美被21岁中国留学生刺死，留下一双女儿，更多细节曝光](https://mp.weixin.qq.com/s/gI9KLwTJzDvqRO_lOwW4bg)  2020.10.28
+3. [2005年IOI满分得主周源陷学术不端风波：以女友为一作身份发表学生论文](https://mp.weixin.qq.com/s/3cCtoSoiwRQ84kPgSJSSDA). 2020.11.07
 
 
-4. [极大关注 | 武汉大学舒红兵院士被指众多文章涉嫌学术不端](https://mp.weixin.qq.com/s/G0HCghWGGYAcMaI3q5yqOw)  2020.10.28
+4. [突发 | 北大博士在美被21岁中国留学生刺死，留下一双女儿，更多细节曝光](https://mp.weixin.qq.com/s/gI9KLwTJzDvqRO_lOwW4bg)  2020.10.28
 
 
-5. [2019诺贝尔奖得主塞门扎翻车！论文涉嫌造假，网友：P图才是科研利器？](https://mp.weixin.qq.com/s/4EMg__C1cB0YmkB2cMO9gQ)  2020.10.18
+5. [极大关注 | 武汉大学舒红兵院士被指众多文章涉嫌学术不端](https://mp.weixin.qq.com/s/G0HCghWGGYAcMaI3q5yqOw)  2020.10.28
 
 
-6. [科技部查处一批论文造假案：南医大苏州医院肾内科主任被解聘](https://www.toutiao.com/i6872899576735465997/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600238277&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009161437570101441311344388C72E&group_id=6872899576735465997)  2020.09.16
+6. [2019诺贝尔奖得主塞门扎翻车！论文涉嫌造假，网友：P图才是科研利器？](https://mp.weixin.qq.com/s/4EMg__C1cB0YmkB2cMO9gQ)  2020.10.18
 
 
-7. [这所985大学宣布调查结果：论文抄袭事实成立！撤销其硕士学位！](https://mp.weixin.qq.com/s/q2wss3K9vEYjYhiSMPrzAA)  2020.08.12
+7. [科技部查处一批论文造假案：南医大苏州医院肾内科主任被解聘](https://www.toutiao.com/i6872899576735465997/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1600238277&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202009161437570101441311344388C72E&group_id=6872899576735465997)  2020.09.16
 
 
-8. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
+8. [这所985大学宣布调查结果：论文抄袭事实成立！撤销其硕士学位！](https://mp.weixin.qq.com/s/q2wss3K9vEYjYhiSMPrzAA)  2020.08.12
 
 
-9. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
+9. [科研乱象能否令行禁止？](https://t.m.youth.cn/transfer/toutiao/url/news.youth.cn/gn/202008/t20200810_12444061.htm?tt_from=weixin&tt_group_id=6859178659081617928&utm_campaign=client_share&wxshare_count=1&timestamp=1597074305&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008102345050101470841451A5B4E2E&group_id=6859178659081617928)  2020.08.10
 
 
-10. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
+10. [科技部为五类科研单位、人员“划红线”科技活动违规将严惩](https://www.toutiao.com/i6856952093539598855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596556426&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008042353460100140361032448DC9B&group_id=6856952093539598855). 2020.08.04
 
 
-11. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
+11. [审稿记录13页｜郑州大学的一篇抄袭造假高分论文把杂志折腾地够呛](https://www.toutiao.com/i6856186670384054795/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596543224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20200804201344010020076098070BEF15&group_id=6856186670384054795). 2020.08.02
 
 
-12. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+12. [博士因学位论文抄袭国自然成果被撤销学位，后不服上诉：我参与了该国自然项目](https://mp.weixin.qq.com/s/rksPt0pyiN00U1Maiu_MfA)
 
 
-13. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651) 2020.08.01. 
+13. [科技部发布专门规章 剑指科技活动违规行为](https://export.shobserver.com/toutiao/html/275454.html?tt_from=weixin&tt_group_id=6855937868041454094&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596276344&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011805430101470830762152CD1A&group_id=6855937868041454094). 2020.08.01. 
+
+
+14. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651) 2020.08.01. 
 
 
 
@@ -686,6 +689,6 @@ https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 
 
 
-updated in 2020.11.29
+updated in 2020.12.07
 
 
