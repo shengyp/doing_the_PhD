@@ -556,28 +556,31 @@ Table of Contents
 
 
 ## 高校岗位设置与评价体制
-1. [阿尔伯塔大学教师队伍建设给我们的启示](https://www.toutiao.com/i6893776629105951235/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605201760&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020111301223901014413113432999EC8&group_id=6893776629105951235). 2020.11.11
+1. [年薪可达70万，深圳招聘大学教师砸高薪 (含预聘-长聘机制解读)](https://export.shobserver.com/toutiao/html/318927.html?tt_from=weixin&tt_group_id=6903012597361017352&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1607319599&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202012071339590101470841450000B41C&group_id=6903012597361017352). 2020.12.06
 
 
-2. [施一公：西湖大学评审终身副教授制度，临床科研思维与论文成果孰轻孰重？](https://mp.weixin.qq.com/s/zHzsY7upEzbeeELeSPIvpQ)  2020.11.10. 
+2. [阿尔伯塔大学教师队伍建设给我们的启示](https://www.toutiao.com/i6893776629105951235/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605201760&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020111301223901014413113432999EC8&group_id=6893776629105951235). 2020.11.11
 
 
-3. [IEEE首位华人主席：不能再用数数评价科研人员，学术界崇尚的是「质」](https://mp.weixin.qq.com/s/H7XpYYxgLC5cb36lpn1Kig)  2020.11.07. 
+3. [施一公：西湖大学评审终身副教授制度，临床科研思维与论文成果孰轻孰重？](https://mp.weixin.qq.com/s/zHzsY7upEzbeeELeSPIvpQ)  2020.11.10. 
 
 
-4. [施一公：西湖大学评审终身副教授，为何让教师“讲故事”？](https://export.shobserver.com/toutiao/html/303005.html?tt_from=weixin&tt_group_id=6886439840687063565&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407309&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306550901002202604006A7C387&group_id=6886439840687063565)  2020.10.22. 
+4. [IEEE首位华人主席：不能再用数数评价科研人员，学术界崇尚的是「质」](https://mp.weixin.qq.com/s/H7XpYYxgLC5cb36lpn1Kig)  2020.11.07. 
 
 
-5. [北大教授：经费猛于虎，管不好用不好会反噬科研](https://article.xuexi.cn/articles/index.html?art_id=6929723094044465615&t=1597648018833&showmenu=false&study_style_id=feeds_default&source=share&share_to=wx_feed&item_id=6929723094044465615&ref_read_id=b729ba51-af2d-45d6-9bb7-de5489d612fb_1604745619467). 2020.08.17. 
+5. [施一公：西湖大学评审终身副教授，为何让教师“讲故事”？](https://export.shobserver.com/toutiao/html/303005.html?tt_from=weixin&tt_group_id=6886439840687063565&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1603407309&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2020102306550901002202604006A7C387&group_id=6886439840687063565)  2020.10.22. 
 
 
-6. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ)  规国ABC. 2020.08.09. 
+6. [北大教授：经费猛于虎，管不好用不好会反噬科研](https://article.xuexi.cn/articles/index.html?art_id=6929723094044465615&t=1597648018833&showmenu=false&study_style_id=feeds_default&source=share&share_to=wx_feed&item_id=6929723094044465615&ref_read_id=b729ba51-af2d-45d6-9bb7-de5489d612fb_1604745619467). 2020.08.17. 
 
 
-7. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+7. [【科普】What is 助理教授？](https://mp.weixin.qq.com/s/y-nHxtMxdU0pre0oib9aJQ)  规国ABC. 2020.08.09. 
 
 
-8. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
+8. [美国大学教授的评价机制](https://www.toutiao.com/i6857417890455355917/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596621881&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008051804410100280561971D059266&group_id=6857417890455355917). 2020.08.05
+
+
+9. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
 
 
 
