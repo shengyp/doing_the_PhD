@@ -559,7 +559,7 @@ Table of Contents
 
 
 ## 高校岗位设置与评价体制
-1. [高校事业编，没了！](https://mp.weixin.qq.com/s/W8wOxY2ZwcFbSI2i9cMI6A). 2020.12.12
+1. [高校事业编，没了！](https://mp.weixin.qq.com/s/W8wOxY2ZwcFbSI2i9cMI6A) 2020.12.12
 
 
 2. [年薪可达70万，深圳招聘大学教师砸高薪 (含预聘-长聘机制解读)](https://export.shobserver.com/toutiao/html/318927.html?tt_from=weixin&tt_group_id=6903012597361017352&tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1607319599&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202012071339590101470841450000B41C&group_id=6903012597361017352). 2020.12.06
