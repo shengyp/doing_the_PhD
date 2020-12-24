@@ -270,7 +270,7 @@ Table of Contents
 
 
 ## 如何投论文
-1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g). 2020.10.30.
+1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
 
 
 2. [国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA). 2020.10.26.
@@ -535,7 +535,10 @@ Table of Contents
 
 
 ## 洋博士们
-1. [国外博士生都过的啥日子？](https://mp.weixin.qq.com/s/6ELJPPQtcPXIekDnhpKLhQ) 2020.10.29.
+1. [海外博士一般朝九晚五，国内博士动辄十几个小时科研时间。为什么普遍认为海外博士水平比较高？](https://mp.weixin.qq.com/s/Azb6YsRGNf_a4vSIUe6Mww) 2020.12.24.
+
+
+2. [国外博士生都过的啥日子？](https://mp.weixin.qq.com/s/6ELJPPQtcPXIekDnhpKLhQ) 2020.10.29.
 
 
 
