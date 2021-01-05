@@ -480,49 +480,52 @@ Table of Contents
 
 
 ## 灵魂拷问
-1. [计算机视觉 | 哥大读博五年总结（聊聊写paper）](https://mp.weixin.qq.com/s/UcGXSLAYTzJY2AnTZitrWQ). 2020.12.24.
+1. [谷歌大脑高级研究科学家：我的六年机器学习博士生涯总结](https://mp.weixin.qq.com/s/NRiy7YrXaJh3e9UHR9EJPA). 2021.01.04.
 
 
-2. [一个来自农村的清华博士求学路：希望给家庭条件差的同学一些借鉴](https://mp.weixin.qq.com/s/r4-MpUNLx20rmQBSugrFVw). 2020.11.29.
+2. [计算机视觉 | 哥大读博五年总结（聊聊写paper）](https://mp.weixin.qq.com/s/UcGXSLAYTzJY2AnTZitrWQ). 2020.12.24.
 
 
-3. [沈向洋博士：三十年科研路，我踩过的那些坑](https://mp.weixin.qq.com/s/KaCuyO6F3cfzZjSmT8H2fA). 2020.10.17.
+3. [一个来自农村的清华博士求学路：希望给家庭条件差的同学一些借鉴](https://mp.weixin.qq.com/s/r4-MpUNLx20rmQBSugrFVw). 2020.11.29.
 
 
-4. [大连理工的悲剧发生后，读博又休学的我有些话想说](https://mp.weixin.qq.com/s/hsFV7RRMBoxbWAHGLeRTlw). 2020.10.15.
+4. [沈向洋博士：三十年科研路，我踩过的那些坑](https://mp.weixin.qq.com/s/KaCuyO6F3cfzZjSmT8H2fA). 2020.10.17.
 
 
-5. [原本要与Hinton当同事，最后被迫Bengio门下读博？ | 独立研究员的坎坷之路](https://mp.weixin.qq.com/s/j9EXWftG5bTJY8QdvI1k1w). 2020.10.10.
+5. [大连理工的悲剧发生后，读博又休学的我有些话想说](https://mp.weixin.qq.com/s/hsFV7RRMBoxbWAHGLeRTlw). 2020.10.15.
 
 
-6. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
+6. [原本要与Hinton当同事，最后被迫Bengio门下读博？ | 独立研究员的坎坷之路](https://mp.weixin.qq.com/s/j9EXWftG5bTJY8QdvI1k1w). 2020.10.10.
 
 
-7. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
+7. [如何规划及践行博士生涯：我的个人经验](https://mp.weixin.qq.com/s/3v4z-LiuV7KtRgrzSP2PDg). 2020.08.05.
 
 
-8. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
+8. [人大副教授赵鑫：本科生一定要做科研吗？九大灵魂拷问](https://mp.weixin.qq.com/s/KA0yFo16Lz4nb4JyYKF6-g). 2020.05.13.
 
 
-9. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
+9. [孙笑尘：聊聊我的MIT读博生涯](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.08.
 
 
-10. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
+10. [如何读一个成功的机器学习博士？这份ICLR2020指南为你指点迷津](https://mp.weixin.qq.com/s/28sSFY4yaSF1QVayx46jEQ). 2020.05.02.
 
 
-11. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
+11. [博导疫情期间发来慰问：作为博士，你不该渴望有假期](https://mp.weixin.qq.com/s/BQkkFXcuDGH0yTtN8E9nHQ). 2020.03.16.
 
 
-12. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
+12. [如何优雅地读完一个博士？丨丧气博士生的亲身经历](https://mp.weixin.qq.com/s/TqrzConZmLjBmVXcqO1M-A). 2019.12.01.
 
 
-13. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
+13. [读博那些事儿 | CCF优博、南大蒋炎岩：我的博士五年](https://mp.weixin.qq.com/s/tKSO3M50njGifmj7ry0QHQ)
 
 
-14. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+14. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-15. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
+15. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+
+
+16. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
 
@@ -728,6 +731,6 @@ https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 
 
 
-updated in 2020.12.24
+updated in 2021.01.05
 
 
