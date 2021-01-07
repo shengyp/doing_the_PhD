@@ -294,25 +294,28 @@ Table of Contents
 
 
 ## 延期毕业问题
-1. [只有4成博士不延毕，其中有多少是“混子”？](https://www.toutiao.com/i6895611515487945230/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605597885&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201117152445010147083048010847A5&group_id=6895611515487945230) 2020.11.16.
+1. [只七个案例，读博读废了是种什么样的体验？](https://mp.weixin.qq.com/s/h6mY8W0-boNLQgbc7lny_A) 2021.01.07.
 
 
-2. [985名校开除52名博士生：在最好的位置懒惰，你会失去什么？](https://www.toutiao.com/i6889689045614461452/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1604163836&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202011010103560101441200671A64373B&group_id=6889689045614461452) 2020.10.31.
+2. [只有4成博士不延毕，其中有多少是“混子”？](https://www.toutiao.com/i6895611515487945230/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605597885&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201117152445010147083048010847A5&group_id=6895611515487945230) 2020.11.16.
 
 
-3. [加快读博失败的10种方法](https://mp.weixin.qq.com/s/CyCPxLk7u-ECTcMNaFK_MQ). 2020.10.28. 
+3. [985名校开除52名博士生：在最好的位置懒惰，你会失去什么？](https://www.toutiao.com/i6889689045614461452/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1604163836&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202011010103560101441200671A64373B&group_id=6889689045614461452) 2020.10.31.
 
 
-4. [博士生延期的十大原因！以及导师无法原谅你的五个错误……](https://mp.weixin.qq.com/s/-cStKx_PijLUGyaZSNoF2g) 浙大学报英文版. 2020.10.09. 
+4. [加快读博失败的10种方法](https://mp.weixin.qq.com/s/CyCPxLk7u-ECTcMNaFK_MQ). 2020.10.28. 
 
 
-5. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
+5. [博士生延期的十大原因！以及导师无法原谅你的五个错误……](https://mp.weixin.qq.com/s/-cStKx_PijLUGyaZSNoF2g) 浙大学报英文版. 2020.10.09. 
 
 
-6. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+6. [拿什么拯救你？我的博士延毕](https://mp.weixin.qq.com/s/tDPJd4jX0XSRGc-vgsJ9vA). AI科技评论. 2020.09.17. 
 
 
-7. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
+7. 高耀, 陈洪捷, 王东芳. [博士生的延期毕业率到底有多高——基于2017年全国离校调查数据的实证研究](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1). 研究生教育研究. 2019. [[Paper]](http://journal.ustc.edu.cn/ch/reader/view_abstract.aspx?file_no=20200107&flag=1)
+
+
+8. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
 
 
 
