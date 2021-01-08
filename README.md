@@ -570,7 +570,10 @@ Table of Contents
 
 
 ## 毕业生的去向
-1. [清北毕业生5年来去向大数据：北大偏爱银行，清华更倾向国网，华为堪称最大黑洞](https://mp.weixin.qq.com/s/Hqgdew00dv9mENS74o1KDQ). 2020.10.19.
+1. [清华本科生0人去阿里，交叉信息院硕士没人再深造 | 清华大学2020年毕业生就业质量报告](https://mp.weixin.qq.com/s/nXn4bbp1fuQuyb_h3sEp4Q). 2021.01.08.
+
+
+2. [清北毕业生5年来去向大数据：北大偏爱银行，清华更倾向国网，华为堪称最大黑洞](https://mp.weixin.qq.com/s/Hqgdew00dv9mENS74o1KDQ). 2020.10.19.
 
 
 
