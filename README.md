@@ -275,6 +275,10 @@ Table of Contents
 29. [机器翻译学术论文写作方法和技巧](./report/cwmt14_tut.pdf). 2014.11.
 
 
+30. [怎么写文献综述?](https://mp.weixin.qq.com/s/XO8tQnVByAZbf9xJT4ePKw). 2021.01.13.
+
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
