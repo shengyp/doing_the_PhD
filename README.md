@@ -496,6 +496,9 @@ Table of Contents
 16. [女博士年薪156万入职华为！实力演绎美貌与智慧并重](https://mp.weixin.qq.com/s/H3FNiaAde6Cny4Q-kh0eDA). 2020.08.05. 
 
 
+17. [她是2020“最美大学生”！](https://mp.weixin.qq.com/s/1oKk1GgKAc1AsC8s9gtrLA). 2021.01.16. 
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
