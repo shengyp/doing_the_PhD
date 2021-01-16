@@ -300,6 +300,10 @@ Table of Contents
 2. Adrian Lee, Carina Dennis and Philip Campbell. [Nature’s guide for mentors](https://www.nature.com/articles/447791a.pdf). 2020.06.06. [[《Nature》发文：好导师的16个标准]](https://www.toutiao.com/i6835253788102623747/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1591526703&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202006071845020100260760843B257EE1&group_id=6835253788102623747) 
 
 
+3. [真正的大学老师，是那些无需打卡和考评，也会不可遏止地要去读书写作和上课的人](https://mp.weixin.qq.com/s/Lm2AX39HiyDEis2iQ6UTQA). 2021.01.16. 
+
+
+
 
 ## 延期毕业问题
 1. [只七个案例，读博读废了是种什么样的体验？](https://mp.weixin.qq.com/s/h6mY8W0-boNLQgbc7lny_A) 2021.01.07.
@@ -555,6 +559,9 @@ Table of Contents
 18. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
 
 
+19. [带娃搞科研这四年，最对不住的是孩子](hhttps://www.toutiao.com/i6916359479172809220/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610451865&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2021011219442401014413113413405189&share_token=deb436ed-281a-46c6-af2d-806047699761&group_id=6916359479172809220). 2021.01.11
+
+
 
 ## 博士后了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
@@ -688,6 +695,8 @@ https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 
 3. [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431/answer/1445148851?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group1_Answer&utm_campaign=shareopn)
 
+
+4. [年薪制，学问可大了！](https://mp.weixin.qq.com/s/NOQG_R1iuhvkU1v-qnRA5w)
 
 
 ## 谨慎破除“唯论文”现象
