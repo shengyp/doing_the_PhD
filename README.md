@@ -688,6 +688,10 @@ http://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c200870
 https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 
 
+7. [通报批评！基金委处理一评审“打招呼”案例，撤销已资助项目，并取消申请资格3年！​](
+https://mp.weixin.qq.com/s/thE9wG6AlL6Wwti1spUTEw) 2021.01.17.
+
+
 
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
