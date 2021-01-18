@@ -596,6 +596,9 @@ Table of Contents
 4. [国外博士生都过的啥日子？](https://mp.weixin.qq.com/s/6ELJPPQtcPXIekDnhpKLhQ) 2020.10.29.
 
 
+5. [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/PqVT2k06KMnIenSJVaQIbg) 2021.01.17.
+
+
 
 ## 毕业生的去向
 1. [清华本科生0人去阿里，交叉信息院硕士没人再深造 | 清华大学2020年毕业生就业质量报告](https://mp.weixin.qq.com/s/nXn4bbp1fuQuyb_h3sEp4Q). 2021.01.08.
