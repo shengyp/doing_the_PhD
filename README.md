@@ -692,6 +692,9 @@ https://mp.weixin.qq.com/s/qalItFeqjWKZXmB78qgYHA) 2020.10.13.
 https://mp.weixin.qq.com/s/thE9wG6AlL6Wwti1spUTEw) 2021.01.17.
 
 
+8. [必看！2021年国家自然科学基金NSFC标书撰写要点详述，附NSFC2021指南下载](
+https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
+
 
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
