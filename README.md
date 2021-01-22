@@ -636,6 +636,9 @@ Table of Contents
 8. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/a6816911575148921356/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1587254635&app=news_article&utm_source=weixin&utm_medium=toutiao_android&req_id=202004190803550101310761314A98FA49&group_id=6816911575148921356). April 2020. 
 
 
+9. [博士求职不知该从何下手？听听985高校任教6年的博士怎么说](https://mp.weixin.qq.com/s/9P8Z6UQ1iIy1WvWfDG9Llw). 2021.01.22. 
+
+
 
 ## 高校岗位设置与评价体制
 1. [高校事业编，没了！](https://mp.weixin.qq.com/s/W8wOxY2ZwcFbSI2i9cMI6A) 2020.12.12
