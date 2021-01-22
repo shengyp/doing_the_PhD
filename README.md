@@ -582,6 +582,9 @@ Table of Contents
 6. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
 
 
+7. [百万年薪招博士后，“钱途”有了，前途有吗？](https://mp.weixin.qq.com/s/k_AIO7wKAKXO-f7O2rEl7w). 2021.01.22.
+
+
 
 ## 洋博士们
 1. [可怕！中国博士留学生在美国遭枪击身亡，北大毕业，已经读到了博士第四年](https://mp.weixin.qq.com/s/oSfaabU8CncsxQ269GbAlQ) 2021.01.16.
@@ -769,6 +772,11 @@ https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
 
 
 14. [如此大胆使用8项国家自然科学基金是否欠妥？](https://www.toutiao.com/i6855680016282288651/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1596248310&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202008011018300101470841451C36EAA7&group_id=6855680016282288651) 2020.08.01. 
+
+
+15. [饶毅深夜举报裴钢院士学术不端！网友评：低情商学术造假，高情商图片误用](https://mp.weixin.qq.com/s/ycxUBNrlBVCCY4qnfTjotA) 2021.01.22. 
+
+
 
 
 
