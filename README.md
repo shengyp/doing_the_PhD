@@ -582,7 +582,7 @@ Table of Contents
 6. [给在读博士后的5个关键建议。历时三年、收集博士毕业生血泪答复。终发表在Science职业专栏](https://mp.weixin.qq.com/s?__biz=MzUxODkzODQxMA%3D%3D&mid=2247494015&idx=2&sn=a30d64bdc46c6b1315d97209a456a2ac&scene=45#wechat_redirect). 2020.09.22.
 
 
-7. [百万年薪招博士后，“钱途”有了，前途有吗？](https://mp.weixin.qq.com/s/k_AIO7wKAKXO-f7O2rEl7w). 2021.01.22.
+7. [百万年薪招博士后，“钱途”有了，前途有吗？](https://mp.weixin.qq.com/s/k_AIO7wKAKXO-f7O2rEl7w) 2021.01.22.
 
 
 
