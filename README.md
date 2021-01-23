@@ -287,6 +287,9 @@ Table of Contents
 2. [国内唯一ACL最佳论文得主冯洋：冲击最佳论文需要知道的事情](https://mp.weixin.qq.com/s/xQTsJJrRx7RGSIPOge-gFA). 2020.10.26.
 
 
+3. [有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ). 2021.01.22.
+
+
 
 ## 如何做报告
 1. [Nature：13个维度，手把手教“研究er”如何做报告](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
