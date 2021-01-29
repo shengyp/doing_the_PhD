@@ -278,6 +278,8 @@ Table of Contents
 30. [怎么写文献综述?](https://mp.weixin.qq.com/s/XO8tQnVByAZbf9xJT4ePKw). 2021.01.13.
 
 
+31. [发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/YVWr9JSqT2YMx1k63lyp2A). 2021.01.29.
+
 
 
 ## 如何投论文
@@ -588,6 +590,9 @@ Table of Contents
 7. [百万年薪招博士后，“钱途”有了，前途有吗？](https://mp.weixin.qq.com/s/k_AIO7wKAKXO-f7O2rEl7w) 2021.01.22.
 
 
+8. [本科、硕士、博士的区别（终极版）](https://mp.weixin.qq.com/s/9byhzW4xLEE1MzJ28rSPAw) 2021.01.25.
+
+
 
 ## 洋博士们
 1. [可怕！中国博士留学生在美国遭枪击身亡，北大毕业，已经读到了博士第四年](https://mp.weixin.qq.com/s/oSfaabU8CncsxQ269GbAlQ) 2021.01.16.
@@ -783,6 +788,10 @@ https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
 15. [饶毅深夜举报裴钢院士学术不端！网友评：低情商学术造假，高情商图片误用](https://mp.weixin.qq.com/s/ycxUBNrlBVCCY4qnfTjotA) 2021.01.22. 
 
 
+16. [裴钢学生凌堃发信请饶毅配合，饶毅：不要帮倒忙](https://mp.weixin.qq.com/s/TvBOUkxqt2aDBIfWUsdqbw) 2021.01.26. 
+
+
+17. [中科院道德委公布关于饶毅举报的处理意见：已有明​确结论，不再进行调查](https://mp.weixin.qq.com/s/LaebJ9La8Kro8oiZQp7IFA) 2021.01.27. 
 
 
 
