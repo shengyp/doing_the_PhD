@@ -650,6 +650,12 @@ Table of Contents
 9. [博士求职不知该从何下手？听听985高校任教6年的博士怎么说](https://mp.weixin.qq.com/s/9P8Z6UQ1iIy1WvWfDG9Llw). 2021.01.22. 
 
 
+10. [高校招聘教师，不得将毕业院校、出国经历、论文专利等作为限制性条件！](https://mp.weixin.qq.com/s/X6Zk3m7O0h4VJrbXQobTjw). 2021.01.30. 
+
+
+11. [第一，读博未必给你更好的前程​；第二，你要很努力，但不要高估努力的作用​；第三……](https://mp.weixin.qq.com/s/JW4fAlybDnByeEIML9vcOA). 2021.01.31. 
+
+
 
 ## 高校岗位设置与评价体制
 1. [高校事业编，没了！](https://mp.weixin.qq.com/s/W8wOxY2ZwcFbSI2i9cMI6A) 2020.12.12
@@ -711,6 +717,11 @@ https://mp.weixin.qq.com/s/thE9wG6AlL6Wwti1spUTEw) 2021.01.17.
 
 8. [必看！2021年国家自然科学基金NSFC标书撰写要点详述，附NSFC2021指南下载](
 https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
+
+
+9. [一文读懂2021年国家自然科学基金限项新旧政策对比](
+https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&timestamp=1611938330&app=news_article&utm_source=weixin_moments&utm_medium=toutiao_android&use_new_style=1&req_id=20210130003849010130037138561E9F9A&share_token=33929068-7e4f-4c9d-839d-13b4b09c0acc&group_id=6923160299029676557) 2021.01.29.
+
 
 
 ## 教师待遇
@@ -795,6 +806,9 @@ https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
 
 
 17. [中科院道德委公布关于饶毅举报的处理意见：已有明​确结论，不再进行调查](https://mp.weixin.qq.com/s/LaebJ9La8Kro8oiZQp7IFA) 2021.01.27. 
+
+
+18. [中国重拳打击专利数量灌水！全面取消补贴，禁止与评选挂钩，鼓励举报弄虚作假行为](https://mp.weixin.qq.com/s/I0qwYdvEPXccDxLsBOiszg) 2021.01.31. 
 
 
 
