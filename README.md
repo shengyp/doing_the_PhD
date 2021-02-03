@@ -567,6 +567,9 @@ Table of Contents
 19. [带娃搞科研这四年，最对不住的是孩子](hhttps://www.toutiao.com/i6916359479172809220/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610451865&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2021011219442401014413113413405189&share_token=deb436ed-281a-46c6-af2d-806047699761&group_id=6916359479172809220). 2021.01.11
 
 
+20. [在疫情震中，哥大AI博士回顾五年CV研究生涯：没那么简单，没那么难...](https://mp.weixin.qq.com/s/iZrYMtnrIXsNSn2BpUv6IA). 2021.02.03
+
+
 
 ## 博士后了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
