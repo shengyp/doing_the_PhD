@@ -370,6 +370,10 @@ Table of Contents
 10. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
+11. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/th9Vey-CM_MLHpGl2cM_6A)  2021.02.06.
+
+
+
 
 ## AI论文调研
 1. [二十载AI论文大调查，十万多篇论文分析“学界鸿沟在加剧”](https://mp.weixin.qq.com/s/C91ofL_fNMPjEWhHfz-OVg). AI科技评论. 2020.11.22. 
