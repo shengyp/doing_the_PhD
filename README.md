@@ -517,7 +517,7 @@ Table of Contents
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
 
 
-2. [我在哥大读博的五年](https://mp.weixin.qq.com/s/x-ex_hkBRSxzTKEmLw_ZMQ). 2021.01.07.
+2. [我在哥大读博的五年](https://mp.weixin.qq.com/s/x-ex_hkBRSxzTKEmLw_ZMQ). 2021.01.07. [迭代版本](https://mp.weixin.qq.com/s/JVLp_FQMlVCMA1FMLIDOxA)
 
 
 3. [谷歌大脑高级研究科学家：我的六年机器学习博士生涯总结](https://mp.weixin.qq.com/s/NRiy7YrXaJh3e9UHR9EJPA). 2021.01.04.
