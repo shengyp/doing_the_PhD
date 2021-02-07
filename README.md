@@ -72,6 +72,9 @@ Table of Contents
 9. [读博士需要什么品质和心态？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/N29_KR6XvTn4vIiPoqwz-A) 2020.06.27. 
 
 
+10. [【学术相关】国内考博需要怎么准备？难度大吗？有什么建议？](https://mp.weixin.qq.com/s/3jNnBnUP44Xh49NDaOayOg) 2021.02.06. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -705,6 +708,9 @@ Table of Contents
 
 
 10. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
+
+
+11. [博士当辅导员，真的屈才了吗？](https://mp.weixin.qq.com/s/yBpIzJvUi34HQiWD06ccjg). 2021.02.07
 
 
 
