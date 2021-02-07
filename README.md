@@ -633,6 +633,13 @@ Table of Contents
 1. [《自然》2020年度最受欢迎的导师是怎么带学生的？](https://mp.weixin.qq.com/s/3tHZQY9NOR1PkD8kaFC9kg). 2021.01.03.
 
 
+2. [导师访谈 | 邹磊：对数据科学以及本科生科研的思考](https://mp.weixin.qq.com/s/kJ1ee9TrytzH4ZlGRre2Kg). 2021.01.03.
+
+
+3. [院长给导师的灵魂嘱托：过年不要给硕博士打电话，以免他们受惊吓！](https://mp.weixin.qq.com/s/QG9P5zpGKXtYsb00LzZSHg). 2021.02.07.
+
+
+
 
 ## 青椒的苦恼
 1. [新进老师没编制！至少34所施行“非升即走”制度的985高校](https://www.toutiao.com/i6915294088258437636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610217687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101100241270101441311342C77A9BA&share_token=7efebb59-8c8e-4089-b9f2-6091908aa52c&group_id=6915294088258437636). 2021.01.08.
@@ -824,6 +831,9 @@ https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaig
 
 
 19. [在美科研能否「独善其身」？陈刚和成正东之后，华人教授杨林又遭FBI起诉](https://mp.weixin.qq.com/s/IUBfEakl5-gOotcipLO53w) 2021.02.07. 
+
+
+20. [博士参与偷拍女生洗澡被开除，起诉北京市教委被驳回：辜负公众期许](https://www.toutiao.com/i6926117732207460871/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1612700468&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202102072021080101512042331A01A1C1&share_token=1bcd6af6-acf6-442e-8ad8-a385eaccf62e&group_id=6926117732207460871) 2021.02.06. 
 
 
 
