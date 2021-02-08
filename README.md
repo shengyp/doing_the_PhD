@@ -748,6 +748,10 @@ https://mp.weixin.qq.com/s/-4N0t6kEhAmwqJgOnvSvgg) 2021.01.18.
 https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaign=client_share&wxshare_count=3&timestamp=1611938330&app=news_article&utm_source=weixin_moments&utm_medium=toutiao_android&use_new_style=1&req_id=20210130003849010130037138561E9F9A&share_token=33929068-7e4f-4c9d-839d-13b4b09c0acc&group_id=6923160299029676557) 2021.01.29.
 
 
+10. [国家自然科学基金八大学部四类科学问题属性83个典型案例](
+https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
+
+
 
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
