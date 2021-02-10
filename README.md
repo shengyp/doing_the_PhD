@@ -516,6 +516,10 @@ Table of Contents
 17. [她是2020“最美大学生”！](https://mp.weixin.qq.com/s/1oKk1GgKAc1AsC8s9gtrLA). 2021.01.16. 
 
 
+18. [我的第一篇论文被AAAI 2021接收，谈谈它诞生的故事](https://mp.weixin.qq.com/s/qj7sOh3SCTE4-pjGoG9wNQ). 2021.02.09. 
+
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
@@ -676,6 +680,9 @@ Table of Contents
 
 
 11. [第一，读博未必给你更好的前程​；第二，你要很努力，但不要高估努力的作用​；第三……](https://mp.weixin.qq.com/s/JW4fAlybDnByeEIML9vcOA). 2021.01.31. 
+
+
+12. [高校青年教师顺利晋升职称的18条指南](https://www.toutiao.com/i6926774759724401159/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1612796620&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202102082303400101511902312E0B29EF&share_token=bfa06b36-e6d6-4cce-ab7e-a4efefd6a719&group_id=6926774759724401159). 2021.02.08. 
 
 
 
