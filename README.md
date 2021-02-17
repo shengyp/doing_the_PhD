@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [AI论文调研]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这27个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [AI论文调研]、 [中文期刊]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这27个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -97,7 +97,7 @@ Table of Contents
 4. [​避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
 
 
-5. [​你准备好做个合格的科研汪了吗？](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw). 2020.09.28.
+5. [​你准备好做个合格的科研汪了吗？](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw)  2020.09.28.
 
 
 6. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
@@ -289,7 +289,7 @@ Table of Contents
 30. [怎么写文献综述?](https://mp.weixin.qq.com/s/XO8tQnVByAZbf9xJT4ePKw). 2021.01.13.
 
 
-31. [发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/YVWr9JSqT2YMx1k63lyp2A). 2021.01.29.
+31. [发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/YVWr9JSqT2YMx1k63lyp2A)  2021.01.29.
 
 
 32. [如何撰写科研论文的讨论部分](https://mp.weixin.qq.com/s/v-ZyI0B2UKYzmuE79q0z1g). 2021.02.02.
@@ -529,7 +529,7 @@ Table of Contents
 16. [女博士年薪156万入职华为！实力演绎美貌与智慧并重](https://mp.weixin.qq.com/s/H3FNiaAde6Cny4Q-kh0eDA). 2020.08.05. 
 
 
-17. [她是2020“最美大学生”！](https://mp.weixin.qq.com/s/1oKk1GgKAc1AsC8s9gtrLA). 2021.01.16. 
+17. [她是2020“最美大学生”！](https://mp.weixin.qq.com/s/1oKk1GgKAc1AsC8s9gtrLA) 2021.01.16. 
 
 
 18. [我的第一篇论文被AAAI 2021接收，谈谈它诞生的故事](https://mp.weixin.qq.com/s/qj7sOh3SCTE4-pjGoG9wNQ). 2021.02.09. 
@@ -695,7 +695,7 @@ Table of Contents
 9. [博士求职不知该从何下手？听听985高校任教6年的博士怎么说](https://mp.weixin.qq.com/s/9P8Z6UQ1iIy1WvWfDG9Llw). 2021.01.22. 
 
 
-10. [高校招聘教师，不得将毕业院校、出国经历、论文专利等作为限制性条件！](https://mp.weixin.qq.com/s/X6Zk3m7O0h4VJrbXQobTjw). 2021.01.30. 
+10. [高校招聘教师，不得将毕业院校、出国经历、论文专利等作为限制性条件！](https://mp.weixin.qq.com/s/X6Zk3m7O0h4VJrbXQobTjw) 2021.01.30. 
 
 
 11. [第一，读博未必给你更好的前程​；第二，你要很努力，但不要高估努力的作用​；第三……](https://mp.weixin.qq.com/s/JW4fAlybDnByeEIML9vcOA). 2021.01.31. 
@@ -736,7 +736,7 @@ Table of Contents
 10. [教授级别是如何划分的](http://m.pinlue.com/icontent/2410159702244.html). 2020.04.13
 
 
-11. [博士当辅导员，真的屈才了吗？](https://mp.weixin.qq.com/s/yBpIzJvUi34HQiWD06ccjg). 2021.02.07
+11. [博士当辅导员，真的屈才了吗？](https://mp.weixin.qq.com/s/yBpIzJvUi34HQiWD06ccjg)  2021.02.07
 
 
 
@@ -910,6 +910,6 @@ https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
 
 
 
-updated in 2021.02.12
+updated in 2021.02.17
 
 
