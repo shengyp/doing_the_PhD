@@ -151,6 +151,9 @@ Table of Contents
 22. [Ten Simple Rules for Finishing your PhD](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1003954&type=printable). 2014.12. [[这十条简单法则帮助你博士顺利毕业 (附全文)]](https://www.zhuanzhi.ai/document/44cfcc98671ce015a410b339aa9e80a3) 
 
 
+23. [博士生“生存法则”17条！](https://mp.weixin.qq.com/s/SddErcqWERnJ7jxmFH9E4g) 2021.02.16. 
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
@@ -195,6 +198,9 @@ Table of Contents
 
 
 5. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
+
+
+6. [如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ). 2021.02.17. 
 
 
 
