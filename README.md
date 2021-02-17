@@ -23,6 +23,7 @@ Table of Contents
   * [延期毕业问题](#延期毕业问题)
   * [博士学位论文](#博士学位论文)
   * [AI论文调研](#AI论文调研)
+  * [中文期刊](#中文期刊)
   * [科研经费管理](#科研经费管理)
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [我国博士研究生培养结构](#我国博士研究生培养结构)
@@ -73,6 +74,9 @@ Table of Contents
 
 
 10. [【学术相关】国内考博需要怎么准备？难度大吗？有什么建议？](https://mp.weixin.qq.com/s/3jNnBnUP44Xh49NDaOayOg) 2021.02.06. 
+
+
+11. [4位女博士总结的经验：什么性格的人适合考博？](https://mp.weixin.qq.com/s/DagpVV7P9_og-Y4aIjLLoQ) 2021.02.12. 
 
 
 
@@ -171,6 +175,9 @@ Table of Contents
 
 
 8. [施一公：如何一个通宵写出「Nature」文章](https://www.sohu.com/a/240043800_773043). 2019.07.08.
+
+
+9. [原来搞科研的都是段子手，哈哈哈哈哈哈哈…](https://mp.weixin.qq.com/s/502_dP6StAaPki770-BYSA). 2021.02.12.
 
 
 
@@ -285,6 +292,9 @@ Table of Contents
 31. [发顶会论文，怎么就那么难？](https://mp.weixin.qq.com/s/YVWr9JSqT2YMx1k63lyp2A). 2021.01.29.
 
 
+32. [如何撰写科研论文的讨论部分](https://mp.weixin.qq.com/s/v-ZyI0B2UKYzmuE79q0z1g). 2021.02.02.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
@@ -384,6 +394,12 @@ Table of Contents
 
 
 2. [ei刊物和sci刊物区别](https://www.toutiao.com/i6897466130898715147/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605991937&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201122045216010028056197135D2531&group_id=6897466130898715147). 2020.11.21. 
+
+
+
+## 中文期刊
+1. [中文期刊何时能出头？等英语不再统治学术圈的时候](https://mp.weixin.qq.com/s/58UdP8zVGaOTfu9zkte4gQ). 学术头条. 2021.02.17. 
+
 
 
 ## 科研经费管理
@@ -582,6 +598,9 @@ Table of Contents
 20. [在疫情震中，哥大AI博士回顾五年CV研究生涯：没那么简单，没那么难...](https://mp.weixin.qq.com/s/iZrYMtnrIXsNSn2BpUv6IA). 2021.02.03
 
 
+21. [2021 Fall 申请回忆录 (北美 CS PhD)](https://mp.weixin.qq.com/s/zmQ7V2OMdCAB_0vhatn1mQ). 2021.02.17
+
+
 
 ## 博士后了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
@@ -759,6 +778,9 @@ https://www.toutiao.com/i6923160299029676557/?tt_from=weixin_moments&utm_campaig
 https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
 
 
+11. [基金申请季开启！评审人分享15条写作技巧](
+https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
+
 
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
@@ -853,6 +875,15 @@ https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
 20. [博士参与偷拍女生洗澡被开除，起诉北京市教委被驳回：辜负公众期许](https://www.toutiao.com/i6926117732207460871/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1612700468&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202102072021080101512042331A01A1C1&share_token=1bcd6af6-acf6-442e-8ad8-a385eaccf62e&group_id=6926117732207460871) 2021.02.06. 
 
 
+21. [触目惊心！中国SCI论文撤稿量高达11046篇！位居世界第一！](https://mp.weixin.qq.com/s/9LCkd40oOjOOfFou91ne7g) 2021.02.10. 
+
+
+22. [MIT陈刚教授已获假释，北大教授饶毅为其鸣不平！](https://mp.weixin.qq.com/s/j0-WYMenmT6V2iu_xScyuw) 2021.01.16. 
+
+
+23. [中国博士生未测核酸被UIUC开除！1万4千人联名替他喊冤](https://mp.weixin.qq.com/s/vCOZYQf9t2ggz9LJXceq_w) 2021.02.16. 
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
@@ -875,8 +906,10 @@ https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
 5. [痛惜！才29岁，年轻有为的学术新星博士不幸离世](https://mp.weixin.qq.com/s/iOpRqKlNdks-92FnsKR2jQ). 2020.08.12. 
 
 
+6. [耶鲁华裔硕士被击数枪身亡，嫌犯疑是MIT博士生，曾获奥数银牌](https://mp.weixin.qq.com/s/Aqs2P28CuWMpnJ6TEJd72A). 2020.08.12. 
 
 
-updated in 2021.02.07
+
+updated in 2021.02.12
 
 
