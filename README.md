@@ -328,6 +328,8 @@ Table of Contents
 3. [真正的大学老师，是那些无需打卡和考评，也会不可遏止地要去读书写作和上课的人](https://mp.weixin.qq.com/s/Lm2AX39HiyDEis2iQ6UTQA). 2021.01.16. 
 
 
+4. [拒绝不公平的师生关系，MIT霸气护学生：你换导师，我替你买单](https://mp.weixin.qq.com/s/2ZOv5lgMFHOCeXflwZYF5Q). 2021.02.28. 
+
 
 
 ## 延期毕业问题
@@ -788,6 +790,11 @@ https://mp.weixin.qq.com/s/LeqbNvr-15j-VoVxjhSYGg) 2021.02.07.
 https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
 
 
+12. [2021年国自然(NSFC)申请全攻略(含全攻略下载)](
+https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A) 2021.02.17.
+
+
+
 ## 教师待遇
 1. [当今，能在35岁晋升副高，40岁评上正高已属十分努力！](https://mp.weixin.qq.com/s/N5uXMfhF7NaeQScSHqWgjg) 2020.08.29
 
@@ -888,6 +895,10 @@ https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
 
 
 23. [中国博士生未测核酸被UIUC开除！1万4千人联名替他喊冤](https://mp.weixin.qq.com/s/vCOZYQf9t2ggz9LJXceq_w) 2021.02.16. 
+
+
+24. [未参与的论文竟有自己署名，MIT教授怒斥「合著」中国学者及出版商](https://mp.weixin.qq.com/s/zzU2fF_TRYAU8mpVf1LOyA) 2021.02.20. 
+
 
 
 
