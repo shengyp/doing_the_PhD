@@ -395,6 +395,9 @@ Table of Contents
 11. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/th9Vey-CM_MLHpGl2cM_6A)  2021.02.06.
 
 
+12. [从选题到答辩：优秀博士论文写作最全面的经验分享](https://mp.weixin.qq.com/s/KwwOkrY2flDOFQiBDdly6g)  2021.03.02.
+
+
 
 
 ## AI论文调研
@@ -487,6 +490,9 @@ Table of Contents
 20. [研究生培养体制才是我国科研体系中最重要的一环，相应改革已刻不容缓](https://mp.weixin.qq.com/s/st9lF4BEbJ7p3PPQ3XC9Kg). 2019.11.28. 
 
 
+21. [从此，清华不再「唯论文数」！校长邱勇：大学不能把学术权力，交给期刊编辑和审稿人](https://mp.weixin.qq.com/s/GmCjP4EpFRB2AkIRdudkbQ). 2021.02.28.
+
+
 
 ## 科研故事
 1. [杨从自学CS知识到入职亚马逊，他只花了8个月](https://mp.weixin.qq.com/s/O-mFQooH2lh9-254YEHTCw). 2021.01.03.
@@ -542,6 +548,8 @@ Table of Contents
 
 18. [我的第一篇论文被AAAI 2021接收，谈谈它诞生的故事](https://mp.weixin.qq.com/s/qj7sOh3SCTE4-pjGoG9wNQ). 2021.02.09. 
 
+
+19. [他入狱10年自学数学，如今凭借手稿发了篇论文，被同行评价“足以开辟数论新领域”](https://mp.weixin.qq.com/s/PniYBz-ZsLnPQOT6RpSx-w). 2021.03.03. 
 
 
 
@@ -710,6 +718,9 @@ Table of Contents
 
 
 12. [高校青年教师顺利晋升职称的18条指南](https://www.toutiao.com/i6926774759724401159/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1612796620&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202102082303400101511902312E0B29EF&share_token=bfa06b36-e6d6-4cce-ab7e-a4efefd6a719&group_id=6926774759724401159). 2021.02.08. 
+
+
+13. [袁亚湘院士建议：禁止对青年科技人员设不合理定量考核指标](https://mp.weixin.qq.com/s/x5DipohWbeKMS1hAc-Zi1Q). 2021.03.04. 
 
 
 
