@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [AI论文调研]、 [中文期刊]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这27个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做Rebuttal]、 [如何做报告]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [AI论文调研]、 [中文期刊]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这28个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -18,6 +18,7 @@ Table of Contents
   * [如何读论文](#如何读论文)
   * [如何写论文](#如何写论文)
   * [如何投论文](#如何投论文)
+  * [如何做Rebuttal](#如何做Rebuttal)
   * [如何做报告](#如何做报告)
   * [博士生的导师](#博士生的导师)
   * [延期毕业问题](#延期毕业问题)
@@ -312,6 +313,10 @@ Table of Contents
 3. [有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ). 2021.01.22.
 
 
+## 如何做Rebuttal
+1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
+
+
 
 ## 如何做报告
 1. [Nature：13个维度，手把手教“研究er”如何做报告](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
@@ -329,6 +334,9 @@ Table of Contents
 
 
 4. [拒绝不公平的师生关系，MIT霸气护学生：你换导师，我替你买单](https://mp.weixin.qq.com/s/2ZOv5lgMFHOCeXflwZYF5Q). 2021.02.28. 
+
+
+5. [选错导师误终身？Nature大调查显示 ：全球1/4博士生想换导师](https://mp.weixin.qq.com/s/_e0Bd66qyBPbyAdiMZVUqQ). 2021.03.07. 
 
 
 
@@ -415,6 +423,9 @@ Table of Contents
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
+
+
+2. [这些开支高风险 | 常见科研经费违规和不合理使用典型问题](https://mp.weixin.qq.com/s/iDs_RU6yD_gFdr-MmWLwuA). 2021.03.08. 
 
 
 
@@ -552,6 +563,10 @@ Table of Contents
 19. [他入狱10年自学数学，如今凭借手稿发了篇论文，被同行评价“足以开辟数论新领域”](https://mp.weixin.qq.com/s/PniYBz-ZsLnPQOT6RpSx-w). 2021.03.03. 
 
 
+20. [一作发表6篇论文，他博三才出科研成果，厚积薄发终获成功](https://mp.weixin.qq.com/s/5lOtsAJnbYH20bvv_psyVQ). 2021.03.07. 
+
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
@@ -681,6 +696,12 @@ Table of Contents
 3. [院长给导师的灵魂嘱托：过年不要给硕博士打电话，以免他们受惊吓！](https://mp.weixin.qq.com/s/QG9P5zpGKXtYsb00LzZSHg). 2021.02.07.
 
 
+4. [第一篇心态就崩了！985博导给学生改论文](https://mp.weixin.qq.com/s/NYuEkieFeEb8SrCX2HGsig). 2021.03.06.
+
+
+5. [中美俄印联合研究登上Nature子刊：大学四年，中国STEM学生批判性思维不进反退](https://mp.weixin.qq.com/s/snEU9t2RNmVDY1yAfGs7jA). 2021.03.08.
+
+
 
 
 ## 青椒的苦恼
@@ -758,6 +779,9 @@ Table of Contents
 11. [博士当辅导员，真的屈才了吗？](https://mp.weixin.qq.com/s/yBpIzJvUi34HQiWD06ccjg)  2021.02.07
 
 
+12. [科技部部长王志刚：给科研人员减负，使他们心无旁骛从事科研工作！](https://mp.weixin.qq.com/s/70vVuYpbhlJCwsj1irUCng)  2021.03.08
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
@@ -803,6 +827,21 @@ https://mp.weixin.qq.com/s/n1BbqXi1SVSTEsptChnj1A) 2020.12.12.
 
 12. [2021年国自然(NSFC)申请全攻略(含全攻略下载)](
 https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A) 2021.02.17.
+
+
+13. [基金本子提交在即！这11个问题现在改还来得及.](
+https://mp.weixin.qq.com/s/48bMq_XebZ-oUotUH9OYgA) 2021.03.08.
+
+
+14. [国基金集中接收截止在即！《申请书》形式自查明细表来了！](
+https://mp.weixin.qq.com/s/_0hpZWgCnsFlOVZ65XzR6g) 2021.03.08.
+
+
+15. [请确保NSFC申请书中5篇代表作信息规范准确.](
+https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
+
+
+
 
 
 
@@ -911,6 +950,8 @@ https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A) 2021.02.17.
 24. [未参与的论文竟有自己署名，MIT教授怒斥「合著」中国学者及出版商](https://mp.weixin.qq.com/s/zzU2fF_TRYAU8mpVf1LOyA) 2021.02.20. 
 
 
+25. [留美博士自杀20月后，华裔导师被停职并疑遭ACM最严厉学术不端处罚！](https://mp.weixin.qq.com/s/FHrjxE5ZmkUUxwr0frMpKA) 2021.03.05. 
+
 
 
 ## 症状
@@ -938,6 +979,6 @@ https://mp.weixin.qq.com/s/WlzO0fAtyyydhvDMZJ_B6A) 2021.02.17.
 
 
 
-updated in 2021.02.17
+updated in 2021.03.09
 
 
