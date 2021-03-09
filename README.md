@@ -80,6 +80,9 @@ Table of Contents
 11. [4位女博士总结的经验：什么性格的人适合考博？](https://mp.weixin.qq.com/s/DagpVV7P9_og-Y4aIjLLoQ) 2021.02.12. 
 
 
+12. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态……](https://mp.weixin.qq.com/s/sLaxNRobwzlwf64xrnCLHQ) 2021.03.08. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -953,6 +956,9 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
 25. [留美博士自杀20月后，华裔导师被停职并疑遭ACM最严厉学术不端处罚！](https://mp.weixin.qq.com/s/FHrjxE5ZmkUUxwr0frMpKA) 2021.03.05. 
 
 
+26. [施一公：国内学术界的潜规则，改变不了我的做事方式](https://mp.weixin.qq.com/s/NbXkFy9AwiFmYCyYSsoNDg) 2021.03.09. 
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
@@ -979,6 +985,6 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
 
 
 
-updated in 2021.03.09
+updated in 2021.03.10
 
 
