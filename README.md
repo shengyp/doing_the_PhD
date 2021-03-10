@@ -83,6 +83,9 @@ Table of Contents
 12. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态……](https://mp.weixin.qq.com/s/sLaxNRobwzlwf64xrnCLHQ) 2021.03.08. 
 
 
+13. [我的考博故事：选择大于努力，一位好导师的助力](https://mp.weixin.qq.com/s/VLVJO8f7Oz-TACQO9fHxHQ) 2021.03.10. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -849,6 +852,8 @@ https://mp.weixin.qq.com/s/_0hpZWgCnsFlOVZ65XzR6g) 2021.03.08.
 https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
 
 
+16. [国家自然科学基金委更新四类科学问题属性案例（2021版）](
+https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科学基金委更新四类科学问题属性案例（2021版）]](https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)  [[四类科学问题属性案例说明]](./国家自然科学基金/四类科学问题属性案例说明（2021-3-2）.pdf)  [[信息科学部案例]](./国家自然科学基金/信息科学部案例.pdf) 
 
 
 
@@ -962,6 +967,10 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
 
 
 26. [施一公：国内学术界的潜规则，改变不了我的做事方式](https://mp.weixin.qq.com/s/NbXkFy9AwiFmYCyYSsoNDg) 2021.03.09. 
+
+
+27. [博士生为获可观安家费，与朋友合买SCI论文！论文买卖生意链究竟有多火？](https://mp.weixin.qq.com/s/j-5MhuQHdomEbL37eAIw_Q) 2021.03.10. 
+
 
 
 
