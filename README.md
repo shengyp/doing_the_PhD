@@ -91,6 +91,9 @@ Table of Contents
 14. [博士研究生自我放弃指南](https://mp.weixin.qq.com/s/PHRzhBI-YL2pSSYHLMn70g). 2021.03.14. 
 
 
+15. [“现在申博士，一定要搞好计划书！”](https://mp.weixin.qq.com/s/EAvIwNdLsa7be5Hvaa-Cyw). 2021.03.14. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
