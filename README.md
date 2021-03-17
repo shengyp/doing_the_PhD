@@ -96,6 +96,7 @@ Table of Contents
 
 
 
+
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
 1. [​鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
@@ -168,6 +169,10 @@ Table of Contents
 
 
 23. [博士生“生存法则”17条！](https://mp.weixin.qq.com/s/SddErcqWERnJ7jxmFH9E4g) 2021.02.16. 
+
+
+24. [博士生应被看作学者还是学生？中美对比分析！](https://mp.weixin.qq.com/s/BiqBnkBcCzAaNl1TlUeBQg) 2021.03.16. 
+
 
 
 
@@ -359,6 +364,9 @@ Table of Contents
 5. [选错导师误终身？Nature大调查显示 ：全球1/4博士生想换导师](https://mp.weixin.qq.com/s/_e0Bd66qyBPbyAdiMZVUqQ). 2021.03.07. 
 
 
+6. [知乎高赞话题引热议，不坑博士后的导师怎么找？](https://mp.weixin.qq.com/s/FigOPOQWpp2RCLl8u9ftHQ) 2021.03.16. 
+
+
 
 ## 延期毕业问题
 1. [只七个案例，读博读废了是种什么样的体验？](https://mp.weixin.qq.com/s/h6mY8W0-boNLQgbc7lny_A) 2021.01.07.
@@ -424,6 +432,9 @@ Table of Contents
 
 
 12. [从选题到答辩：优秀博士论文写作最全面的经验分享](https://mp.weixin.qq.com/s/KwwOkrY2flDOFQiBDdly6g)  2021.03.02.
+
+
+13. [教育部：学术不端，撤销学位！博士答辩未通过的，可建议授予硕士学位](https://mp.weixin.qq.com/s/ahyXg6EBCQAn_F1yLYTyBg). 2021.03.16.
 
 
 
@@ -720,6 +731,10 @@ Table of Contents
 2. [清北毕业生5年来去向大数据：北大偏爱银行，清华更倾向国网，华为堪称最大黑洞](https://mp.weixin.qq.com/s/Hqgdew00dv9mENS74o1KDQ). 2020.10.19.
 
 
+3. [感人至深：40岁博士毕业，新任安徽省长王清宪的博士论文后记](https://mp.weixin.qq.com/s/dov0rsDxD0FDjmyvbdKoNA). 2021.03.15.
+
+
+
 ## 如何指导学生
 1. [《自然》2020年度最受欢迎的导师是怎么带学生的？](https://mp.weixin.qq.com/s/3tHZQY9NOR1PkD8kaFC9kg). 2021.01.03.
 
@@ -734,7 +749,6 @@ Table of Contents
 
 
 5. [中美俄印联合研究登上Nature子刊：大学四年，中国STEM学生批判性思维不进反退](https://mp.weixin.qq.com/s/snEU9t2RNmVDY1yAfGs7jA). 2021.03.08.
-
 
 
 
