@@ -322,6 +322,9 @@ Table of Contents
 32. [如何撰写科研论文的讨论部分](https://mp.weixin.qq.com/s/v-ZyI0B2UKYzmuE79q0z1g). 2021.02.02.
 
 
+33. [SCI论文框架构思及其“潜规则”！（珍藏级）](https://mp.weixin.qq.com/s/1ZIxNG10fGX1eIRx_ESPDw). 2021.03.17.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
