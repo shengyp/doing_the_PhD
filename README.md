@@ -547,6 +547,10 @@ Table of Contents
 21. [从此，清华不再「唯论文数」！校长邱勇：大学不能把学术权力，交给期刊编辑和审稿人](https://mp.weixin.qq.com/s/GmCjP4EpFRB2AkIRdudkbQ). 2021.02.28.
 
 
+22. [清华大学发布新规：申请硕士学位不必发表论文！](https://mp.weixin.qq.com/s/i0tPWAZ5euDifzcBJHfCEw). 2021.03.19.
+
+
+
 
 ## 科研故事
 1. [杨从自学CS知识到入职亚马逊，他只花了8个月](https://mp.weixin.qq.com/s/O-mFQooH2lh9-254YEHTCw). 2021.01.03.
@@ -1011,6 +1015,8 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科
 
 27. [博士生为获可观安家费，与朋友合买SCI论文！论文买卖生意链究竟有多火？](https://mp.weixin.qq.com/s/j-5MhuQHdomEbL37eAIw_Q) 2021.03.10. 
 
+
+28. [北大教授两次发文质疑「九章」，潘建伟陆朝阳长文回应：「九章」毫无疑问是光量子计算机](https://mp.weixin.qq.com/s/Z5WI2dRzqOx5TDQe4lS8EQ). 2021.03.21. 
 
 
 
