@@ -95,6 +95,8 @@ Table of Contents
 15. [“现在申博士，一定要搞好计划书！”](https://mp.weixin.qq.com/s/EAvIwNdLsa7be5Hvaa-Cyw). 2021.03.14. 
 
 
+16. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/dFRT7qf_8cLwGdAJPFDm6A). 2021.03.22. 
+
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -204,6 +206,9 @@ Table of Contents
 9. [原来搞科研的都是段子手，哈哈哈哈哈哈哈…](https://mp.weixin.qq.com/s/502_dP6StAaPki770-BYSA). 2021.02.12.
 
 
+10. [做科研不顺？研毕？导师解密研究生时间管理](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q). 2021.03.19.
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
@@ -222,6 +227,9 @@ Table of Contents
 
 
 6. [如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ). 2021.02.17. 
+
+
+7. [为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg). 2021.03.24. 
 
 
 
@@ -837,6 +845,10 @@ Table of Contents
 12. [科技部部长王志刚：给科研人员减负，使他们心无旁骛从事科研工作！](https://mp.weixin.qq.com/s/70vVuYpbhlJCwsj1irUCng)  2021.03.08
 
 
+13. [院士呼吁：重视普通青年科技人员；一些在读博士仍难以解决基本生活问题！](https://mp.weixin.qq.com/s/Lc-QDaDRhFY5QdsJels-OA)  2021.03.24
+
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
@@ -923,6 +935,9 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科
 
 
 3. [破除“唯论文”要谨防理解误区！](https://mp.weixin.qq.com/s/nRZC3RidqmA70AJs4z_JXw)  2020.08.13. 
+
+
+4. [“破五唯”不能只落实在否定SCI论文上，要客观承认SCI论文的价值](https://mp.weixin.qq.com/s/q3gIoyS0zIZffCqAE5J8xQ). 2021.03.21. 
 
 
 
@@ -1017,6 +1032,10 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科
 
 
 28. [北大教授两次发文质疑「九章」，潘建伟陆朝阳长文回应：「九章」毫无疑问是光量子计算机](https://mp.weixin.qq.com/s/Z5WI2dRzqOx5TDQe4lS8EQ). 2021.03.21. 
+
+
+29. [Nature重磅：起底“论文工厂”，与学术欺诈作斗争](https://mp.weixin.qq.com/s/USpgKBtTsPtvkqB-01lY_g). 2021.03.24. 
+
 
 
 
