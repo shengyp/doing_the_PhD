@@ -912,6 +912,9 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.08.
 https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科学基金委更新四类科学问题属性案例（2021版）]](https://mp.weixin.qq.com/s/GDMHAUgakfDYmgt3ITbKRQ)  [[四类科学问题属性案例说明]](./国家自然科学基金/四类科学问题属性案例说明（2021-3-2）.pdf)  [[信息科学部案例]](./国家自然科学基金/信息科学部案例.pdf) 
 
 
+17. [重磅改革！国家自然科学基金委9个学部将整合为四大板块](
+https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
+
 
 
 ## 教师待遇
@@ -1037,6 +1040,8 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科
 29. [Nature重磅：起底“论文工厂”，与学术欺诈作斗争](https://mp.weixin.qq.com/s/USpgKBtTsPtvkqB-01lY_g). 2021.03.24. 
 
 
+30. [Nature起底中国论文造假，问题普遍性正在影响中国学术信誉](https://mp.weixin.qq.com/s/wZR0JkIjXp-ImJ2ZEI43dw). 2021.03.25. 
+
 
 
 ## 症状
@@ -1064,6 +1069,6 @@ https://mp.weixin.qq.com/s/9veacSLCJ21lPdt-EE2p2A) 2021.03.10. [[国家自然科
 
 
 
-updated in 2021.03.10
+updated in 2021.03.26
 
 
