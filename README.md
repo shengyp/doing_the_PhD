@@ -627,6 +627,9 @@ Table of Contents
 22. [华人学者彭泱获顶会最佳论文奖：如何最快求解“诺亚方舟上的鸡兔同笼问题”？靠“猜”](https://mp.weixin.qq.com/s/xSe88owxKmt5_FAPI1R77w). 2021.03.09. 
 
 
+23. [我不是人：一年发论文180篇，横跨多个学科领域，收获99次引用](https://mp.weixin.qq.com/s/zTz1ZXjTOTDbvvG7fkP7zQ). 2021.03.26. 
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
@@ -1066,6 +1069,9 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 
 
 6. [耶鲁华裔硕士被击数枪身亡，嫌犯疑是MIT博士生，曾获奥数银牌](https://mp.weixin.qq.com/s/Aqs2P28CuWMpnJ6TEJd72A). 2020.08.12. 
+
+
+7. [痛惜：南大一研究生留下遗言跳楼自杀！研究生该如何排解压力？](https://mp.weixin.qq.com/s/1C1reELWqsnND2NxqMBfWg). 2021.03.25. 
 
 
 
