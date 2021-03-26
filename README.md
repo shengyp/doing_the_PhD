@@ -333,6 +333,9 @@ Table of Contents
 33. [SCI论文框架构思及其“潜规则”！（珍藏级）](https://mp.weixin.qq.com/s/1ZIxNG10fGX1eIRx_ESPDw). 2021.03.17.
 
 
+34. [第一次写论文无从下手？6点建议必看！](https://mp.weixin.qq.com/s/6UomFdUbFeEgm3aBeUuEtw). 2021.03.26.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
