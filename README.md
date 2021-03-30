@@ -769,6 +769,10 @@ Table of Contents
 3. [感人至深：40岁博士毕业，新任安徽省长王清宪的博士论文后记](https://mp.weixin.qq.com/s/dov0rsDxD0FDjmyvbdKoNA). 2021.03.15.
 
 
+4. [舍友清华博士毕业，我建议他留在高校](https://mp.weixin.qq.com/s/NMtzqnKSzq00g3FAaFcgdg). 2021.03.30.
+
+
+
 
 ## 如何指导学生
 1. [《自然》2020年度最受欢迎的导师是怎么带学生的？](https://mp.weixin.qq.com/s/3tHZQY9NOR1PkD8kaFC9kg). 2021.01.03.
