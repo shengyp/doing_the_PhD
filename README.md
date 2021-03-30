@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做Rebuttal]、 [如何做报告]、 [投稿经验分享]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这28个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为：[一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何写论文]、 [如何投论文]、 [如何做Rebuttal]、 [如何做报告]、 [投稿经验分享]、 [博士生的导师]、 [延期毕业问题]、 [博士学位论文]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [科研经费管理]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [科研故事]、 [大厂经历]、 [灵魂拷问]、 [博士后了没]、 [洋博士们]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [贤内助]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [症状]、 [英才陨落]这28个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -32,12 +32,14 @@ Table of Contents
   * [我国博士研究生累积招生情况](#我国博士研究生累积招生情况)
   * [我国博士研究生培养结构](#我国博士研究生培养结构)
   * [科研故事](#科研故事)
+  * [大厂经历](#大厂经历)
   * [灵魂拷问](#灵魂拷问)
   * [博士后了没](#博士后了没)
   * [洋博士们](#洋博士们)
   * [毕业生的去向](#毕业生的去向)
   * [如何指导学生](#如何指导学生)
   * [青椒的苦恼](#青椒的苦恼)
+  * [贤内助](#贤内助)
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
   * [国家自然科学基金](#国家自然科学基金)
   * [教师待遇](#教师待遇)
@@ -96,6 +98,9 @@ Table of Contents
 
 
 16. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/dFRT7qf_8cLwGdAJPFDm6A). 2021.03.22. 
+
+
+17. [攻读数据科学硕士学位必须考虑的5个因素](https://mp.weixin.qq.com/s/8toc4mwmS2AHvreEQRMauw). 2021.03.27. 
 
 
 
@@ -633,6 +638,15 @@ Table of Contents
 23. [我不是人：一年发论文180篇，横跨多个学科领域，收获99次引用](https://mp.weixin.qq.com/s/zTz1ZXjTOTDbvvG7fkP7zQ). 2021.03.26. 
 
 
+24. [12岁女孩自学成才考上亚利桑那大学，博士母亲的家庭教育造就「天才少女」](https://mp.weixin.qq.com/s/IYhlhaQrFo1OXS41VbuLrg). 2021.03.28. 
+
+
+
+## 大厂经历
+1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
+
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
@@ -772,6 +786,9 @@ Table of Contents
 5. [中美俄印联合研究登上Nature子刊：大学四年，中国STEM学生批判性思维不进反退](https://mp.weixin.qq.com/s/snEU9t2RNmVDY1yAfGs7jA). 2021.03.08.
 
 
+6. [以学生为中心的15个教学策略，重塑课堂教学！](https://mp.weixin.qq.com/s/p13fha6Awx4JXPbNNOGfUg). 2021.03.27.
+
+
 
 ## 青椒的苦恼
 1. [新进老师没编制！至少34所施行“非升即走”制度的985高校](https://www.toutiao.com/i6915294088258437636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610217687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101100241270101441311342C77A9BA&share_token=7efebb59-8c8e-4089-b9f2-6091908aa52c&group_id=6915294088258437636). 2021.01.08.
@@ -813,6 +830,15 @@ Table of Contents
 13. [袁亚湘院士建议：禁止对青年科技人员设不合理定量考核指标](https://mp.weixin.qq.com/s/x5DipohWbeKMS1hAc-Zi1Q). 2021.03.04. 
 
 
+14. [博士进入高校任教，未来发展也存在“35岁”这道坎？](https://mp.weixin.qq.com/s/FS2L85UsEOLxconAPbNMKQ). 2021.03.29. 
+
+
+
+## 贤内助
+1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
+
+
+
 
 ## 高校岗位设置与评价体制
 1. [高校事业编，没了！](https://mp.weixin.qq.com/s/W8wOxY2ZwcFbSI2i9cMI6A) 2020.12.12
@@ -852,6 +878,9 @@ Table of Contents
 
 
 13. [院士呼吁：重视普通青年科技人员；一些在读博士仍难以解决基本生活问题！](https://mp.weixin.qq.com/s/Lc-QDaDRhFY5QdsJels-OA)  2021.03.24
+
+
+14. [最新调查：美国大学教师群体中，教育世袭现象严重](https://mp.weixin.qq.com/s/L4g7RPKSwlVNRk-Z1bVzng). 2021.03.26
 
 
 
@@ -936,6 +965,10 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 4. [年薪制，学问可大了！](https://mp.weixin.qq.com/s/NOQG_R1iuhvkU1v-qnRA5w)
 
 
+5. [太真实了！成为助教、讲师、副教授、教授后的变化](https://mp.weixin.qq.com/s/ROULYSs1bPm9n7fI4kU-PQ). 2021.03.26
+
+
+
 ## 谨慎破除“唯论文”现象
 1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的.](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
 
@@ -947,6 +980,9 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 
 
 4. [“破五唯”不能只落实在否定SCI论文上，要客观承认SCI论文的价值](https://mp.weixin.qq.com/s/q3gIoyS0zIZffCqAE5J8xQ). 2021.03.21. 
+
+
+5. [80后清华博导：SCI纵有千般不好，但这是青年人的唯一机会](https://mp.weixin.qq.com/s/0MadHdUesYJybhPRVJueQw). 2021.03.27. 
 
 
 
@@ -1077,7 +1113,10 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 7. [痛惜：南大一研究生留下遗言跳楼自杀！研究生该如何排解压力？](https://mp.weixin.qq.com/s/1C1reELWqsnND2NxqMBfWg). 2021.03.25. 
 
 
+8. [缅怀！百岁院士沈善炯逝世，曾攻克金霉素打破美国垄断](https://mp.weixin.qq.com/s/s-Y4tZde0XmGGAkS06YJkw). 2021.03.28. 
 
-updated in 2021.03.26
+
+
+updated in 2021.03.28
 
 
