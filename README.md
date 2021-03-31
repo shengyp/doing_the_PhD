@@ -181,6 +181,8 @@ Table of Contents
 24. [博士生应被看作学者还是学生？中美对比分析！](https://mp.weixin.qq.com/s/BiqBnkBcCzAaNl1TlUeBQg) 2021.03.16. 
 
 
+25. [机器学习博士自救指南（严肃者慎入）](https://mp.weixin.qq.com/s/qKEbBp_9FJZE6KdlWMz2hw) 2021.03.31. 
+
 
 
 ## 好的研究想法如何产生
