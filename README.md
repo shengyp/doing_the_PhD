@@ -343,6 +343,9 @@ Table of Contents
 34. [第一次写论文无从下手？6点建议必看！](https://mp.weixin.qq.com/s/6UomFdUbFeEgm3aBeUuEtw). 2021.03.26.
 
 
+35. [如何在短时间内写出一篇高质量的学术论文（Ⅱ）](https://www.toutiao.com/i6947572509764108814/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617618413&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104051826530101511962210398B14A&share_token=63898ddc-d95b-49a3-a87d-c91685ec39a4&group_id=6947572509764108814). 2021.04.05.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
@@ -839,6 +842,8 @@ Table of Contents
 14. [博士进入高校任教，未来发展也存在“35岁”这道坎？](https://mp.weixin.qq.com/s/FS2L85UsEOLxconAPbNMKQ). 2021.03.29. 
 
 
+15. [Nature：大学裁员只看科研经费和论文？400多位研究者抗议！](https://mp.weixin.qq.com/s/t29vZwvxu0kR6QW2O5ve3g). 2021.04.01. 
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
@@ -887,6 +892,14 @@ Table of Contents
 
 
 14. [最新调查：美国大学教师群体中，教育世袭现象严重](https://mp.weixin.qq.com/s/L4g7RPKSwlVNRk-Z1bVzng). 2021.03.26
+
+
+15. [知乎热议：如果不发论文，我们用什么证明自己的科研实力？](https://mp.weixin.qq.com/s/ILMhGduv5sLnLZzgdCLZpg). 2021.04.05
+
+
+16. [真实！大学助教、讲师、副教授、教授图鉴](https://mp.weixin.qq.com/s/5mIn1bKNGdtY4tkhB7EArA). 2021.04.06
+
+
 
 
 
@@ -989,6 +1002,9 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 
 
 5. [80后清华博导：SCI纵有千般不好，但这是青年人的唯一机会](https://mp.weixin.qq.com/s/0MadHdUesYJybhPRVJueQw). 2021.03.27. 
+
+
+6. [四川七部门联合出招 破除科技评价中“唯论文”不良导向](https://mp.weixin.qq.com/s/aMHcQR78tmt5FkSKoIfSWA). 2021.04.02. 
 
 
 
