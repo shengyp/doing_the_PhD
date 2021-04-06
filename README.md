@@ -646,6 +646,9 @@ Table of Contents
 24. [12岁女孩自学成才考上亚利桑那大学，博士母亲的家庭教育造就「天才少女」](https://mp.weixin.qq.com/s/IYhlhaQrFo1OXS41VbuLrg). 2021.03.28. 
 
 
+25. [学NLP的人跑去CV顶会投稿，中了顶会一作，还是一位本科生？](https://mp.weixin.qq.com/s/k1PMyVuBKcTj76zSb_TpFQ). 2021.03.05. 
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
