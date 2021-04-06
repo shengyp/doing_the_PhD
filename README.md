@@ -346,6 +346,9 @@ Table of Contents
 35. [如何在短时间内写出一篇高质量的学术论文（Ⅱ）](https://www.toutiao.com/i6947572509764108814/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617618413&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104051826530101511962210398B14A&share_token=63898ddc-d95b-49a3-a87d-c91685ec39a4&group_id=6947572509764108814). 2021.04.05.
 
 
+36. [论文结论和摘要的区别！同学们要做好小笔记](https://www.toutiao.com/i6946775662019756575/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617464292&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104032338120101512171041442FF9B&share_token=5366f57b-1638-4590-bf29-1f66785232a7&group_id=6946775662019756575). 2021.04.03.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
@@ -1113,6 +1116,10 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 
 
 30. [Nature起底中国论文造假，问题普遍性正在影响中国学术信誉](https://mp.weixin.qq.com/s/wZR0JkIjXp-ImJ2ZEI43dw). 2021.03.25. 
+
+
+31. [基金委公示22例学术不端行为案件处理，都因为什么原因？](https://www.toutiao.com/i6945730786117157409/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617586399&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104050933190101502160743684017D&share_token=6d73689b-44c0-4f38-ab91-6931b7352cb8&group_id=6945730786117157409) 2021.03.31. 
+
 
 
 
