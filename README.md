@@ -461,6 +461,9 @@ Table of Contents
 13. [教育部：学术不端，撤销学位！博士答辩未通过的，可建议授予硕士学位](https://mp.weixin.qq.com/s/ahyXg6EBCQAn_F1yLYTyBg). 2021.03.16.
 
 
+14. [研究生学位论文开题的要件、要素和程序](https://mp.weixin.qq.com/s/KQDZfnF70gN45_fuDXDbyQ). 2021.04.03.
+
+
 
 ## 博士婚姻研究
 1. [一位博士的婚姻研究：为什么这么多高学历女性不结婚？](https://mp.weixin.qq.com/s/AouCRe4-buZLP5MfMu_Jbw). 学术志. 2021.03.11. 
@@ -502,6 +505,8 @@ Table of Contents
 
 3. [最新报告：我国博士研究生累计招生已近150万！延毕率逐年上升](https://mp.weixin.qq.com/s/e4T2NRYxxTjTzLKCwvb3Mg). 中国教育在线. 2020.06.15. 
 
+
+4. [机器学习内卷化：博士数量激增，本硕毕业生有点慌 | reddit热议](https://mp.weixin.qq.com/s/BZcla8Xmz9V12KS7-P0j4Q). 2021.04.05.
 
 
 ## 我国博士研究生培养结构
