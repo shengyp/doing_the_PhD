@@ -662,6 +662,9 @@ Table of Contents
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
 
 
+2. [如何看待2022年秋招算法岗车毁人亡？](https://mp.weixin.qq.com/s/HC6u1gEYVRr0djcY4omx6A). 2021.04.07.
+
+
 
 
 ## 灵魂拷问
