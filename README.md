@@ -657,6 +657,10 @@ Table of Contents
 25. [学NLP的人跑去CV顶会投稿，中了顶会一作，还是一位本科生？](https://mp.weixin.qq.com/s/k1PMyVuBKcTj76zSb_TpFQ). 2021.03.05. 
 
 
+26. [他在入狱十年期间开启学术生涯，如今任职顶级医学院教授](他在入狱十年期间开启学术生涯，如今任职顶级医学院教授). 2021.04.07. 
+
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -759,6 +763,8 @@ Table of Contents
 
 9. [教育部：鼓励高校扩招博士后，作为补充高校师资重要来源](https://www.toutiao.com/i6922291352222827021/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1611750518&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210127202838010150105085070F6964&share_token=0fcac319-b2c0-4ff5-b1cc-824c6c6dd873&group_id=6922291352222827021) 2021.01.27.
 
+
+10. [尴尬的“博士后”](https://mp.weixin.qq.com/s/MRq3zesv6yagm763taTmtQ) 2021.04.08.
 
 
 ## 洋博士们
