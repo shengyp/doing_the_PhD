@@ -772,6 +772,10 @@ Table of Contents
 10. [尴尬的“博士后”](https://mp.weixin.qq.com/s/MRq3zesv6yagm763taTmtQ) 2021.04.08.
 
 
+11. [6 年招聘 8000 多人引发争议：高校割起年轻博士的韭菜有多疯狂？](https://mp.weixin.qq.com/s/qI6lz6q9pQoJMP5cKGXQZA) 2021.04.10.
+
+
+
 ## 洋博士们
 1. [可怕！中国博士留学生在美国遭枪击身亡，北大毕业，已经读到了博士第四年](https://mp.weixin.qq.com/s/oSfaabU8CncsxQ269GbAlQ) 2021.01.16.
 
@@ -868,6 +872,10 @@ Table of Contents
 
 
 15. [Nature：大学裁员只看科研经费和论文？400多位研究者抗议！](https://mp.weixin.qq.com/s/t29vZwvxu0kR6QW2O5ve3g). 2021.04.01. 
+
+
+16. [激励青年科研人员 让更多成果从试验场走向练兵场](https://mp.weixin.qq.com/s/PYc-KTQcdvcAGb4fauN3QA). 2021.04.10. 
+
 
 
 ## 贤内助
