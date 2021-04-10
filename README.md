@@ -1162,7 +1162,10 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 8. [缅怀！百岁院士沈善炯逝世，曾攻克金霉素打破美国垄断](https://mp.weixin.qq.com/s/s-Y4tZde0XmGGAkS06YJkw). 2021.03.28. 
 
 
+9. [年仅45岁，中山大学杰青院长因病逝世，已是一月时间内离去的第四位中青年学者](https://mp.weixin.qq.com/s/R4YlMVgfx08WkpyGO6Tv1Q). 2021.04.10. 
 
-updated in 2021.03.28
+
+
+updated in 2021.04.10
 
 
