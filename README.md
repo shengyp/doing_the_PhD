@@ -217,6 +217,9 @@ Table of Contents
 10. [做科研不顺？研毕？导师解密研究生时间管理](https://mp.weixin.qq.com/s/Ro6G_pSK1LBby7dIvydq5Q). 2021.03.19.
 
 
+11. [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f). 2021.01.04.
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
