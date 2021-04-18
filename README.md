@@ -186,6 +186,7 @@ Table of Contents
 
 
 
+
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
 
@@ -241,6 +242,9 @@ Table of Contents
 
 
 7. [为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg). 2021.03.24. 
+
+
+8. [How to research](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf). 2021.04. 
 
 
 
@@ -351,6 +355,9 @@ Table of Contents
 
 
 36. [论文结论和摘要的区别！同学们要做好小笔记](https://www.toutiao.com/i6946775662019756575/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617464292&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104032338120101512171041442FF9B&share_token=5366f57b-1638-4590-bf29-1f66785232a7&group_id=6946775662019756575). 2021.04.03.
+
+
+37. [把自己的拖延症数据写成论文，MIT天体物理博士小姐姐真做到了](https://mp.weixin.qq.com/s/EdYU8WYwXfkIe4Lz7Vbj8g). 2021.04.18.
 
 
 
