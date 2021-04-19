@@ -349,7 +349,7 @@ Table of Contents
 33. [SCI论文框架构思及其“潜规则”！（珍藏级）](https://mp.weixin.qq.com/s/1ZIxNG10fGX1eIRx_ESPDw). 2021.03.17.
 
 
-34. [第一次写论文无从下手？6点建议必看！](https://mp.weixin.qq.com/s/6UomFdUbFeEgm3aBeUuEtw). 2021.03.26.
+34. [第一次写论文无从下手？6点建议必看！](https://mp.weixin.qq.com/s/6UomFdUbFeEgm3aBeUuEtw) 2021.03.26.
 
 
 35. [如何在短时间内写出一篇高质量的学术论文（Ⅱ）](https://www.toutiao.com/i6947572509764108814/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617618413&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104051826530101511962210398B14A&share_token=63898ddc-d95b-49a3-a87d-c91685ec39a4&group_id=6947572509764108814). 2021.04.05.
@@ -461,7 +461,7 @@ Table of Contents
 8. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-9. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874). 2019.08.23.
+9. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874) 2019.08.23.
 
 
 10. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
