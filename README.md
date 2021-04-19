@@ -1194,7 +1194,9 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 9. [年仅45岁，中山大学杰青院长因病逝世，已是一月时间内离去的第四位中青年学者](https://mp.weixin.qq.com/s/R4YlMVgfx08WkpyGO6Tv1Q). 2021.04.10. 
 
 
+10. [31岁杰出数学家死因成疑！最爱中国围棋，曾自创加密货币交易平台](https://mp.weixin.qq.com/s/d0h6lQqPiscluS7itSWZig). 2021.04.19. 
 
-updated in 2021.04.10
+
+updated in 2021.04.19
 
 
