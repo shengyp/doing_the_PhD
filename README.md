@@ -361,6 +361,9 @@ Table of Contents
 37. [把自己的拖延症数据写成论文，MIT天体物理博士小姐姐真做到了](https://mp.weixin.qq.com/s/EdYU8WYwXfkIe4Lz7Vbj8g). 2021.04.18.
 
 
+38. [清华刘知远：如何写一篇合格的NLP论文](https://mp.weixin.qq.com/s/TMVlzHq9FSp1C1HcskG6ow). 2021.04.20.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
