@@ -831,7 +831,7 @@ Table of Contents
 2. [导师访谈 | 邹磊：对数据科学以及本科生科研的思考](https://mp.weixin.qq.com/s/kJ1ee9TrytzH4ZlGRre2Kg). 2021.01.03.
 
 
-3. [院长给导师的灵魂嘱托：过年不要给硕博士打电话，以免他们受惊吓！](https://mp.weixin.qq.com/s/QG9P5zpGKXtYsb00LzZSHg). 2021.02.07.
+3. [院长给导师的灵魂嘱托：过年不要给硕博士打电话，以免他们受惊吓！](https://mp.weixin.qq.com/s/QG9P5zpGKXtYsb00LzZSHg) 2021.02.07.
 
 
 4. [第一篇心态就崩了！985博导给学生改论文](https://mp.weixin.qq.com/s/NYuEkieFeEb8SrCX2HGsig). 2021.03.06.
