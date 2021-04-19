@@ -840,7 +840,7 @@ Table of Contents
 5. [中美俄印联合研究登上Nature子刊：大学四年，中国STEM学生批判性思维不进反退](https://mp.weixin.qq.com/s/snEU9t2RNmVDY1yAfGs7jA). 2021.03.08.
 
 
-6. [以学生为中心的15个教学策略，重塑课堂教学！](https://mp.weixin.qq.com/s/p13fha6Awx4JXPbNNOGfUg). 2021.03.27.
+6. [以学生为中心的15个教学策略，重塑课堂教学！](https://mp.weixin.qq.com/s/p13fha6Awx4JXPbNNOGfUg) 2021.03.27.
 
 
 
@@ -884,10 +884,10 @@ Table of Contents
 13. [袁亚湘院士建议：禁止对青年科技人员设不合理定量考核指标](https://mp.weixin.qq.com/s/x5DipohWbeKMS1hAc-Zi1Q). 2021.03.04. 
 
 
-14. [博士进入高校任教，未来发展也存在“35岁”这道坎？](https://mp.weixin.qq.com/s/FS2L85UsEOLxconAPbNMKQ). 2021.03.29. 
+14. [博士进入高校任教，未来发展也存在“35岁”这道坎？](https://mp.weixin.qq.com/s/FS2L85UsEOLxconAPbNMKQ) 2021.03.29. 
 
 
-15. [Nature：大学裁员只看科研经费和论文？400多位研究者抗议！](https://mp.weixin.qq.com/s/t29vZwvxu0kR6QW2O5ve3g). 2021.04.01. 
+15. [Nature：大学裁员只看科研经费和论文？400多位研究者抗议！](https://mp.weixin.qq.com/s/t29vZwvxu0kR6QW2O5ve3g) 2021.04.01. 
 
 
 16. [激励青年科研人员 让更多成果从试验场走向练兵场](https://mp.weixin.qq.com/s/PYc-KTQcdvcAGb4fauN3QA). 2021.04.10. 
