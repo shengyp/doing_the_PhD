@@ -242,7 +242,7 @@ Table of Contents
 6. [如何快速理解一篇 ML 论文的要点？谷歌 Robotics 研究科学家：只要记住5个问题](https://mp.weixin.qq.com/s/_wEjFjNk12loXTuPlp38tQ). 2021.02.17. 
 
 
-7. [为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg). 2021.03.24. 
+7. [为什么有人读文献喜欢打印出来？神经科学研究揭示纸上记录让你的大脑更活跃！](https://mp.weixin.qq.com/s/0-bf1aEyuYmaWRZLd3kTcg) 2021.03.24. 
 
 
 8. [How to research](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf). 2021.04. 
@@ -675,7 +675,7 @@ Table of Contents
 24. [12岁女孩自学成才考上亚利桑那大学，博士母亲的家庭教育造就「天才少女」](https://mp.weixin.qq.com/s/IYhlhaQrFo1OXS41VbuLrg). 2021.03.28. 
 
 
-25. [学NLP的人跑去CV顶会投稿，中了顶会一作，还是一位本科生？](https://mp.weixin.qq.com/s/k1PMyVuBKcTj76zSb_TpFQ). 2021.03.05. 
+25. [学NLP的人跑去CV顶会投稿，中了顶会一作，还是一位本科生？](https://mp.weixin.qq.com/s/k1PMyVuBKcTj76zSb_TpFQ) 2021.03.05. 
 
 
 26. [他在入狱十年期间开启学术生涯，如今任职顶级医学院教授](他在入狱十年期间开启学术生涯，如今任职顶级医学院教授). 2021.04.07. 
@@ -687,7 +687,7 @@ Table of Contents
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
 
 
-2. [如何看待2022年秋招算法岗车毁人亡？](https://mp.weixin.qq.com/s/HC6u1gEYVRr0djcY4omx6A). 2021.04.07.
+2. [如何看待2022年秋招算法岗车毁人亡？](https://mp.weixin.qq.com/s/HC6u1gEYVRr0djcY4omx6A) 2021.04.07.
 
 
 
@@ -1185,7 +1185,7 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 6. [耶鲁华裔硕士被击数枪身亡，嫌犯疑是MIT博士生，曾获奥数银牌](https://mp.weixin.qq.com/s/Aqs2P28CuWMpnJ6TEJd72A). 2020.08.12. 
 
 
-7. [痛惜：南大一研究生留下遗言跳楼自杀！研究生该如何排解压力？](https://mp.weixin.qq.com/s/1C1reELWqsnND2NxqMBfWg). 2021.03.25. 
+7. [痛惜：南大一研究生留下遗言跳楼自杀！研究生该如何排解压力？](https://mp.weixin.qq.com/s/1C1reELWqsnND2NxqMBfWg) 2021.03.25. 
 
 
 8. [缅怀！百岁院士沈善炯逝世，曾攻克金霉素打破美国垄断](https://mp.weixin.qq.com/s/s-Y4tZde0XmGGAkS06YJkw). 2021.03.28. 
