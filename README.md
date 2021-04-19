@@ -943,7 +943,7 @@ Table of Contents
 14. [最新调查：美国大学教师群体中，教育世袭现象严重](https://mp.weixin.qq.com/s/L4g7RPKSwlVNRk-Z1bVzng). 2021.03.26
 
 
-15. [知乎热议：如果不发论文，我们用什么证明自己的科研实力？](https://mp.weixin.qq.com/s/ILMhGduv5sLnLZzgdCLZpg). 2021.04.05
+15. [知乎热议：如果不发论文，我们用什么证明自己的科研实力？](https://mp.weixin.qq.com/s/ILMhGduv5sLnLZzgdCLZpg) 2021.04.05
 
 
 16. [真实！大学助教、讲师、副教授、教授图鉴](https://mp.weixin.qq.com/s/5mIn1bKNGdtY4tkhB7EArA). 2021.04.06
