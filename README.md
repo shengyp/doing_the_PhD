@@ -481,12 +481,12 @@ Table of Contents
 
 
 ## 学位论文致谢
-1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng). 2021.04.19. 
+1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng) 2021.04.19. 
 
 
 
 ## 博士婚姻研究
-1. [一位博士的婚姻研究：为什么这么多高学历女性不结婚？](https://mp.weixin.qq.com/s/AouCRe4-buZLP5MfMu_Jbw). 学术志. 2021.03.11. 
+1. [一位博士的婚姻研究：为什么这么多高学历女性不结婚？](https://mp.weixin.qq.com/s/AouCRe4-buZLP5MfMu_Jbw) 学术志. 2021.03.11. 
 
 
 
@@ -504,7 +504,7 @@ Table of Contents
 
 
 ## 期刊评价
-1. [如何评价IEEE Access成为了Top期刊？](https://mp.weixin.qq.com/s/r-a-5-OV5kWJ5dOx2jYE6w). 2021.03.14. 
+1. [如何评价IEEE Access成为了Top期刊？](https://mp.weixin.qq.com/s/r-a-5-OV5kWJ5dOx2jYE6w) 2021.03.14. 
 
 
 
@@ -598,7 +598,7 @@ Table of Contents
 21. [从此，清华不再「唯论文数」！校长邱勇：大学不能把学术权力，交给期刊编辑和审稿人](https://mp.weixin.qq.com/s/GmCjP4EpFRB2AkIRdudkbQ). 2021.02.28.
 
 
-22. [清华大学发布新规：申请硕士学位不必发表论文！](https://mp.weixin.qq.com/s/i0tPWAZ5euDifzcBJHfCEw). 2021.03.19.
+22. [清华大学发布新规：申请硕士学位不必发表论文！](https://mp.weixin.qq.com/s/i0tPWAZ5euDifzcBJHfCEw) 2021.03.19.
 
 
 
