@@ -1162,6 +1162,8 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 31. [基金委公示22例学术不端行为案件处理，都因为什么原因？](https://www.toutiao.com/i6945730786117157409/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1617586399&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202104050933190101502160743684017D&share_token=6d73689b-44c0-4f38-ab91-6931b7352cb8&group_id=6945730786117157409) 2021.03.31. 
 
 
+32. [教育部公开曝光，严肃处理！取消研究生导师资格，撤销教师资格！](https://mp.weixin.qq.com/s/0EYZ8p5d4PCbrGXluRwTrg) 2021.03.31. 
+
 
 
 ## 症状
