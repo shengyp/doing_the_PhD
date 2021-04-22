@@ -1165,6 +1165,9 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 32. [教育部公开曝光，严肃处理！取消研究生导师资格，撤销教师资格！](https://mp.weixin.qq.com/s/0EYZ8p5d4PCbrGXluRwTrg) 2021.03.31. 
 
 
+33. [明尼苏达大学华人教授故意向Linux提交漏洞代码来做研究！整所大学被Linux列入黑名单......](https://mp.weixin.qq.com/s/SYcJBuEEurULO6pf7FAsUQ) 2021.04.22. 
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
