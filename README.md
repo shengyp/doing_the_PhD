@@ -186,6 +186,8 @@ Table of Contents
 25. [机器学习博士自救指南（严肃者慎入）](https://mp.weixin.qq.com/s/qKEbBp_9FJZE6KdlWMz2hw) 2021.03.31. 
 
 
+26. [爱可可老师：一个研究生的自我修养！](https://mp.weixin.qq.com/s/jScYc1EcnplZjP3_YVYnsg) 2021.04.22. 
+
 
 
 ## 好的研究想法如何产生
@@ -220,6 +222,9 @@ Table of Contents
 
 
 11. [How to Look for Ideas in Computer Science Research](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f). 2021.01.04.
+
+
+12. [如何做出牛的研究？GAT作者DeepMind研究科学家​Petar谈论自己读博科研经验，为您指点一二](https://mp.weixin.qq.com/s/XqpYda2hX_TCPfuTPk2vdg). 2021.04.27.
 
 
 
@@ -604,6 +609,9 @@ Table of Contents
 22. [清华大学发布新规：申请硕士学位不必发表论文！](https://mp.weixin.qq.com/s/i0tPWAZ5euDifzcBJHfCEw) 2021.03.19.
 
 
+23. [国科大回应：博士生每月不低于4300元！](https://mp.weixin.qq.com/s/C1brsJHOPzP0L2o22DhdtQ) 2021.04.22.
+
+
 
 ## 科研故事
 1. [杨从自学CS知识到入职亚马逊，他只花了8个月](https://mp.weixin.qq.com/s/O-mFQooH2lh9-254YEHTCw). 2021.01.03.
@@ -952,7 +960,7 @@ Table of Contents
 16. [真实！大学助教、讲师、副教授、教授图鉴](https://mp.weixin.qq.com/s/5mIn1bKNGdtY4tkhB7EArA). 2021.04.06
 
 
-
+17. [【人社日课】之高等学校教师（副教授）职称评价基本标准](https://mp.weixin.qq.com/s/42SBidS2PacyPgPM-DZU6w). 2021.04.22
 
 
 
@@ -1165,7 +1173,13 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 32. [教育部公开曝光，严肃处理！取消研究生导师资格，撤销教师资格！](https://mp.weixin.qq.com/s/0EYZ8p5d4PCbrGXluRwTrg) 2021.03.31. 
 
 
-33. [明尼苏达大学华人教授故意向Linux提交漏洞代码来做研究！整所大学被Linux列入黑名单......](https://mp.weixin.qq.com/s/SYcJBuEEurULO6pf7FAsUQ) 2021.04.22. 
+33. [明尼苏达大学华人教授故意向Linux提交漏洞代码来做研究！整所大学被Linux列入黑名单......](https://mp.weixin.qq.com/s/SYcJBuEEurULO6pf7FAsUQ) 2021.04.22. | [后续！明尼苏达大学研究者为bug事件致歉，Linux内核社区不予接受](https://mp.weixin.qq.com/s/kEaQ4dVje8gT9T-zvLcLeA) 2021.04.27.
+
+
+34. [一位博士独白，九页血泪遗书](https://www.toutiao.com/w/i1697791068827648/?tt_from=weixin&utm_campaign=client_share&timestamp=1619180699&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&share_token=6c58fc51-1563-4ff0-8dc5-e666ff86ff4b&wxshare_count=1&wid=1619245983336) 2021.04.22. 
+
+
+35. [3名高校教师被教育部通报！其中1位是高校研究生自杀身亡事件学生导师！](https://mp.weixin.qq.com/s/BnLaVpENSE02_WN6IZGIkA) 2021.04.25. 
 
 
 
@@ -1205,6 +1219,6 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 10. [31岁杰出数学家死因成疑！最爱中国围棋，曾自创加密货币交易平台](https://mp.weixin.qq.com/s/d0h6lQqPiscluS7itSWZig). 2021.04.19. 
 
 
-updated in 2021.04.19
+updated in 2021.04.24
 
 
