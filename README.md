@@ -189,6 +189,10 @@ Table of Contents
 26. [爱可可老师：一个研究生的自我修养！](https://mp.weixin.qq.com/s/jScYc1EcnplZjP3_YVYnsg) 2021.04.22. 
 
 
+27. [99岁杨振宁寄语青年学子：要清楚方向、选对方向](https://mp.weixin.qq.com/s/S2xrDMN5AWJ88z7CnjKIJg) 2021.04.26. 
+
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
@@ -691,6 +695,8 @@ Table of Contents
 
 26. [他在入狱十年期间开启学术生涯，如今任职顶级医学院教授](他在入狱十年期间开启学术生涯，如今任职顶级医学院教授). 2021.04.07. 
 
+
+27. [读博6年两次换导师，靠一点点“倔”，俞舟成为social chatbot的开拓者之一](https://mp.weixin.qq.com/s/l7WfpR5rOsbYaAboXsm4PQ). 2021.04.28. 
 
 
 
