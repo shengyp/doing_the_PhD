@@ -105,6 +105,9 @@ Table of Contents
 17. [攻读数据科学硕士学位必须考虑的5个因素](https://mp.weixin.qq.com/s/8toc4mwmS2AHvreEQRMauw). 2021.03.27. 
 
 
+18. [【科研经验】刚读博士想退学？如何避免博士毕业不了？](https://mp.weixin.qq.com/s/xLCuWxjx_UhcrgbDobkrZw) 2021.05.02. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -699,6 +702,9 @@ Table of Contents
 27. [读博6年两次换导师，靠一点点“倔”，俞舟成为social chatbot的开拓者之一](https://mp.weixin.qq.com/s/l7WfpR5rOsbYaAboXsm4PQ). 2021.04.28. 
 
 
+28. [李飞飞高徒Andrej Karpathy用AI撰写内心独白：我的“进化”之路](https://mp.weixin.qq.com/s/G1dS44qwXMQ9EU3zDJAocQ). 2021.05.02. 
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -908,6 +914,9 @@ Table of Contents
 
 
 16. [激励青年科研人员 让更多成果从试验场走向练兵场](https://mp.weixin.qq.com/s/PYc-KTQcdvcAGb4fauN3QA). 2021.04.10. 
+
+
+17. [2021找北美教职经历分享](https://mp.weixin.qq.com/s/vU8gVaSvHIYJifOhRxVMtA). 2021.05.02. 
 
 
 
