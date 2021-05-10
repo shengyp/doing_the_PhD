@@ -1096,6 +1096,10 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 
 
 ## 这些事不干
+
+[学术出版规范 期刊学术不端行为界定](http://www.jsjkx.com/fileup/ITEM/20190719133537.pdf). 
+
+
 1. [论文中了顶会，却被曝抄袭前导师小组论文，多处原文及公式完全一致丨Reddit高热](https://mp.weixin.qq.com/s/eBTja_QRiODpSU7S-3p9RA). 2020.12.07
 
 
