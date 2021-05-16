@@ -1113,6 +1113,9 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 6. [四川七部门联合出招 破除科技评价中“唯论文”不良导向](https://mp.weixin.qq.com/s/aMHcQR78tmt5FkSKoIfSWA). 2021.04.02. 
 
 
+7. [陆大道院士：科研唯SCI论人才，该改变了](https://mp.weixin.qq.com/s/XtqA05aWltjNGIsYXmXRZQ). 2021.05.14. 
+
+
 
 ## 把论文写在祖国大地上
 1. [学术界为啥不爱投中文期刊？](https://mp.weixin.qq.com/s/xgJE2-YbExhQHE6zoat06g)  2020.09.16.
@@ -1236,6 +1239,9 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 
 
 37. [学花3W买论文发核心的幽灵讲师被扒，北大：已启动调查！](https://mp.weixin.qq.com/s/xCO3EQtL_ZljgdDQt38FFg) 2021.05.12. 
+
+
+38. [逃亡97天，MIT华裔博士落网！涉嫌枪杀26岁耶鲁华裔学生，被捕照片现诡异微笑](https://mp.weixin.qq.com/s/vQDu4fij3XOzDg0RfukApw) 2021.05.16. 
 
 
 
