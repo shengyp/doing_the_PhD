@@ -517,6 +517,10 @@ Table of Contents
 
 
 
+2. [AI研究生的文学情怀，厦大硕士毕业生文言致谢聊三年求学路](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 机器之心. 2021.05.17. 
+
+
+
 ## 博士婚姻研究
 1. [一位博士的婚姻研究：为什么这么多高学历女性不结婚？](https://mp.weixin.qq.com/s/AouCRe4-buZLP5MfMu_Jbw) 学术志. 2021.03.11. 
 
