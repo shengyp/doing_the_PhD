@@ -203,7 +203,6 @@ Table of Contents
 
 
 
-
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
 
@@ -239,6 +238,9 @@ Table of Contents
 
 
 12. [如何做出牛的研究？GAT作者DeepMind研究科学家​Petar谈论自己读博科研经验，为您指点一二](https://mp.weixin.qq.com/s/XqpYda2hX_TCPfuTPk2vdg). 2021.04.27.
+
+
+13. [第一：做学位论文期间，不要有任何度假休息的打算；第二，导师错的时候不多；第三……](https://mp.weixin.qq.com/s/LbenjoZyKOqitmKbkeflSg) 2021.05.18. 
 
 
 
@@ -416,6 +418,9 @@ Table of Contents
 
 ## 顶会存在的意义
 1. [纽大副教授炮轰NeurIPS、AAAI等顶会：无聊、就不该继续存在](https://mp.weixin.qq.com/s/nuwoaRgqTqJ-6ICaE1FOyw). 2021.05.07.
+
+
+2. [你的论文 “后劲儿” 有多大？MIT科学家开发AI预知模型，能更早、更准锁定 “隐藏宝石”](https://mp.weixin.qq.com/s/sPBpQC3p_MQxsnXF9-ArJw). 2021.05.18.
 
 
 
@@ -858,6 +863,9 @@ Table of Contents
 
 ## 谁说科学没有国界
 1. [被中国资助的科学家，或被断绝联邦经费：美参议院提出新规](https://mp.weixin.qq.com/s/KoE668leRlPqfT8g6AIJ3w). 2021.05.14.
+
+
+2. [又一知名华人学者被判入狱！中美学术交流加速脱钩？](https://mp.weixin.qq.com/s/3xF-vVSejSDcYbMR_noTOQ) 2021.05.17.
 
 
 
