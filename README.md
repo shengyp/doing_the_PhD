@@ -48,6 +48,7 @@ Table of Contents
   * [高校岗位设置与评价体制](#高校岗位设置与评价体制)
   * [国家自然科学基金](#国家自然科学基金)
   * [重点研发计划](#重点研发计划)
+  * [重庆市科技政策](#重庆市科技政策)  
   * [教师待遇](#教师待遇)
   * [谨慎破除“唯论文”现象](#谨慎破除“唯论文”现象)
   * [把论文写在祖国大地上](#把论文写在祖国大地上)
@@ -903,6 +904,9 @@ Table of Contents
 6. [以学生为中心的15个教学策略，重塑课堂教学！](https://mp.weixin.qq.com/s/p13fha6Awx4JXPbNNOGfUg) 2021.03.27.
 
 
+7. [你遇到过的最变态的博士生导师是怎样的？](https://mp.weixin.qq.com/s/HIOo9BfqJkaT9_kbzPgYZA) 2021.05.22.
+
+
 
 ## 青椒的苦恼
 1. [新进老师没编制！至少34所施行“非升即走”制度的985高校](https://www.toutiao.com/i6915294088258437636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610217687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101100241270101441311342C77A9BA&share_token=7efebb59-8c8e-4089-b9f2-6091908aa52c&group_id=6915294088258437636). 2021.01.08.
@@ -1015,6 +1019,9 @@ Table of Contents
 17. [【人社日课】之高等学校教师（副教授）职称评价基本标准](https://mp.weixin.qq.com/s/42SBidS2PacyPgPM-DZU6w). 2021.04.22
 
 
+18. [这8种情况, 可直接申报正高级职称！](https://mp.weixin.qq.com/s/X1sjoS_-Z2X3LZUzcDfFhg). 2021.05.22
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
@@ -1089,6 +1096,11 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 
 ## 重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
+
+
+
+## 重庆市科技政策
+1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
 
 
 
@@ -1259,6 +1271,13 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 38. [逃亡97天，MIT华裔博士落网！涉嫌枪杀26岁耶鲁华裔学生，被捕照片现诡异微笑](https://mp.weixin.qq.com/s/vQDu4fij3XOzDg0RfukApw) 2021.05.16. 
 
 
+39. [“副教授长期偷拍、发布女生照片”一事中南财经政法大学情况通报！](https://mp.weixin.qq.com/s/4H9gCwAvTNmkbwmCzJH8SA) 2021.05.22. 
+
+
+40. [人设崩塌！最高引学者被IEEE通报：人为夸大高引，取消「最佳论文」](https://mp.weixin.qq.com/s/HMQfIMcz_hbapkhv-yfomQ) 2021.05.24. 
+
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
@@ -1296,6 +1315,6 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 10. [31岁杰出数学家死因成疑！最爱中国围棋，曾自创加密货币交易平台](https://mp.weixin.qq.com/s/d0h6lQqPiscluS7itSWZig). 2021.04.19. 
 
 
-updated in 2021.05.11
+updated in 2021.05.21
 
 
