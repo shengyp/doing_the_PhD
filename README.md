@@ -414,6 +414,9 @@ Table of Contents
 1. [Nature：13个维度，手把手教“研究er”如何做报告](https://mp.weixin.qq.com/s/b-jhXzUkfI-am2bcwR_aDA). 2020.08.10.
 
 
+2. [如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf). 2021.05.27. [[Report]](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg) 
+
+
 
 ## 投稿经验分享
 1. [无心插柳 | 聊聊我的 ACL2020 论文](https://mp.weixin.qq.com/s/54TICyYYL76LGuke8Cwnzw). 2021.03.11.
@@ -1329,6 +1332,9 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 10. [31岁杰出数学家死因成疑！最爱中国围棋，曾自创加密货币交易平台](https://mp.weixin.qq.com/s/d0h6lQqPiscluS7itSWZig). 2021.04.19. 
 
 
-updated in 2021.05.25
+11. [悲痛！江苏80后副教授猝然离世](https://mp.weixin.qq.com/s/gna_MNsNPy90ZHuqaf7y5Q). 2021.05.26. 
+
+
+updated in 2021.05.27
 
 
