@@ -203,6 +203,9 @@ Table of Contents
 27. [99岁杨振宁寄语青年学子：要清楚方向、选对方向](https://mp.weixin.qq.com/s/S2xrDMN5AWJ88z7CnjKIJg) 2021.04.26. 
 
 
+28. [直博和读完硕士再读博，在能力上的差距有多大？](https://mp.weixin.qq.com/s/ByvYvguOToP9dRVr9Itsyw) 2021.05.25. 
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
@@ -735,6 +738,9 @@ Table of Contents
 29. [朱晨光：一个从不通宵的AI研究员](https://mp.weixin.qq.com/s/n0Dlq5ggwcwIWwtCPqvHbg). 2021.05.14. 
 
 
+30. [3次名校博士退学，还被微软全球封杀！「天才」王垠，你是个怎样的人？](https://mp.weixin.qq.com/s/RzbUbt9O702WiRf3Yl_Xnw) 2021.05.26. 
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -794,7 +800,7 @@ Table of Contents
 16. [田渊栋：博士五年之后五年的总结](https://mp.weixin.qq.com/s/JlVbb7_OrWqubbZq9vGwOw). 2018.10.02 | [田渊栋：博士五年之后五年的总结（续）](https://mp.weixin.qq.com/s/7r4t9DaGKSKzMuHDJM5k2g). 2018.10.16
 
 
-17. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017.
+17. [李沐-博士这五年](https://zhuanlan.zhihu.com/p/25099638). 2017. |  [李沐：工作五年反思](https://mp.weixin.qq.com/s/WNSyW2alN9XElO2ZD2tfJw). 2021.5.25. 
 
 
 18. [《上海交通大学生存手册》](https://liankeqin.gitbook.io/survivesjtumanual/). 2008.08.08. [[Manual]](https://github.com/BaldStrong/Shanghai-Jiaotong-University-Student-Survival-Manual/blob/master/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E7%94%9F%E5%AD%98%E6%89%8B%E5%86%8C.pdf)
@@ -958,6 +964,9 @@ Table of Contents
 
 
 17. [2021找北美教职经历分享](https://mp.weixin.qq.com/s/vU8gVaSvHIYJifOhRxVMtA). 2021.05.02. 
+
+
+18. [大学青年教师正面临着生存的5大困境：科研、论文、职称、家庭、理想…](https://mp.weixin.qq.com/s/-Qqzyd_DNER41dvQsSq__Q). 2021.05.25. 
 
 
 
@@ -1277,6 +1286,11 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 40. [人设崩塌！最高引学者被IEEE通报：人为夸大高引，取消「最佳论文」](https://mp.weixin.qq.com/s/HMQfIMcz_hbapkhv-yfomQ) 2021.05.24. 
 
 
+41. [翟天临首次回应毕业季被学生骂：能缓解论文季压力，就有意义](https://mp.weixin.qq.com/s/TXwFt2JKOEu9hmrnppMPHg). 2021.05.25. 
+
+
+42. [学术圈要炸锅：论文作者和审稿人串通欺骗盲审，ACM Fellow发文痛斥！顶会“想中就中”](https://mp.weixin.qq.com/s/2msL2KTVaMwltBg_rXyLsQ). 2021.05.27. 
+
 
 
 ## 症状
@@ -1315,6 +1329,6 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 10. [31岁杰出数学家死因成疑！最爱中国围棋，曾自创加密货币交易平台](https://mp.weixin.qq.com/s/d0h6lQqPiscluS7itSWZig). 2021.04.19. 
 
 
-updated in 2021.05.21
+updated in 2021.05.25
 
 
