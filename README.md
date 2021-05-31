@@ -1041,6 +1041,9 @@ Table of Contents
 18. [这8种情况, 可直接申报正高级职称！](https://mp.weixin.qq.com/s/X1sjoS_-Z2X3LZUzcDfFhg). 2021.05.22
 
 
+19. [院士：只有让科研人员过上体面的生活，才能让大多数科研人员不为各种窘迫所困，不为五斗米折腰，不热衷忽悠项目！](https://mp.weixin.qq.com/s/9ivRABSqD8RKj7lwZO9dMw) 2021.05.30
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
