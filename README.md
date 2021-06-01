@@ -437,6 +437,9 @@ Table of Contents
 2. [你的论文 “后劲儿” 有多大？MIT科学家开发AI预知模型，能更早、更准锁定 “隐藏宝石”](https://mp.weixin.qq.com/s/sPBpQC3p_MQxsnXF9-ArJw). 2021.05.18.
 
 
+3. [Reddit热议：比欺骗盲审更可怕的，是大家都在发表“高级造假”论文](https://mp.weixin.qq.com/s/qce9D7uQgAf9TgB1QWyxkg). 2021.06.01.
+
+
 
 ## 博士生的导师
 1. [学生不努力，导师能怎么办？](https://hub.baai.ac.cn/view/3027) 2020.10.22. 
@@ -1115,6 +1118,10 @@ https://mp.weixin.qq.com/s/3fJK-ZfsbDsp52LipvamIw). 2021.03.25.
 https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 
 
+19. [面上\青年经费占比偏低，建议提高！避免人才项目异化，2020年国自然绩效报告公布](
+https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
+
+
 
 ## 重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -1123,6 +1130,9 @@ https://mp.weixin.qq.com/s/oM1TFFJIkFq62n_qsG7LNw). 2021.05.08.
 
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
+
+
+2. [同时开展四项新行动！重庆启动科研人员“减负行动2.0”](https://mp.weixin.qq.com/s/5iGvmpIjI-74Q26jz7uTww) 2021.05.31
 
 
 
