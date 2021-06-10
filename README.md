@@ -121,43 +121,43 @@ Table of Contents
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
-1. [​鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
+1. [鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
 
 
 <!-- 2. [​我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/v6vGNV4eAAcApb0b2h_Xgg) 2020.11.05. -->
 
 
-2. [​985高校教授：给初涉科研同学的八条建议](https://mp.weixin.qq.com/s/AgnVuuthhakib5PbZuOIyA). 2020.10.07.
+2. [985高校教授：给初涉科研同学的八条建议](https://mp.weixin.qq.com/s/AgnVuuthhakib5PbZuOIyA). 2020.10.07.
 
 
-3. [​博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
+3. [博士真正搞科研的姿势，是这样的丨知乎高赞](https://mp.weixin.qq.com/s/euKaG52OKGXHjklGFuU_6w). 2020.10.03.
 
 
-4. [​避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
+4. [避免掉坑里！佐治亚理工21页优雅读博指南](https://mp.weixin.qq.com/s/gT74rhpLfZRwG7LSnRwB_g). 2020.10.02. [[下载]](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit) 
 
 
-5. [​你准备好做个合格的科研汪了吗？](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw)  2020.09.28.
+5. [你准备好做个合格的科研汪了吗？](https://mp.weixin.qq.com/s/XNxAoL5GrXDOXGp7HiSbTw)  2020.09.28.
 
 
-6. [​导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
+6. [导师神总结：读博失败的10个作死大法](https://mp.weixin.qq.com/s/nFacyLoUfYA3W4M7OVvshw). 2020.09.13.
 
 
-7. [​读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
+7. [读博，每天要不要工作十二小时](https://mp.weixin.qq.com/s/Rsf_iA_bqGBj6y9EA1PucQ). 2020.09.13.
 
 
-8. [​张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
+8. [张启发院士给自己博士生写的一封信](https://mp.weixin.qq.com/s/xLrzJvcupQeCVrVj5_-02w). 2020.09.11.
 
 
-9. [​郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
+9. [郝清杰｜博士生培养的跨界反思](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.09.08.
 
 
-10. [​21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
+10. [21页博士生存指南，佐治亚理工助理教授亲自撰写，有志读研的看过来](https://mp.weixin.qq.com/s/5Hq_kXFe3ZZQPpzdfe7AZw).
 
 
-11. [​博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)
+11. [博士生的成功秘诀何在？学者：主要看老板！](https://mp.weixin.qq.com/s/--VHZjNBge130flqtPq-SQ)
 
 
-12. [​一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
+12. [一位导师写给自己的研究生：关于研究规划、学术入门、论文署名、师生关系等](https://mp.weixin.qq.com/s/dHGgjc-EMVCAXJL1n-zWDQ). 2020.08.31.
 
 
 13. [施一公：如何成为一名优秀的博士生？](https://mp.weixin.qq.com/s/vIlwqtqBWiQNxsLLsSMblg)  2020.08.28.
@@ -247,6 +247,9 @@ Table of Contents
 
 
 13. [第一：做学位论文期间，不要有任何度假休息的打算；第二，导师错的时候不多；第三……](https://mp.weixin.qq.com/s/LbenjoZyKOqitmKbkeflSg) 2021.05.18. 
+
+
+14. [四位博士分享学位论文选题心得：让后来人少掉坑](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ) 2021.06.08. 
 
 
 
@@ -760,6 +763,9 @@ Table of Contents
 30. [3次名校博士退学，还被微软全球封杀！「天才」王垠，你是个怎样的人？](https://mp.weixin.qq.com/s/RzbUbt9O702WiRf3Yl_Xnw) 2021.05.26. 
 
 
+31. [校长心语 | 一个没挤上火车的人](https://mp.weixin.qq.com/s/ekft_aAa9fH6b53ZBoP-Sg) 2021.06.07.
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -991,6 +997,12 @@ Table of Contents
 19. [北大回应！关于青年教师韦东奕网络走红一事](https://mp.weixin.qq.com/s/uA76m-DGact6AHiBHpRrdg). 2021.06.03. 
 
 
+20. [复旦大学数学系教师杀人案：“非升即走”的长聘教轨制是根源？](https://mp.weixin.qq.com/s/b-pvAF716kGiX1Ur0j0Frw). 2021.06.08. 
+
+
+21. [院士坦言：如果没有项目或“帽子”，不足以让科研人过上“体面的生活”](https://mp.weixin.qq.com/s/IWjWZObZQnMC6prXW-RWeQ). 2021.06.10. 
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
@@ -1054,6 +1066,14 @@ Table of Contents
 
 
 19. [院士：只有让科研人员过上体面的生活，才能让大多数科研人员不为各种窘迫所困，不为五斗米折腰，不热衷忽悠项目！](https://mp.weixin.qq.com/s/9ivRABSqD8RKj7lwZO9dMw) 2021.05.30
+
+
+20. [“非升即走”是高校之恶？龚炯：说这话的人不了解实情](https://www.toutiao.com/i6971740415204737547/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1623251319&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202106092308390101502152084D17D68E&share_token=f8eae94b-22a6-487e-9ec2-418817796d18&group_id=6971740415204737547). 2021.06.09
+
+
+
+21. [国内tenure和美国tenure的异同](https://m.weibo.cn/status/4646300349371253?wm=3333_2001&from=10B6193010&sourcetype=weixin). 2021.06.10
+
 
 
 
@@ -1325,6 +1345,9 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 
 43. [百年名校史上第一桩：博士论文抄袭，剥夺学位，涉事中国学者已在国内教书7年](https://mp.weixin.qq.com/s/aID7tfBzDRomotUxHmx5gA). 2021.05.28. 
+
+
+44. [实名举报师兄论文造假！](https://mp.weixin.qq.com/s/xUMI7n8t5IoJ_wlAVAYV3A) 2021.06.06.
 
 
 
