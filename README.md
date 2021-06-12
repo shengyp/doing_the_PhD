@@ -769,6 +769,9 @@ Table of Contents
 31. [校长心语 | 一个没挤上火车的人](https://mp.weixin.qq.com/s/ekft_aAa9fH6b53ZBoP-Sg) 2021.06.07.
 
 
+32. [刘知远、赵鑫、施柏鑫：AI青年科研人员成长之路](https://mp.weixin.qq.com/s/W8RxsRmZkXWYuVGTyRwpAQ) 2021.06.12.
+
+
 
 ## 大厂经历
 1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
