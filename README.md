@@ -118,6 +118,9 @@ Table of Contents
 19. [【学术相关】直博和读完硕士再读博，在能力上的差距有多大？](https://mp.weixin.qq.com/s/LdW9_OewUJMBDyeFGoQbEw) 2021.05.17. 
 
 
+20. [读博士需要什么品质和能力？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/1WCNR0LSNbscVzCSV5DWrA) 2021.06.12. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
