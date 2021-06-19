@@ -121,6 +121,9 @@ Table of Contents
 20. [读博士需要什么品质和能力？到底什么样的人适合读博士？](https://mp.weixin.qq.com/s/1WCNR0LSNbscVzCSV5DWrA) 2021.06.12. 
 
 
+21. [如何做好“学术自荐”，这里有五点建议！](https://mp.weixin.qq.com/s/XW8MoPGj6LPP--LACCn3sQ) 2021.06.19. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
