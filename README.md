@@ -1362,6 +1362,9 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 44. [实名举报师兄论文造假！](https://mp.weixin.qq.com/s/xUMI7n8t5IoJ_wlAVAYV3A) 2021.06.06.
 
 
+45. [网传字节跳动实习生删除GB以下所有机器学习模型，差点没上头条......](https://mp.weixin.qq.com/s/Hvl8IxDFEfF3nmKmrua_KQ) 2021.06.23.
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
