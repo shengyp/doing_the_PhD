@@ -400,6 +400,9 @@ Table of Contents
 38. [清华刘知远：如何写一篇合格的NLP论文](https://mp.weixin.qq.com/s/TMVlzHq9FSp1C1HcskG6ow). 2021.04.20.
 
 
+39. [北京大学施柏鑫：从审稿人视角，谈谈怎么写一篇CVPR论文](https://mp.weixin.qq.com/s/YN3Ij_4gBxaWVRHn14va4w). 2021.06.23.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
