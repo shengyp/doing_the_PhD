@@ -124,6 +124,9 @@ Table of Contents
 21. [如何做好“学术自荐”，这里有五点建议！](https://mp.weixin.qq.com/s/XW8MoPGj6LPP--LACCn3sQ) 2021.06.19. 
 
 
+22. [读博，我想好了！](https://zhuanlan.zhihu.com/p/383411366?utm_source=wechat_session&utm_medium=social&utm_oi=38273409875968&s_r=0) 2021.06.24. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -256,6 +259,9 @@ Table of Contents
 
 
 14. [四位博士分享学位论文选题心得：让后来人少掉坑](https://mp.weixin.qq.com/s/H2ZOatGZiZ5slh94RZwFsQ) 2021.06.08. 
+
+
+15. [读博时的我急于求成陷入焦虑，导师告诫我“科研就是游戏人生”](https://mp.weixin.qq.com/s/eULBoPhjA0Tllg1EGZj3tg) 2021.06.24. 
 
 
 
@@ -548,7 +554,7 @@ Table of Contents
 
 
 ## 学位论文致谢
-1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng) 2021.04.19. 
+1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng) 2021.04.19. | [博士论文致谢走红后，黄国平母校演讲再刷屏！](https://mp.weixin.qq.com/s/9sWQyo2GQF5085DXdm6SHw) 2021.06.24. 
 
 
 
