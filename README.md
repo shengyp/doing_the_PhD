@@ -28,6 +28,7 @@ Table of Contents
   * [延期毕业问题](#延期毕业问题)
   * [博士学位论文](#博士学位论文)
   * [学位论文致谢](#学位论文致谢)
+  * [毕业典礼](#毕业典礼)
   * [名校光环](#名校光环)
   * [博士婚姻研究](#博士婚姻研究)
   * [AI论文调研](#AI论文调研)
@@ -125,6 +126,9 @@ Table of Contents
 
 
 22. [读博，我想好了！](https://zhuanlan.zhihu.com/p/383411366?utm_source=wechat_session&utm_medium=social&utm_oi=38273409875968&s_r=0) 2021.06.24. 
+
+
+23. [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ). 2021.06.24. 
 
 
 
@@ -559,6 +563,11 @@ Table of Contents
 
 
 2. [AI研究生的文学情怀，厦大硕士毕业生文言致谢聊三年求学路](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 机器之心. 2021.05.17. 
+
+
+
+## 毕业典礼
+1. [所长致辞 | 徐波所长：创新驱动发展，培育拔尖人才](https://mp.weixin.qq.com/s/-M84dYXr4Vd5IboUNY8YzQ). 2021.06.24. 
 
 
 
