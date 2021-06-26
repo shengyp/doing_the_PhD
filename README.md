@@ -12,6 +12,7 @@ Table of Contents
 =================
 
 <!--   * [Multi-modal Information Extraction from Text](#Multi-modal_Information_Extraction_from_Text) -->
+  * [高考模式](#高考模式)
   * [一个执着的决定](#一个执着的决定)
   * [如何开个好头](#如何开个好头)
   * [好的研究想法如何产生](#好的研究想法如何产生)
@@ -59,6 +60,13 @@ Table of Contents
   * [症状](#症状)
   * [英才陨落](#英才陨落)
   * [海里游荡](#海里游荡)
+
+
+
+
+## 高考模式
+1. [高考地狱模式是哪个省？](https://mp.weixin.qq.com/s/gAKif2RKjs4sqJSYkGIkcA)  2021.06.25. 
+
 
 
 ## 一个执着的决定
@@ -795,7 +803,7 @@ Table of Contents
 
 
 ## 大厂经历
-1. [入职腾讯第 9 年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
+1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
 
 
 2. [如何看待2022年秋招算法岗车毁人亡？](https://mp.weixin.qq.com/s/HC6u1gEYVRr0djcY4omx6A) 2021.04.07.
