@@ -68,6 +68,9 @@ Table of Contents
 1. [高考地狱模式是哪个省？](https://mp.weixin.qq.com/s/gAKif2RKjs4sqJSYkGIkcA)  2021.06.25. 
 
 
+2. [高考如何填报志愿？一份最全人工智能专业填报指南请收好](https://mp.weixin.qq.com/s/BJnMHfD4i6BTrTt0sz9u7A). 2021.06.26. 
+
+
 
 ## 一个执着的决定
 1. [我为什么读博， 以及我为什么不读博？这是个问题！](https://mp.weixin.qq.com/s/aI6aXi1ujInRmFqCWV3NVA)  2020.12.31. 
@@ -137,6 +140,9 @@ Table of Contents
 
 
 23. [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ). 2021.06.24. 
+
+
+24. [​35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. 
 
 
 
@@ -801,6 +807,9 @@ Table of Contents
 32. [刘知远、赵鑫、施柏鑫：AI青年科研人员成长之路](https://mp.weixin.qq.com/s/W8RxsRmZkXWYuVGTyRwpAQ) 2021.06.12.
 
 
+33. [鬲融：昔日的 IOI 战神、清华特奖获得者，“大器晚成”的科研人](https://mp.weixin.qq.com/s/C4CcxHCoo89aEzIlWdUJRw). 2021.06.30.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -1388,6 +1397,9 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 45. [网传字节跳动实习生删除GB以下所有机器学习模型，差点没上头条......](https://mp.weixin.qq.com/s/Hvl8IxDFEfF3nmKmrua_KQ) 2021.06.23.
 
 
+46. [女研究生万言书举报华中科技大学教授性骚扰](https://mp.weixin.qq.com/s/_sPOdRFABVG3Gkq-UUg6jA). 2021.06.27.
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
@@ -1434,6 +1446,6 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 
 
-updated in 2021.06.04
+updated in 2021.06.30
 
 
