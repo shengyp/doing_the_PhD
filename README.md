@@ -142,7 +142,11 @@ Table of Contents
 23. [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ). 2021.06.24. 
 
 
-24. [​35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. 
+24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. 
+
+
+
+25. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w) 2021.06.30. 
 
 
 
@@ -1398,6 +1402,9 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 
 46. [女研究生万言书举报华中科技大学教授性骚扰](https://mp.weixin.qq.com/s/_sPOdRFABVG3Gkq-UUg6jA). 2021.06.27.
+
+
+47. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w). 2021.06.30.
 
 
 
