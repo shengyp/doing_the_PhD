@@ -1404,7 +1404,7 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 46. [女研究生万言书举报华中科技大学教授性骚扰](https://mp.weixin.qq.com/s/_sPOdRFABVG3Gkq-UUg6jA). 2021.06.27.
 
 
-47. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w). 2021.06.30.
+47. [撤稿事件警醒：千万不要自己骗自己](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655476088&idx=1&sn=eca37a1a713b1d55fec584c4bf31bfdf&chksm=f3a75b15c4d0d203c7dded4961978c1edf73d6b4e73c39e95d64f2b2a4134a1f7440c68cb1bd&mpshare=1&scene=23&srcid=0702c3lYJuRLE2NpThpRpzmg&sharer_sharetime=1625208046968&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2021.07.02.
 
 
 
