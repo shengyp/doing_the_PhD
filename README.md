@@ -431,6 +431,9 @@ Table of Contents
 39. [北京大学施柏鑫：从审稿人视角，谈谈怎么写一篇CVPR论文](https://mp.weixin.qq.com/s/YN3Ij_4gBxaWVRHn14va4w). 2021.06.23.
 
 
+40. [如何发表SCI？](https://www.wukong.com/question/6491670742843785486/). 2021.07.02.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
@@ -814,6 +817,9 @@ Table of Contents
 33. [鬲融：昔日的 IOI 战神、清华特奖获得者，“大器晚成”的科研人](https://mp.weixin.qq.com/s/C4CcxHCoo89aEzIlWdUJRw). 2021.06.30.
 
 
+34. [华科学子连续三年入选华为“天才少年”！AI 博士生获201万最高档年薪](https://mp.weixin.qq.com/s/7YhBhcvJt42sryloUCQTsg). 2021.07.03.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -1049,6 +1055,9 @@ Table of Contents
 
 
 21. [院士坦言：如果没有项目或“帽子”，不足以让科研人过上“体面的生活”](https://mp.weixin.qq.com/s/IWjWZObZQnMC6prXW-RWeQ). 2021.06.10. 
+
+
+22. [德国版“非升即走”引发学界震荡！“临时工”干12年也难获教职，网友：全世界都在卷](https://mp.weixin.qq.com/s/6Q9JsI35Zzx6DBU8dnSj9A). 2021.07.03. 
 
 
 
