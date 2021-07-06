@@ -445,6 +445,9 @@ Table of Contents
 3. [有的论文，没做好、没改好，就不要急着投稿了！否则，认为你是在学术投机……](https://mp.weixin.qq.com/s/Iyw7noJQZGsTte7zxpxEHQ). 2021.01.22.
 
 
+4. [投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379). 2021.07.02.
+
+
 
 ## 如何做Rebuttal
 1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
@@ -502,6 +505,9 @@ Table of Contents
 
 
 6. [知乎高赞话题引热议，不坑博士后的导师怎么找？](https://mp.weixin.qq.com/s/FigOPOQWpp2RCLl8u9ftHQ) 2021.03.16. 
+
+
+7. [教育部关于印发《研究生导师指导行为准则》的通知](http://www.moe.gov.cn/srcsite/A22/s7065/202011/t20201111_499442.html) 2020.11.04. 
 
 
 
