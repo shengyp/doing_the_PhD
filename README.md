@@ -448,6 +448,9 @@ Table of Contents
 4. [投稿前先给期刊编辑发个邮件，说不定文章接收得更快哦](https://www.toutiao.com/i6980175614674223629/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1625374499&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107041254590101512171045E0446EF&share_token=a5a63611-a3b2-4712-9589-74c13e3a13fd&group_id=6980175614674223629&wid=1625399365379). 2021.07.02.
 
 
+5. [计算机顶会论文投稿指南](https://mp.weixin.qq.com/s/ro74V_IzOmhLvE2yDYYlPw). 2021.07.06.
+
+
 
 ## 如何做Rebuttal
 1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
@@ -824,6 +827,9 @@ Table of Contents
 
 
 34. [华科学子连续三年入选华为“天才少年”！AI 博士生获201万最高档年薪](https://mp.weixin.qq.com/s/7YhBhcvJt42sryloUCQTsg). 2021.07.03.
+
+
+35. [潘玲：读博是一场苦亦乐的旅程](https://mp.weixin.qq.com/s/jI7swAgh9o26dyz7V0YNww). 2021.07.09.
 
 
 
