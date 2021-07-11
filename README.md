@@ -434,6 +434,9 @@ Table of Contents
 40. [如何发表SCI？](https://www.wukong.com/question/6491670742843785486/). 2021.07.02.
 
 
+41. [How to Write a Research Paper](https://www.natalieparde.com/files/how_to_write_a_research_paper.pdf). Dr. Natalie Parde. 2021.07.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
