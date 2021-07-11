@@ -832,6 +832,10 @@ Table of Contents
 35. [潘玲：读博是一场苦亦乐的旅程](https://mp.weixin.qq.com/s/jI7swAgh9o26dyz7V0YNww). 2021.07.09.
 
 
+36. [本科10篇机器学习+化学SCI，全奖直博香港城市大学：没有985背景，不代表二本生没有梦想](https://mp.weixin.qq.com/s/7PhfhvRaJxHSOzukj_9zjQ). 2021.07.11.
+
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
