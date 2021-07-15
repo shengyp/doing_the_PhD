@@ -463,6 +463,9 @@ Table of Contents
 5. [计算机顶会论文投稿指南](https://mp.weixin.qq.com/s/ro74V_IzOmhLvE2yDYYlPw). 2021.07.06.
 
 
+6. [UESTCer研习社 | 《SCI投稿不完全指北》](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw). 2021.07.15.
+
+
 
 ## 如何做Rebuttal
 1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
@@ -646,6 +649,10 @@ Table of Contents
 
 
 2. [这些开支高风险 | 常见科研经费违规和不合理使用典型问题](https://mp.weixin.qq.com/s/iDs_RU6yD_gFdr-MmWLwuA). 2021.03.08. 
+
+
+3. [速来！你要的科研人员及科研财务助理常用国家科研经费管理政策汇编PDF版来了](https://mp.weixin.qq.com/s/gSyymPn3qtPH7aJ48b_43g). 2021.07.14. 
+
 
 
 
@@ -980,6 +987,9 @@ Table of Contents
 
 
 2. [又一知名华人学者被判入狱！中美学术交流加速脱钩？](https://mp.weixin.qq.com/s/3xF-vVSejSDcYbMR_noTOQ) 2021.05.17.
+
+
+3. [钱学森23年前的来信曝光！写给中科大这位院士，事关国家大事！](https://k.sina.cn/article_1806503894_6bad0fd6019011lgc.html?wm=13500_0055&vt=4) 2021.07.15.
 
 
 
