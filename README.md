@@ -316,6 +316,9 @@ Table of Contents
 8. [How to research](http://home.ustc.edu.cn/~zzy0929/Home/How%20to%20research.pdf). 2021.04. 
 
 
+9. [arXiv时代，应如何看待那些互相矛盾的论文？](https://mp.weixin.qq.com/s/eoH1FMjLC9-3VGZL5smiCw). 2021.07.17 
+
+
 
 ## 如何做实验
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
@@ -1452,6 +1455,9 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 
 47. [撤稿事件警醒：千万不要自己骗自己](https://mp.weixin.qq.com/s?__biz=MzIyNDA2NTI4Mg==&mid=2655476088&idx=1&sn=eca37a1a713b1d55fec584c4bf31bfdf&chksm=f3a75b15c4d0d203c7dded4961978c1edf73d6b4e73c39e95d64f2b2a4134a1f7440c68cb1bd&mpshare=1&scene=23&srcid=0702c3lYJuRLE2NpThpRpzmg&sharer_sharetime=1625208046968&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2021.07.02.
+
+
+48. [2020-2021学术不端腐败事件大盘点](https://www.toutiao.com/i6984718085051761184/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1626360224&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107152243430101512071371712469D&share_token=2ecd852d-1287-471e-94cf-aeef9289e8e3&group_id=6984718085051761184). 2021.07.14.
 
 
 
