@@ -453,6 +453,8 @@ Table of Contents
 42. [清华大学刘洋教授： 如何撰写高质量科技论文](./report/如何撰写高质量科技论文.pdf). 2021.06. [[Report]](http://dblab.xmu.edu.cn/wp-content/uploads/2012/01/%E8%AE%BA%E6%96%87%E6%98%AF%E6%80%8E%E4%B9%88%E7%BB%83%E6%88%90%E7%9A%84-%E6%9E%97%E5%AD%90%E9%9B%A8-%E5%8E%A6%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%9E%E9%AA%8C%E5%AE%A4.pdf). 
 
 
+43. [清华刘洋：论文写作，信息为表，逻辑为骨，思想为心](https://mp.weixin.qq.com/s/1Lo4KxRy1FeHWiBJL1TpUg). 2021.07.20.
+
 
 
 ## 如何投论文
@@ -1256,6 +1258,10 @@ https://mp.weixin.qq.com/s/Wudbbos96DhNowlml4KKbQ). 2021.06.01.
 
 20. [国家自然科学基金上会标准及评审流程](
 http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml). 2020.03.15.
+
+
+21. [国家自然科学基金上会评审(会评)基本情况介绍](
+https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04.
 
 
 
