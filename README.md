@@ -864,6 +864,9 @@ Table of Contents
 36. [本科10篇机器学习+化学SCI，全奖直博香港城市大学：没有985背景，不代表二本生没有梦想](https://mp.weixin.qq.com/s/7PhfhvRaJxHSOzukj_9zjQ). 2021.07.11.
 
 
+37. [ALBERT一作蓝振忠：从谷歌离职回到西湖大学，只为打造一个24小时在线的「心理咨询师」](https://mp.weixin.qq.com/s/eFnv3Mkz8QMtkgHUq1vGew). 2021.07.22.
+
+
 
 
 ## 大厂经历
