@@ -325,6 +325,9 @@ Table of Contents
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
 
 
+2. [深度学习博士发出灵魂拷问：我是在做算法还是在调参？](https://mp.weixin.qq.com/s/Jv9tZhtfaN53Ur-9jupWXw) 2021.07.23 
+
+
 
 ## 如何写论文
 1. [如何写好摘要——毕业论文](https://mp.weixin.qq.com/s/H8-WPDO8voDIIvr99zSKew) 2021.01.14.
@@ -536,6 +539,9 @@ Table of Contents
 
 
 7. [教育部关于印发《研究生导师指导行为准则》的通知](http://www.moe.gov.cn/srcsite/A22/s7065/202011/t20201111_499442.html) 2020.11.04. 
+
+
+8. [985高校博士：师从院士的我，直到毕业也没和导师单独说过一句话](https://mp.weixin.qq.com/s/DE9NLdZjx764JlVUlzYBEA) 2021.07.25. 
 
 
 
