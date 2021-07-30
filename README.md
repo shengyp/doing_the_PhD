@@ -873,6 +873,8 @@ Table of Contents
 37. [ALBERT一作蓝振忠：从谷歌离职回到西湖大学，只为打造一个24小时在线的「心理咨询师」](https://mp.weixin.qq.com/s/eFnv3Mkz8QMtkgHUq1vGew). 2021.07.22.
 
 
+38. [清华韩旭：一个“普通”人的热爱与执着](https://mp.weixin.qq.com/s/APbf3QisOn7n2CkheG9hiQ). 2021.07.30.
+
 
 
 ## 大厂经历
