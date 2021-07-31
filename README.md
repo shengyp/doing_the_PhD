@@ -950,6 +950,10 @@ Table of Contents
 21. [2021 Fall 申请回忆录 (北美 CS PhD)](https://mp.weixin.qq.com/s/zmQ7V2OMdCAB_0vhatn1mQ). 2021.02.17
 
 
+22. [你在读博士期间明白的最深刻的道理是什么？](https://mp.weixin.qq.com/s/IQDnlJS-6GTyMoEvptJaFw). 2021.07.31
+
+
+
 
 ## 被博士后割韭菜了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
@@ -1500,6 +1504,10 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 
 
 
+49. [南开硕博连读生被退学：曾向导师下跪，5年博士白读](https://mp.weixin.qq.com/s/oxdWpRkYbmqQWGHTVA_AZA). 2021.07.31.
+
+
+
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
 
@@ -1545,6 +1553,6 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 
 
 
-updated in 2021.06.30
+updated in 2021.08.01
 
 
