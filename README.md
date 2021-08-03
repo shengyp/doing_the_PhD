@@ -1507,6 +1507,9 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 49. [南开硕博连读生被退学：曾向导师下跪，5年博士白读](https://mp.weixin.qq.com/s/oxdWpRkYbmqQWGHTVA_AZA). 2021.07.31.
 
 
+50. [等调查！重庆大学女副教授跳楼身亡，群发遗书举报院系领导](https://mp.weixin.qq.com/s/b18SZCd3eLb8ZQMcQ99VBA). 2021.08.03. 
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
