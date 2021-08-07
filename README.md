@@ -671,6 +671,9 @@ Table of Contents
 3. [速来！你要的科研人员及科研财务助理常用国家科研经费管理政策汇编PDF版来了](https://mp.weixin.qq.com/s/gSyymPn3qtPH7aJ48b_43g). 2021.07.14. 
 
 
+4. [专访陈天桥：把钱投给甘坐冷板凳的AI研究员](https://mp.weixin.qq.com/s/FDOUYyQ_q9Z8j9P4cjIDJQ). 2021.08.05. 
+
+
 
 
 ## 导师招生神奇要求
@@ -1515,7 +1518,7 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 49. [南开硕博连读生被退学：曾向导师下跪，5年博士白读](https://mp.weixin.qq.com/s/oxdWpRkYbmqQWGHTVA_AZA). 2021.07.31.
 
 
-50. [等调查！重庆大学女副教授跳楼身亡，群发遗书举报院系领导](https://mp.weixin.qq.com/s/b18SZCd3eLb8ZQMcQ99VBA). 2021.08.03. 
+50. [等调查！重庆大学女副教授跳楼身亡，群发遗书举报院系领导](https://mp.weixin.qq.com/s/b18SZCd3eLb8ZQMcQ99VBA). 2021.08.03. | [女老师留遗书反映领导贪污后跳楼身亡，重庆大学：未发现其反映的问题](https://www.toutiao.com/i6993538810625819166/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1628327997&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108071719570101502180185D40216D&share_token=54079c55-3b65-4754-b5dd-f4057b355ddf&group_id=6993538810625819166). 2021.08.07. 
 
 
 51. [开除IEEE Fellow李涛的会员资格！ACM罕见公开点名：不忘悲剧，警示未来](https://mp.weixin.qq.com/s/q179W3-0e17UP9w9q-51iA). 2021.08.04. 
