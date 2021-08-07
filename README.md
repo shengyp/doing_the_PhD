@@ -634,7 +634,8 @@ Table of Contents
 
 
 ## 博士婚姻研究
-1. [在名校“垫底”和二流学校“拔尖”，哪条路更容易成功？研究结果令人惊讶…](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 2021.06.01. 
+
+1. [挤进名校“垫底”，还是在二流学校“拔尖”？听听这位著名的畅销书作者怎么说](https://mp.weixin.qq.com/s/2h1GyVeMhMzDp4ek1DM7Vw). 外滩教育. 2019.11.08. 
 
 
 
@@ -1568,5 +1569,4 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 
 
 updated in 2021.08.01
-
 
