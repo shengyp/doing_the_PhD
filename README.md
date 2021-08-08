@@ -1524,6 +1524,10 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 51. [开除IEEE Fellow李涛的会员资格！ACM罕见公开点名：不忘悲剧，警示未来](https://mp.weixin.qq.com/s/q179W3-0e17UP9w9q-51iA). 2021.08.04. 
 
 
+52. [阿里女员工被上司安排陪酒遭性侵成热搜！董事长回应：震惊气愤羞愧，绝不容忍](https://mp.weixin.qq.com/s/w2acQRZlzCmvwZR3HMsbow). 2021.08.08. 
+
+
+
 
 ## 症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
@@ -1570,6 +1574,6 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 
 
 
-updated in 2021.08.01
+updated in 2021.08.08
 
 
