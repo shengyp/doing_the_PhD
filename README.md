@@ -147,8 +147,10 @@ Table of Contents
 24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. 
 
 
-
 25. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w) 2021.06.30. 
+
+
+26. [想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) 2014. [Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)
 
 
 
