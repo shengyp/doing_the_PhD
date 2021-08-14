@@ -153,6 +153,9 @@ Table of Contents
 26. [想好入坑读博？CMU- Balter教授这份申请计算机博士指南，帮你想清楚](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) 2014. [Report](https://mp.weixin.qq.com/s/Ec66Pf3D5_hN1mPW8fA01g)
 
 
+27. [博士延期的我，女友已经是副教授了](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA) 2021.08.14. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
