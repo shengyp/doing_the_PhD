@@ -886,6 +886,9 @@ Table of Contents
 39. [又一AI界“大佬”回高校任教！财务自由后开始学术追求？](https://www.toutiao.com/i6992559292704375300/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1628089122&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108042258410101510781485117E234&share_token=607ca3c5-1d59-467d-a654-b774c7d17500&group_id=6992559292704375300). 2021.08.04.
 
 
+40. [他2年拿下博士学位，发表11篇顶会论文！浙大校友李旻辰斩获SIGGRAPH最佳博士论文奖](https://mp.weixin.qq.com/s/R22yXvgNnTmlUY5F2jP74A). 2021.08.14.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -1302,6 +1305,11 @@ https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04.
 
 22. [国家自然科学基金委员会2020年度报告出炉！](
 https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
+
+
+23. [2021年国基金即将公布，这几个问题先了解一下！](
+https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15.
+
 
 
 
