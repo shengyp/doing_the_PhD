@@ -1136,6 +1136,9 @@ Table of Contents
 22. [德国版“非升即走”引发学界震荡！“临时工”干12年也难获教职，网友：全世界都在卷](https://mp.weixin.qq.com/s/6Q9JsI35Zzx6DBU8dnSj9A). 2021.07.03. 
 
 
+23. [“非升即走”：奔驰在“快车道”上:青年教师的工作日常](https://mp.weixin.qq.com/s/igZUSGejI-K7AuubvoF-Dg). 2021.08.15. 
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
@@ -1588,6 +1591,6 @@ https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15.
 
 
 
-updated in 2021.08.08
+updated in 2021.08.15
 
 
