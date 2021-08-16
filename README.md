@@ -156,6 +156,10 @@ Table of Contents
 27. [博士延期的我，女友已经是副教授了](https://mp.weixin.qq.com/s/3VLEw3ZJMv-HIqiR8fwKEA) 2021.08.14. 
 
 
+28. [Nature：希望你在读博士之初就能知道的 20 件事](https://mp.weixin.qq.com/s/_qY8Yxh79P1tqPmNwpg5Iw). 2021.08.15. 
+
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -294,6 +298,10 @@ Table of Contents
 
 
 16. [为了一个科研idea，博士生们连冥想、巫毒仪式都用上了｜Reddit热议](https://mp.weixin.qq.com/s/mku8fyxcctKYeu-Xo8tPCQ). 2021.07.12. 
+
+
+17. [H.T. Kung 关于研究的有用建议](https://mp.weixin.qq.com/s/wVTmQB48bAAyr7z1ynLkhA). 2021.08.16. 
+
 
 
 
@@ -889,6 +897,9 @@ Table of Contents
 40. [他2年拿下博士学位，发表11篇顶会论文！浙大校友李旻辰斩获SIGGRAPH最佳博士论文奖](https://mp.weixin.qq.com/s/R22yXvgNnTmlUY5F2jP74A). 2021.08.14.
 
 
+41. [从中专生到哈工大最年轻博导，这位破格教授是多少读博学子的榜样](https://www.toutiao.com/i6996829056981320222/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629087165&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108161212450101511732014EBC4310&share_token=a237499c-9bf6-467b-b4e2-33de5ecf9ad8&group_id=6996829056981320222). 2021.08.16.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -999,7 +1010,10 @@ Table of Contents
 10. [尴尬的“博士后”](https://mp.weixin.qq.com/s/MRq3zesv6yagm763taTmtQ) 2021.04.08.
 
 
-11. [6 年招聘 8000 多人引发争议：高校割起年轻博士的韭菜有多疯狂？](https://mp.weixin.qq.com/s/qI6lz6q9pQoJMP5cKGXQZA) 2021.04.10.
+11. [6年招聘 8000 多人引发争议：高校割起年轻博士的韭菜有多疯狂？](https://mp.weixin.qq.com/s/qI6lz6q9pQoJMP5cKGXQZA) 2021.04.10.
+
+
+12. [青椒亲历：满屏尴尬！博士去面试被建议做博士后](https://www.toutiao.com/i6996840478708859405/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629087374&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108161216130101512070292CBD7486&share_token=a12bbdfd-4993-4685-8166-a00851cf4eb6&group_id=6996840478708859405) 2021.08.16.
 
 
 
