@@ -472,6 +472,9 @@ Table of Contents
 43. [清华刘洋：论文写作，信息为表，逻辑为骨，思想为心](https://mp.weixin.qq.com/s/1Lo4KxRy1FeHWiBJL1TpUg). 2021.07.20.
 
 
+44. [如何写一篇不水的机器学习论文？](https://www.toutiao.com/i6996915308405572129/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629122793&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210816220632010150201104150246B8&share_token=9efac44e-5c67-4aba-a7f3-b9418fbcd5af&group_id=6996915308405572129) 2021.08.16.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
@@ -975,6 +978,9 @@ Table of Contents
 
 
 22. [你在读博士期间明白的最深刻的道理是什么？](https://mp.weixin.qq.com/s/IQDnlJS-6GTyMoEvptJaFw). 2021.07.31
+
+
+23. [轮椅上的博士矣晓沅：9 年求学路，我从清华毕业了](https://mp.weixin.qq.com/s/jn7ntP2qV2vSezxHCaHtsQ). 2021.08.16
 
 
 
@@ -1556,6 +1562,9 @@ https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15.
 
 
 52. [阿里女员工被上司安排陪酒遭性侵成热搜！董事长回应：震惊气愤羞愧，绝不容忍](https://mp.weixin.qq.com/s/w2acQRZlzCmvwZR3HMsbow). 2021.08.08. | [最新！阿里巴巴公布处理决定：业务总裁和HRG引咎辞职，涉嫌男员工被辞退永不录用](https://3w.huanqiu.com/a/4d0bf0/44HLqqPm6jF?agt=20&tt_from=weixin&tt_group_id=6994195840973668901&utm_campaign=client_share&wxshare_count=1&timestamp=1628474909&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108091008290101510732040AB8A18C&share_token=95334304-6878-40b7-9c09-adc9a7df0122&group_id=6994195840973668901). 2021.08.09. | [阿里女员工咆哮揭露丑闻，鱼死网破不应成为女性最后的挣扎](https://www.toutiao.com/i6994636042976363047/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1628582047&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108101554070101511732141004FD55&share_token=2769f6f6-5d5a-4ee9-8c90-f5ac58d0461b&group_id=6994636042976363047). 2021.08.10. | [疑云缭绕！阿里性侵事件或反转：涉事酒店发表声明，办房卡得到女方确认](https://mp.weixin.qq.com/s/HktqDhJeWqPZOR26sYqrow). 2021.08.13.
+
+
+53. [张文宏博士的论文，应该用哪个年代的眼光来审视](https://www.toutiao.com/i6997054591275762188/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629175547&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108171245470101512071472A014076&share_token=1c203f6d-b338-4a51-bc30-bca483f880bb&group_id=6997054591275762188). 2021.08.17. 
 
 
 
