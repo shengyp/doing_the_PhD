@@ -1573,6 +1573,8 @@ https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ) 2021.08.17.
 53. [张文宏博士的论文，应该用哪个年代的眼光来审视](https://www.toutiao.com/i6997054591275762188/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629175547&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108171245470101512071472A014076&share_token=1c203f6d-b338-4a51-bc30-bca483f880bb&group_id=6997054591275762188). 2021.08.17. | [复旦回应张文宏博士论文的问题，饶毅：那个年代文献综述与毕业无关，与入学无关](https://mp.weixin.qq.com/s/cv1-qaXKdku9eLVIwKfpAg). 2021.08.17.
 
 
+54. [港科大准博士被「锤」抄袭，杜克大学陈怡然教授呼吁谨守「学术红线」！](https://mp.weixin.qq.com/s/tP5Oyoy7ExUQ6xQzoye4wQ). 2021.08.18. 
+
 
 
 ## 症状
@@ -1619,7 +1621,10 @@ https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ) 2021.08.17.
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
 
 
+2. [骗20名女大学生550万，有人为他怀孕：“超级海王”是怎么炼成的](https://www.toutiao.com/i6994718371262546462/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629264400&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210818132640010151207140090677F1&share_token=ee3c88aa-b75c-4a42-ad02-50ccc55964a2&group_id=6994718371262546462). 2021.08.18.
 
-updated in 2021.08.15
+
+
+updated in 2021.08.18
 
 
