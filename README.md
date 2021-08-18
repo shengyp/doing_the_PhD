@@ -1337,6 +1337,9 @@ https://mp.weixin.qq.com/s/wY02yGDxLi0W2F57O4em0Q) 2021.07.21.
 https://mp.weixin.qq.com/s/bwau18N95U0Pkbfad2LwNg) 2021.08.15.
 
 
+24. [实锤！国自然放榜时间确定（内含时间表）](
+https://mp.weixin.qq.com/s/i6aqOYQ-ijdBtTLAEAVOYQ) 2021.08.17.
+
 
 
 ## 重点研发计划
