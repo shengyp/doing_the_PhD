@@ -1254,6 +1254,8 @@ Table of Contents
 22. [「博士高校招聘」非升即走“虚拟职称”背后的秘密是什么？](https://www.toutiao.com/i6959176451849503246/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1627310068&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202107262234280101502221313505F931&share_token=15acfd46-3bdb-4845-a394-f2db442e9843&group_id=6959176451849503246) 2021.05.07
 
 
+23. [CCCF专栏 | 引进预长聘制“Tenure track”的是与非](https://mp.weixin.qq.com/s/d4pUjAsEiPvb-4xPxvJkHg). 2021.08.23
+
 
 
 ## 国家自然科学基金
