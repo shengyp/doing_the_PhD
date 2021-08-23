@@ -1165,6 +1165,9 @@ Table of Contents
 24. [博士因高校“虚假招聘”待遇不符辞职，却反被索要138万违约金](https://www.toutiao.com/i6996646069207663142/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629201444&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2021081719572301015117409107057136&share_token=40ec524d-044b-4ac9-8398-759245bf53bc&group_id=6996646069207663142). 2021.08.16. 
 
 
+25. [高校青年教师，正在跌入中国“社会底层”！](https://mp.weixin.qq.com/s/LYMAXvasRDq_HoW4amz7xw) 2021.08.23. 
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
