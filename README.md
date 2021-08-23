@@ -691,6 +691,9 @@ Table of Contents
 4. [专访陈天桥：把钱投给甘坐冷板凳的AI研究员](https://mp.weixin.qq.com/s/FDOUYyQ_q9Z8j9P4cjIDJQ). 2021.08.05. 
 
 
+5. [国务院：科研资源向优秀人才和团队倾斜，谁能干、谁干得好，就支持谁！](https://mp.weixin.qq.com/s/osNupz_kSt0yGN9-srcOqA) 2021.08.23. 
+
+
 
 
 ## 导师招生神奇要求
@@ -1358,6 +1361,8 @@ https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
 
 ## 国家科技部政策
 1. [科技部等十三部门印发文件，支持女性科技人才在科技创新中发挥更大作用](https://mp.weixin.qq.com/s/ZbhrCpVN1fbOMtOciK7iYA). 2021.07.20
+
+
 
 
 
