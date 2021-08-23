@@ -1346,6 +1346,10 @@ https://mp.weixin.qq.com/s/6U-uuDcdT47UAQHf_oQWdw) 2021.08.17. | [通知通告 |
 https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.17.
 
 
+24. [国自然放榜后，这些评审意见背后的深意你知道吗？](
+https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
+
+
 
 ## 重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
