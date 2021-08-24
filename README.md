@@ -144,7 +144,7 @@ Table of Contents
 23. [目睹太多读博惨案之后，清华姚班助理教授写了个读博决策树](https://mp.weixin.qq.com/s/WXh1-V7nGORW3aFEz42axQ). 2021.06.24. 
 
 
-24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. 
+24. [35岁那年，没有躺平，做了最重要的决定：读博士！](https://mp.weixin.qq.com/s/SZY64A5QMBDcULZFkGD4dQ) 2021.06.30. | [十年树木](https://mp.weixin.qq.com/s/MWwNBIBmev0DNIBZBX-Qsg) 2021.08.24. 
 
 
 25. [读博是一场肖申克的救赎？那些我读博之后才明白的道理！](https://mp.weixin.qq.com/s/nc0UEp0UAGyJi3Pqfra15w) 2021.06.30. 
@@ -714,6 +714,7 @@ Table of Contents
 4. [机器学习内卷化：博士数量激增，本硕毕业生有点慌 | reddit热议](https://mp.weixin.qq.com/s/BZcla8Xmz9V12KS7-P0j4Q). 2021.04.05.
 
 
+
 ## 我国博士研究生培养结构
 1. [国内部分高校硕博补贴汇总！（据说某校博士在读已经年薪25w了）](https://mp.weixin.qq.com/s/jwbKrSg-wnBahSHuBq-mvg). 2020.12.13.
 
@@ -1095,6 +1096,9 @@ Table of Contents
 
 
 7. [你遇到过的最变态的博士生导师是怎样的？](https://mp.weixin.qq.com/s/HIOo9BfqJkaT9_kbzPgYZA) 2021.05.22.
+
+
+8. [给学生改论文，让我差点享年33岁...](https://mp.weixin.qq.com/s/sDvz81Bo_xH56j-EIc5pZA) 2021.08.24.
 
 
 
