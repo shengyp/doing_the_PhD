@@ -909,6 +909,9 @@ Table of Contents
 41. [从中专生到哈工大最年轻博导，这位破格教授是多少读博学子的榜样](https://www.toutiao.com/i6996829056981320222/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629087165&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108161212450101511732014EBC4310&share_token=a237499c-9bf6-467b-b4e2-33de5ecf9ad8&group_id=6996829056981320222). 2021.08.16.
 
 
+42. [90后浙理工硕士论文登Nature，毕业却考取公务员！网友：宇宙尽头是考公](https://mp.weixin.qq.com/s/3n_eIRCHzsboCDFeFtSZ2w). 2021.08.24.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
