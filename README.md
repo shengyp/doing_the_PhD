@@ -914,6 +914,10 @@ Table of Contents
 42. [90后浙理工硕士论文登Nature，毕业却考取公务员！网友：宇宙尽头是考公](https://mp.weixin.qq.com/s/3n_eIRCHzsboCDFeFtSZ2w). 2021.08.24.
 
 
+43. [一年六篇顶会的清华大神提出Fastformer：史上最快、效果最好的Transformer](https://mp.weixin.qq.com/s/6hqnobLFzJRaSCGhMoZQhg). 2021.08.27.
+
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -1177,6 +1181,9 @@ Table of Contents
 
 
 25. [高校青年教师，正在跌入中国“社会底层”！](https://mp.weixin.qq.com/s/LYMAXvasRDq_HoW4amz7xw) 2021.08.23. 
+
+
+26. [疑似学术关系户？双非博士任985高校教职，网友：这才是“飞升疾走”](https://mp.weixin.qq.com/s/rayzIg-lvC8_FPIS0PvP3Q). 2021.08.26. 
 
 
 
