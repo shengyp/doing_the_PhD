@@ -1112,6 +1112,9 @@ Table of Contents
 8. [给学生改论文，让我差点享年33岁...](https://mp.weixin.qq.com/s/sDvz81Bo_xH56j-EIc5pZA) 2021.08.24.
 
 
+9. [学生拼命“双减”，老师为何“双增”？](https://mp.weixin.qq.com/s/b04ZWXWLp268zffZWAuvhw) 2021.08.24.
+
+
 
 ## 青椒的苦恼
 1. [新进老师没编制！至少34所施行“非升即走”制度的985高校](https://www.toutiao.com/i6915294088258437636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610217687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101100241270101441311342C77A9BA&share_token=7efebb59-8c8e-4089-b9f2-6091908aa52c&group_id=6915294088258437636). 2021.01.08.
