@@ -1619,6 +1619,9 @@ https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
 54. [港科大准博士被「锤」抄袭，杜克大学陈怡然教授呼吁谨守「学术红线」！](https://mp.weixin.qq.com/s/tP5Oyoy7ExUQ6xQzoye4wQ). 2021.08.18. 
 
 
+55. [他称向导师下跪，仍被强制退学，5 年博士白读，双方各执一词，同门师兄也有回应！](https://mp.weixin.qq.com/s/JFjfcLLAYqKxaB9yRhmMkg). 2021.09.01. 
+
+
 
 ## 严正声明
 
@@ -1675,6 +1678,6 @@ https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
 
 
 
-updated in 2021.08.25
+updated in 2021.09.01
 
 
