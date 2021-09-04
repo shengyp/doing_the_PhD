@@ -305,6 +305,8 @@ Table of Contents
 17. [H.T. Kung 关于研究的有用建议](https://mp.weixin.qq.com/s/wVTmQB48bAAyr7z1ynLkhA). 2021.08.16. 
 
 
+18. [透彻！博士生成长需要经历的7道门](https://mp.weixin.qq.com/s/DtfPxpsn5vToeWkKaNTFXQ). 2021.09.04. 
+
 
 
 ## 如何读论文
