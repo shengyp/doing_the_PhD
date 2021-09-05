@@ -308,6 +308,9 @@ Table of Contents
 18. [透彻！博士生成长需要经历的7道门](https://mp.weixin.qq.com/s/DtfPxpsn5vToeWkKaNTFXQ). 2021.09.04. 
 
 
+19. [对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw) 2021.09.05. 
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
@@ -1382,6 +1385,14 @@ https://mp.weixin.qq.com/s/eNkpELw0RBdZ9EJUl5SVrQ) 2021.08.17.
 
 24. [国自然放榜后，这些评审意见背后的深意你知道吗？](
 https://mp.weixin.qq.com/s/Uai4JTSem2Iqy9Hri-jwHg) 2021.08.23.
+
+
+25. [杨顺华：青年基金申请一击即中的秘密，谈青基写作的几点个人体会](
+https://www.toutiao.com/i7004092661879636494/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1630838014&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210905183333010151196228558A7BB5&share_token=0ce9a7fe-b908-4828-86e9-9396f72c16ce&group_id=7004092661879636494). 2021.09.04.
+
+
+26. [2021年青年科学基金项目评议要点](
+https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
 
