@@ -467,7 +467,7 @@ Table of Contents
 39. [北京大学施柏鑫：从审稿人视角，谈谈怎么写一篇CVPR论文](https://mp.weixin.qq.com/s/YN3Ij_4gBxaWVRHn14va4w). 2021.06.23.
 
 
-40. [如何发表SCI？](https://www.wukong.com/question/6491670742843785486/). 2021.07.02.
+40. [如何发表SCI？](https://www.wukong.com/question/6491670742843785486/) 2021.07.02.
 
 
 41. [How to Write a Research Paper](https://www.natalieparde.com/files/how_to_write_a_research_paper.pdf). Dr. Natalie Parde. 2021.07.
