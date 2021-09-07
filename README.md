@@ -252,6 +252,10 @@ Table of Contents
 28. [直博和读完硕士再读博，在能力上的差距有多大？](https://mp.weixin.qq.com/s/ByvYvguOToP9dRVr9Itsyw) 2021.05.25. 
 
 
+29. [研究生期间如何成为科研大佬？](https://mp.weixin.qq.com/s/dcy9w-KjP3TgFKikQbn02w) 2021.09.07. 
+
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
@@ -928,6 +932,8 @@ Table of Contents
 43. [一年六篇顶会的清华大神提出Fastformer：史上最快、效果最好的Transformer](https://mp.weixin.qq.com/s/6hqnobLFzJRaSCGhMoZQhg). 2021.08.27.
 
 
+44. [一篇CVPR论文掀起业界研究热潮，这位90后却将代码开源，促进知识蒸馏研究 | 专访](https://mp.weixin.qq.com/s/yYpAjgH6R4YnKRxOnl5oLw). 2021.09.07.
+
 
 
 ## 大厂经历
@@ -1287,6 +1293,9 @@ Table of Contents
 
 
 23. [CCCF专栏 | 引进预长聘制“Tenure track”的是与非](https://mp.weixin.qq.com/s/d4pUjAsEiPvb-4xPxvJkHg). 2021.08.23
+
+
+24. [心中的象牙塔：怎样才能拿到理想的教职offer？【VALSE Webinar】Panel实录](https://mp.weixin.qq.com/s/juulswSmNp5KKbH_DIvFeA). 2021.09.06
 
 
 
