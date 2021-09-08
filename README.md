@@ -315,6 +315,9 @@ Table of Contents
 19. [对自己深度学习方向的论文有idea，可是工程实践能力跟不上，实验搞不定怎么办？](https://mp.weixin.qq.com/s/uVsLaurnhWxU_rRXQTMBRw) 2021.09.05. 
 
 
+20. [刘铁岩：科研到底怎么做？什么是高质量研究？](https://mp.weixin.qq.com/s/Gj8z_u8xmQZckiVdktES7w) 2021.09.08.
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
@@ -1700,6 +1703,6 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
 
-updated in 2021.09.01
+updated in 2021.09.08
 
 
