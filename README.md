@@ -492,6 +492,9 @@ Table of Contents
 45. [清华刘洋：论文写作，信息为表，逻辑为骨，思想为心](https://mp.weixin.qq.com/s/BsLH0L9g8PRTI8bYjB9boQ). 2021.08.22.
 
 
+46. [【文献速递系列】干货，学术论文写作技巧分享](https://mp.weixin.qq.com/s/7i11MCNHvZEn6Dh6pIN4bg). 2021.09.09.
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
