@@ -689,6 +689,9 @@ Table of Contents
 2. [ei刊物和sci刊物区别](https://www.toutiao.com/i6897466130898715147/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1605991937&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20201122045216010028056197135D2531&group_id=6897466130898715147). 2020.11.21. 
 
 
+3. [知乎热议20年科研怪状：为何论文创新性越强越难发表，跟风修修补补反而更容易发？](https://mp.weixin.qq.com/s/UBh60KyTDbZzfQ-_up4gJQ). 2021.09.14. 
+
+
 
 ## 中文期刊
 1. [中文期刊何时能出头？等英语不再统治学术圈的时候](https://mp.weixin.qq.com/s/58UdP8zVGaOTfu9zkte4gQ). 学术头条. 2021.02.17. 
@@ -1304,6 +1307,9 @@ Table of Contents
 24. [心中的象牙塔：怎样才能拿到理想的教职offer？【VALSE Webinar】Panel实录](https://mp.weixin.qq.com/s/juulswSmNp5KKbH_DIvFeA). 2021.09.06
 
 
+25. [“论资排辈”不灵了！高校职称改革“发力”，讲师也可聘为教授岗](https://www.toutiao.com/i7006889727131468325/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1631547060&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2021091323310001015118816456116AA0&share_token=8c91e5ce-5f22-466f-8e7e-b19a33a3481a&group_id=7006889727131468325). 2021.09.14
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
@@ -1650,6 +1656,10 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 55. [他称向导师下跪，仍被强制退学，5 年博士白读，双方各执一词，同门师兄也有回应！](https://mp.weixin.qq.com/s/JFjfcLLAYqKxaB9yRhmMkg). 2021.09.01. 
 
 
+56. [AI公司创始人冒充中科大少年班校友：学历是假的，合伙人也是假的](https://mp.weixin.qq.com/s/Lcp6BX3G5jI2K3RqRWjXWw). 2021.09.14. 
+
+
+
 
 ## 严正声明
 
@@ -1706,6 +1716,6 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
 
-updated in 2021.09.08
+updated in 2021.09.14
 
 
