@@ -1707,6 +1707,9 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 11. [悲痛！江苏80后副教授猝然离世](https://mp.weixin.qq.com/s/gna_MNsNPy90ZHuqaf7y5Q). 2021.05.26. 
 
 
+12. [送别！华人计算机科学泰斗高光荣逝世：中国第一位MIT博士，开创数据流体系结构](https://mp.weixin.qq.com/s/kjZvnMAKD8IhyjUPQHqNLQ). 2021.09.14. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
