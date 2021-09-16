@@ -518,6 +518,9 @@ Table of Contents
 7. [UESTCer研习社 | 《SCI投稿不完全指北》](https://mp.weixin.qq.com/s/VNhMJe5TihvIa8oOFwRRiw). 2021.07.15.
 
 
+8. [必看 | 投稿时推荐的审稿人编辑会采用吗？该如何正确推荐审稿人？
+浙大学报英文版](https://mp.weixin.qq.com/s/NGSpamqc3P2S0HNEVl1FEQ). 2021.09.15.
+
 
 
 ## 如何做Rebuttal
