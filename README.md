@@ -1662,6 +1662,8 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 56. [AI公司创始人冒充中科大少年班校友：学历是假的，合伙人也是假的](https://mp.weixin.qq.com/s/Lcp6BX3G5jI2K3RqRWjXWw). 2021.09.14. 
 
 
+57. [北理工研究生被爆公然抄袭？旷视研究员列出「实锤」，相似度近100%](https://mp.weixin.qq.com/s/7TFgbRHp2vcwqlVNm1zfrw). 2021.09.20. 
+
 
 
 ## 严正声明
