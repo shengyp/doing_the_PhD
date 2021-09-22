@@ -495,6 +495,10 @@ Table of Contents
 46. [【文献速递系列】干货，学术论文写作技巧分享](https://mp.weixin.qq.com/s/7i11MCNHvZEn6Dh6pIN4bg). 2021.09.09.
 
 
+47. [给新入学博士发表撰写论文的一些建议](https://mp.weixin.qq.com/s/zChDacyK7Iji_2a6Xd_2ag). 2021.09.22.
+
+
+
 
 ## 如何投论文
 1. [投稿过程中三两遭遇后的一些思考！](https://mp.weixin.qq.com/s/J2rhkEIyZwF2SpHslGim_g) 2020.10.30.
