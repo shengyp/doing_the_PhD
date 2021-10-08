@@ -62,7 +62,7 @@ Table of Contents
 * [把论文写在祖国大地上](#把论文写在祖国大地上)
 * [这些事不干](#这些事不干)
 * [严正声明](#严正声明)
-* [症状](#症状)
+* [身体症状](#身体症状)
 * [英才陨落](#英才陨落)
 * [海里游荡](#海里游荡)
 
@@ -1691,8 +1691,12 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
 
-## 症状
+## 身体症状
 1. [如何缓解读博中反复抑郁的症状？](https://www.zhihu.com/question/33784042?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_content=group3_supplementQuestions&utm_campaign=shareopn)
+
+
+2. [人民日报：从疲劳到癌症只需4步！你是单位的草，却是家庭的天](https://mp.weixin.qq.com/s/KdnEANhJRjLEeiAT6UE-iw). 2021.10.04
+
 
 
 
