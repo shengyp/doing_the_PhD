@@ -568,6 +568,9 @@ Table of Contents
 3. [Reddit热议：比欺骗盲审更可怕的，是大家都在发表“高级造假”论文](https://mp.weixin.qq.com/s/qce9D7uQgAf9TgB1QWyxkg). 2021.06.01.
 
 
+4. [学术会议，已沦为表演...](https://mp.weixin.qq.com/s/aGVvgG4SZhNky5sB_ZXbjA). 2021.10.08.
+
+
 
 ## 博士生的导师
 1. [学生不努力，导师能怎么办？](https://hub.baai.ac.cn/view/3027) 2020.10.22. 
