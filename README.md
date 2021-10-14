@@ -323,6 +323,10 @@ Table of Contents
 21. [对话 DenseNet 一作黄高：做有韧劲、能抗压、不断探索未知的科研](https://mp.weixin.qq.com/s/69S7613m7zVQQrsGU5IfFA). 2021.09.23.
 
 
+22. [做失败科研的10个方法](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/02.pdf). 2021.10.14. [[Report]](https://mp.weixin.qq.com/s/1ulj5xVDdQKZ-Jku0pT5_A)
+
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
