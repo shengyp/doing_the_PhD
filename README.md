@@ -13,6 +13,7 @@ Table of Contents
 
 <!-- * [投稿经验分享](#投稿经验分享) -->
 * [高考模式](#高考模式)
+* [中美教育](#中美教育)
 * [一个执着的决定](#一个执着的决定)
 * [如何开个好头](#如何开个好头)
 * [好的研究想法如何产生](#好的研究想法如何产生)
@@ -76,6 +77,11 @@ Table of Contents
 
 
 2. [高考如何填报志愿？一份最全人工智能专业填报指南请收好](https://mp.weixin.qq.com/s/BJnMHfD4i6BTrTt0sz9u7A). 2021.06.26. 
+
+
+
+## 中美教育
+1. [哈佛终身教授丘成桐：说中国学生基础好，是自我麻醉](https://mp.weixin.qq.com/s/s-BOaSCGH10uDr4L7y3J4A). 2021.10.16. 
 
 
 
@@ -548,6 +554,9 @@ Table of Contents
 
 ## 同行评审
 1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
+
+
+2. [做个好审稿人吧！！！](https://sites.google.com/view/making-reviews-great-again/home) 2021.10.15. [[Report]](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ) 
 
 
 
