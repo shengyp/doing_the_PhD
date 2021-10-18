@@ -514,6 +514,9 @@ Table of Contents
 47. [给新入学博士发表撰写论文的一些建议](https://mp.weixin.qq.com/s/zChDacyK7Iji_2a6Xd_2ag). 2021.09.22.
 
 
+48. [博士论文写不好？Barrett博士发超强攻略，手把手教你写论文](https://ebn.bmj.com/content/ebnurs/24/1/1.full.pdf). 2021.10.18. [[Report]](https://mp.weixin.qq.com/s/XkjdgWFoamxIMIP7pv-Yhw). 
+
+
 
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
@@ -989,6 +992,9 @@ Table of Contents
 
 
 44. [一篇CVPR论文掀起业界研究热潮，这位90后却将代码开源，促进知识蒸馏研究 | 专访](https://mp.weixin.qq.com/s/yYpAjgH6R4YnKRxOnl5oLw). 2021.09.07.
+
+
+45. [又美又飒！这位985大学小姐姐，堪称今年最强博士后！](https://mp.weixin.qq.com/s/UPoPme_w_uW7d14pyNZtVA) 2021.10.16.
 
 
 
