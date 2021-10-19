@@ -171,6 +171,7 @@ Table of Contents
 28. [Nature：希望你在读博士之初就能知道的 20 件事](https://mp.weixin.qq.com/s/_qY8Yxh79P1tqPmNwpg5Iw). 2021.08.15. 
 
 
+29. [美国顶尖大学的博士是怎样练成的？](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw) 2021.10.20. 
 
 
 <!-- ## Datasets_Shared_Tasks -->
@@ -859,6 +860,9 @@ Table of Contents
 
 ## 有多“内卷”
 1. [清华北大博士“内卷”的尽头，是去深圳当中学老师吗？](https://mp.weixin.qq.com/s/p3YdDHyPn20y0QZ7UTbeLg). 2021.10.12.
+
+
+2. [深圳中学因招聘上热搜：名校博士挤破头想进，教学成绩也确实不服不行](https://mp.weixin.qq.com/s/9c9TBA57_YKmXg285W9azQ). 2021.10.18.
 
 
 
