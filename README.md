@@ -1472,6 +1472,10 @@ https://www.toutiao.com/i7004092661879636494/?tt_from=weixin&utm_campaign=client
 https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
+27. [国自然交叉学部常务副主任:青年学者在交叉科研中应坚持研究工作独立性和研究方向的独特性！](
+https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ). 2021.10.16.
+
+
 
 ## 重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
