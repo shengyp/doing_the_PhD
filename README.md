@@ -1473,7 +1473,7 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 
 27. [国自然交叉学部常务副主任:青年学者在交叉科研中应坚持研究工作独立性和研究方向的独特性！](
-https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ). 2021.10.16.
+https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
 
 
 
