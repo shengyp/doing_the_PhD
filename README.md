@@ -865,6 +865,10 @@ Table of Contents
 2. [深圳中学因招聘上热搜：名校博士挤破头想进，教学成绩也确实不服不行](https://mp.weixin.qq.com/s/9c9TBA57_YKmXg285W9azQ). 2021.10.18.
 
 
+3. [美国版“非升即走”瞄准终身教授，2年评审不通过就减薪撤职](https://www.toutiao.com/i7020998585441550855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634731251&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110202000500101580330160E339CBB&share_token=8d35129a-0305-49b0-91ea-6f13e79543e2&group_id=7020998585441550855). 2021.10.20.
+
+
+
 
 ## 科研故事
 1. [杨从自学CS知识到入职亚马逊，他只花了8个月](https://mp.weixin.qq.com/s/O-mFQooH2lh9-254YEHTCw). 2021.01.03.
