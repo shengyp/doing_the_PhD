@@ -520,6 +520,11 @@ Table of Contents
 
 
 
+49. [Writing for Impact:	How	to Prepare a Journal Article](https://www.medicine.umich.edu/sites/default/files/content/downloads/WritingResearchPaper_Ibrahim_0.pdf). 2021.10.22. [[如何撰写好一篇论文？密歇根Andrew教授为你细致讲解论文写作]](https://www.toutiao.com/i7020383362401518092/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634915062&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110222304220101511521440F8EA947&share_token=f2c1c6fd-def4-4260-884d-519879daf2d0&group_id=7020383362401518092). 
+
+
+
+
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
 
