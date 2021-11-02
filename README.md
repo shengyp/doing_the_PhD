@@ -335,6 +335,8 @@ Table of Contents
 22. [做失败科研的10个方法](http://www.cips-cl.org/static/CCL2019/downloads/stuPPT/02.pdf). 2021.10.14. [[Report]](https://mp.weixin.qq.com/s/1ulj5xVDdQKZ-Jku0pT5_A)
 
 
+23. [刘铁岩：科研到底怎么做？什么是高质量研究？](https://mp.weixin.qq.com/s/mOo6N1QWp4eRRhTuLh1K_Q). 2021.10.31.
+
 
 
 ## 如何读论文
@@ -873,6 +875,8 @@ Table of Contents
 3. [美国版“非升即走”瞄准终身教授，2年评审不通过就减薪撤职](https://www.toutiao.com/i7020998585441550855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634731251&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110202000500101580330160E339CBB&share_token=8d35129a-0305-49b0-91ea-6f13e79543e2&group_id=7020998585441550855). 2021.10.20.
 
 
+4. [拒绝数量为王：“卷”出来的论文，正在阻碍科学发展？](https://mp.weixin.qq.com/s/-eI3COuOOo6DFFUGfRJxlg). 2021.10.25.
+
 
 
 ## 科研故事
@@ -1009,6 +1013,9 @@ Table of Contents
 
 
 45. [又美又飒！这位985大学小姐姐，堪称今年最强博士后！](https://mp.weixin.qq.com/s/UPoPme_w_uW7d14pyNZtVA) 2021.10.16.
+
+
+46. [引入多感官数据学习，华人学者摘得2021 UT-Austin最佳博士论文奖](https://www.toutiao.com/i7023683048260534796/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1635342687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110272151260101501542292419A368&share_token=315bedc8-9606-4e1f-888d-6ac8fb759c6a&group_id=7023683048260534796). 2021.10.27.
 
 
 
@@ -1744,6 +1751,15 @@ https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
 58. [计算机专业论文中a会，却被大导师抢一作！学生无奈自白引热议](https://mp.weixin.qq.com/s/agfDrSkJb61jeAfPb0lt-A). 2021.09.23. 
 
 
+59. [关注：国家杰青被撤稿17篇论文！74篇在pubpeer上被质疑……](https://mp.weixin.qq.com/s/IC86prfPdskm0Hl5zkPlnw). 2021.10.26. 
+
+
+60. [多所985、211高校教授被处理！国家自然基金委发布通报！](https://mp.weixin.qq.com/s/XZ_ozALk9OpBKESAhRhtQw) 2021.10.26. 
+
+
+61. [ICLR 2022出现抄袭论文 | reddit 网友热议：迷惑行为？](https://mp.weixin.qq.com/s/0WIfjODuEYWIAOfF2gS30w) 2021.11.02. 
+
+
 
 ## 严正声明
 
@@ -1810,6 +1826,6 @@ https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
 
 
 
-updated in 2021.10.09
+updated in 2021.11.02
 
 
