@@ -570,6 +570,9 @@ Table of Contents
 1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
 
 
+2. [助力AAAI2022 Rebuttal！](https://mp.weixin.qq.com/s/wqUWkzFJwzlTv3P10PcmOw). 2021.11.05.
+
+
 
 ## 同行评审
 1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
@@ -1828,6 +1831,8 @@ https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
 
 12. [送别！华人计算机科学泰斗高光荣逝世：中国第一位MIT博士，开创数据流体系结构](https://mp.weixin.qq.com/s/kjZvnMAKD8IhyjUPQHqNLQ). 2021.09.14. 
 
+
+13. [83岁巨星陨落！北大计算语言学家俞士汶去世，清华孙茂松献「七绝」缅怀](https://mp.weixin.qq.com/s/rIkvoI-W-CDQT_NSsrQkvA). 2021.11.05. 
 
 
 ## 海里游荡
