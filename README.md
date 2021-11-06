@@ -1778,6 +1778,9 @@ https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
 61. [ICLR 2022出现抄袭论文 | reddit 网友热议：迷惑行为？](https://mp.weixin.qq.com/s/0WIfjODuEYWIAOfF2gS30w) 2021.11.02. 
 
 
+62. [再现抄袭？刚过去1天，湖南大学又现硕士学位论文100%抄袭](https://mp.weixin.qq.com/s/TTKZe7-hk0KwDCew-AXqsg). 2021.11.06. 
+
+
 
 ## 严正声明
 
