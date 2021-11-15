@@ -182,6 +182,7 @@ Table of Contents
 29. [美国顶尖大学的博士是怎样练成的？](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw) 2021.10.20. 
 
 
+
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
 1. [鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
@@ -273,6 +274,8 @@ Table of Contents
 
 29. [研究生期间如何成为科研大佬？](https://mp.weixin.qq.com/s/dcy9w-KjP3TgFKikQbn02w) 2021.09.07. 
 
+
+30. [如何做好科研？10篇顶会paper，入选微软学者，上海交大吴齐天的科研思考！](https://mp.weixin.qq.com/s/Qd1WZLiLhZF85y_dpfvIqA) 2021.11.07. 
 
 
 
@@ -532,6 +535,9 @@ Table of Contents
 
 49. [Writing for Impact:	How	to Prepare a Journal Article](https://www.medicine.umich.edu/sites/default/files/content/downloads/WritingResearchPaper_Ibrahim_0.pdf). 2021.10.22. [[如何撰写好一篇论文？密歇根Andrew教授为你细致讲解论文写作]](https://www.toutiao.com/i7020383362401518092/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634915062&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110222304220101511521440F8EA947&share_token=f2c1c6fd-def4-4260-884d-519879daf2d0&group_id=7020383362401518092). 
 
+
+
+50. [CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905?utm_source=wechat_session&utm_medium=social&utm_oi=34034784665600&wechatShare=2&s_r=0). 2021.11.15.
 
 
 
@@ -1041,6 +1047,9 @@ Table of Contents
 
 
 46. [引入多感官数据学习，华人学者摘得2021 UT-Austin最佳博士论文奖](https://www.toutiao.com/i7023683048260534796/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1635342687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110272151260101501542292419A368&share_token=315bedc8-9606-4e1f-888d-6ac8fb759c6a&group_id=7023683048260534796). 2021.10.27.
+
+
+47. [重磅！2021年清华大学本科生特等奖学金答辩现场实录（附答辩结果）](https://mp.weixin.qq.com/s/yJWAy_YV__hgzIFbNdgAQg). 2021.11.12. | [2021清华本科特奖公布！计算机系白钰卓用AI识别甲骨文居榜首](https://mp.weixin.qq.com/s/eN4TZqA5BSL79-14P8mmvQ). 2021.11.13.
 
 
 
