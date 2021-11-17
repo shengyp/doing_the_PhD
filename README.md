@@ -279,6 +279,9 @@ Table of Contents
 30. [如何做好科研？10篇顶会paper，入选微软学者，上海交大吴齐天的科研思考！](https://mp.weixin.qq.com/s/Qd1WZLiLhZF85y_dpfvIqA) 2021.11.07. 
 
 
+31. [姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题](./report/姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题.pdf). 2021.11.
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
