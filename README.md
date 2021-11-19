@@ -576,6 +576,9 @@ Table of Contents
 浙大学报英文版](https://mp.weixin.qq.com/s/NGSpamqc3P2S0HNEVl1FEQ). 2021.09.15.
 
 
+9. [2022 AAAI 投稿体会](https://mp.weixin.qq.com/s/MGeSFjExXOq_oDSpDk6fEA). 2021.11.19.
+
+
 
 ## 如何做Rebuttal
 1. [记一次神奇的Rebuttal经历](https://mp.weixin.qq.com/s/RJ9f5FmRH28nFXz3HP-3NA). 2021.03.08.
@@ -1538,6 +1541,12 @@ https://mp.weixin.qq.com/s/R17zM2VQWdty0He7kjksWg). 2021.09.05.
 
 27. [国自然交叉学部常务副主任:青年学者在交叉科研中应坚持研究工作独立性和研究方向的独特性！](
 https://mp.weixin.qq.com/s/z3zwZA-4UAF0SVlkJ2LOIQ) 2021.10.16.
+
+
+28. [2021年度NSFC人工智能学科基金项目申请资助情况及学科发展展望](
+http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
+
+
 
 
 
