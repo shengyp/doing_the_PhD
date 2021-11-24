@@ -77,6 +77,14 @@ Table of Contents
 
 
 
+[ReadPaper 专业的学术讨论社区](https://readpaper.com/). 
+
+
+
+1. [搞科研，从好好读论文开始：沈向洋带你读论文了](https://mp.weixin.qq.com/s/mCu3wAZI8gS_50JHAFIerg). 2021.11.24. 
+
+
+
 ## 高考模式
 1. [高考地狱模式是哪个省？](https://mp.weixin.qq.com/s/gAKif2RKjs4sqJSYkGIkcA)  2021.06.25. 
 
