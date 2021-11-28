@@ -1208,6 +1208,9 @@ Table of Contents
 5. [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/PqVT2k06KMnIenSJVaQIbg) 2021.01.17.
 
 
+6. [热议：土博贡献八篇SCI才能正式入职、安家费却只有海外博士的十分之一！](https://mp.weixin.qq.com/s/UExzSBwiIzIMqPzKk389qA) 2021.11.28.
+
+
 
 ## 谁说科学没有国界
 1. [被中国资助的科学家，或被断绝联邦经费：美参议院提出新规](https://mp.weixin.qq.com/s/KoE668leRlPqfT8g6AIJ3w). 2021.05.14.
