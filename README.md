@@ -1072,6 +1072,9 @@ Table of Contents
 47. [重磅！2021年清华大学本科生特等奖学金答辩现场实录（附答辩结果）](https://mp.weixin.qq.com/s/yJWAy_YV__hgzIFbNdgAQg). 2021.11.12. | [2021清华本科特奖公布！计算机系白钰卓用AI识别甲骨文居榜首](https://mp.weixin.qq.com/s/eN4TZqA5BSL79-14P8mmvQ). 2021.11.13.
 
 
+48. [「乾坤」学霸同保送！双胞胎帅哥一起上北大，哥哥本科发表2篇SCI](https://mp.weixin.qq.com/s/b7d6rbfzHAKM_ihAZHiR0A). 2021.11.29.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
