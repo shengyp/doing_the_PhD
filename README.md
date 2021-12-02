@@ -1081,7 +1081,7 @@ Table of Contents
 48. [「乾坤」学霸同保送！双胞胎帅哥一起上北大，哥哥本科发表2篇SCI](https://mp.weixin.qq.com/s/b7d6rbfzHAKM_ihAZHiR0A). 2021.11.29.
 
 
-49. [「二本生逆袭」引知乎热议，读博后三年两次发Nature，第一学历有那么重要吗？](https://mp.weixin.qq.com/s/Ru0LqF9z2ewi4JBhIujUfw). 2021.12.02.
+49. [「二本生逆袭」引知乎热议，读博后三年两次发Nature，第一学历有那么重要吗？](https://mp.weixin.qq.com/s/Ru0LqF9z2ewi4JBhIujUfw) 2021.12.02.
 
 
 
