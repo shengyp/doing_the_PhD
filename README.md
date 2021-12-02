@@ -554,6 +554,11 @@ Table of Contents
 
 
 
+51. [吐血整理：论文写作中注意这些细节，能显著提升成稿质量](https://mp.weixin.qq.com/s/1ykqoLWjy3WhczAvb_eOoQ). 2021.11.26.
+
+
+
+
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
 
@@ -1074,6 +1079,10 @@ Table of Contents
 
 
 48. [「乾坤」学霸同保送！双胞胎帅哥一起上北大，哥哥本科发表2篇SCI](https://mp.weixin.qq.com/s/b7d6rbfzHAKM_ihAZHiR0A). 2021.11.29.
+
+
+49. [「二本生逆袭」引知乎热议，读博后三年两次发Nature，第一学历有那么重要吗？](https://mp.weixin.qq.com/s/Ru0LqF9z2ewi4JBhIujUfw). 2021.12.02.
+
 
 
 
