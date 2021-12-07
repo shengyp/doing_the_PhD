@@ -1165,6 +1165,7 @@ Table of Contents
 23. [轮椅上的博士矣晓沅：9 年求学路，我从清华毕业了](https://mp.weixin.qq.com/s/jn7ntP2qV2vSezxHCaHtsQ). 2021.08.16
 
 
+24. [清华姚班教授劝退文： 我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/ebMZS06L5HGFe1ODsaVKQA). 2021.12.04
 
 
 ## 被博士后割韭菜了没
