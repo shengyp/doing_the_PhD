@@ -1589,6 +1589,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 1. [科技部等十三部门印发文件，支持女性科技人才在科技创新中发挥更大作用](https://mp.weixin.qq.com/s/ZbhrCpVN1fbOMtOciK7iYA). 2021.07.20
 
 
+2. [注意！国家基金委多个学部发布“十四五”优先发展领域！](https://mp.weixin.qq.com/s/_8UqCmG-oPMZLhxVprukCQ). 2021.12.12
+
 
 
 
@@ -1913,6 +1915,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2021.11.02
+updated in 2021.12.13
 
 
