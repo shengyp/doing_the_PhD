@@ -399,6 +399,10 @@ Table of Contents
 2. [深度学习博士发出灵魂拷问：我是在做算法还是在调参？](https://mp.weixin.qq.com/s/Jv9tZhtfaN53Ur-9jupWXw) 2021.07.23 
 
 
+3. [佐治亚理工学院硕士建议：2022年你应该掌握这些机器学习算法](https://mp.weixin.qq.com/s/bsSNVNa71LQynsfsEydBow). 2021.12.11
+ 
+
+
 
 ## 如何写论文
 1. [如何写好摘要——毕业论文](https://mp.weixin.qq.com/s/H8-WPDO8voDIIvr99zSKew) 2021.01.14.
