@@ -1376,6 +1376,10 @@ Table of Contents
 27. [高校青年教师，正在跌入中国“社会底层”！](https://mp.weixin.qq.com/s/24k8tdt79QHdSMyccGPe8g). 2021.08.27. 
 
 
+28. [对13名高校教师的访谈研究：不发表就出局、非升即走……](https://mp.weixin.qq.com/s/wDME_kUKHZ60ro67kS0hJA). 2021.12.21. 
+
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
@@ -1917,6 +1921,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 13. [83岁巨星陨落！北大计算语言学家俞士汶去世，清华孙茂松献「七绝」缅怀](https://mp.weixin.qq.com/s/rIkvoI-W-CDQT_NSsrQkvA). 2021.11.05. 
 
 
+
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
 
@@ -1927,7 +1932,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 3. [24岁阿里P8被爆「睡60女」！达摩院专家：让道德的归道德，法律的归法律](https://mp.weixin.qq.com/s/BzOD2OwfaVqroS5-_tYabQ). 2021.10.09.
 
 
+4. [王力宏劣迹爆出，音乐系本科生论文受牵连，凌晨两点求助导师](https://mp.weixin.qq.com/s/Ks1MQDBZKOchK_dkgZd6JQ). 2021.12.21.
 
-updated in 2021.12.13
+
+updated in 2021.12.21
 
 
