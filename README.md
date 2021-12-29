@@ -774,8 +774,10 @@ Table of Contents
 1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng) 2021.04.19. | [博士论文致谢走红后，黄国平母校演讲再刷屏！](https://mp.weixin.qq.com/s/9sWQyo2GQF5085DXdm6SHw) 2021.06.24. 
 
 
-
 2. [AI研究生的文学情怀，厦大硕士毕业生文言致谢聊三年求学路](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 机器之心. 2021.05.17. 
+
+
+3. [兰州大学研究生导师的《致谢》火了：“我从来不曾优秀过，也从来不曾放弃过！”](https://mp.weixin.qq.com/s/DNgRgPnLpV32j5JsFbe6vw). 2021.12.26. 
 
 
 
@@ -1103,6 +1105,8 @@ Table of Contents
 
 49. [「二本生逆袭」引知乎热议，读博后三年两次发Nature，第一学历有那么重要吗？](https://mp.weixin.qq.com/s/Ru0LqF9z2ewi4JBhIujUfw) 2021.12.02.
 
+
+50. [31岁成为博导！从小乡村走出的985高校教授坦言：读书这条路最简单！](https://mp.weixin.qq.com/s/yQQyGjpUH9Ae-jjsUuTGpA?) 2021.12.29.
 
 
 
