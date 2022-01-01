@@ -399,6 +399,9 @@ Table of Contents
 9. [arXiv时代，应如何看待那些互相矛盾的论文？](https://mp.weixin.qq.com/s/eoH1FMjLC9-3VGZL5smiCw). 2021.07.17 
 
 
+10. [读论文七步走！CV老司机万字长文：一篇论文需要读4遍](https://mp.weixin.qq.com/s/wk7Hye3YxrgkegwDeUKkww). 2021.12.29 
+
+
 
 ## 如何做实验
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
@@ -628,6 +631,8 @@ Table of Contents
 
 2. [做个好审稿人吧！！！](https://sites.google.com/view/making-reviews-great-again/home) 2021.10.15. [[Report]](https://mp.weixin.qq.com/s/895x7v13F8A7Ad_eKkSldQ) 
 
+
+3. [投稿人就是AI顶会最好的「审稿人」！中国学者提出同行评审新机制](https://mp.weixin.qq.com/s/CmgHPLhVGnd1ifXdY5q3iw). 2022.01.01.
 
 
 
