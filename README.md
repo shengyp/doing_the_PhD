@@ -4,7 +4,7 @@
 作者认为，博士旅程是一段围绕个人认知、能力与身心而开展的难得的修行。在这当中，内涵丰富、切实有效的指导性资源有益于将博士生们的独孤求索旅程带入新的境地，使其能够更有准备，更加勇敢，更持有信心地去面对随读博选择而伴生的不同研究任务与多方面的挑战，最终得以迭代升级，顺利修行。
 
 
-作者将上述提到的指导性资源划分为： [高考模式]、 [中美教育]、 [自救指南]、 [科学问题]、 [一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何做实验]、 [如何写论文]、 [ArXiv]、 [如何投论文]、 [如何做Rebuttal]、 [如何审论文]、 [同行评审]、 [审稿状态]、 [如何做报告]、 [顶会存在的意义]、 [博士生的导师]、 [读博期间]、 [延期毕业问题]、 [博士学位的重要性]、 [博士学位论文]、 [学位论文致谢]、 [毕业典礼]、 [高校排行榜]、 [名校光环]、 [学术界和工业界]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [期刊评价]、 [科研政策]、 [科研经费管理]、 [导师招生神奇要求]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [有多“内卷”]、 [科研故事]、 [大厂经历]、 [灵魂拷问]、 [被博士后割韭菜了没]、 [洋博士们]、 [谁说科学没有国界]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [贤内助]、 [科技成果评价]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [重点研发计划]、 [重大研究计划]、 [国家科技部政策]、 [重庆市科技政策]、 [教师法]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [毛主席话语]、 [严正声明]、 [症状]、 [英才陨落]、 [海里游荡]数个主题，期待更多的研究人员关注并给予建议。
+作者将上述提到的指导性资源划分为： [高考模式]、 [中美教育]、 [自救指南]、 [科学问题]、 [一个执着的决定]、 [如何开个好头]、 [好的研究想法如何产生]、 [如何读论文]、 [如何做实验]、 [如何写论文]、 [ArXiv]、 [如何投论文]、 [如何做Rebuttal]、 [如何审论文]、 [同行评审]、 [审稿状态]、 [如何做报告]、 [顶会存在的意义]、 [博士生的导师]、 [读博期间]、 [延期毕业问题]、 [博士学位的重要性]、 [博士学位论文]、 [学位论文答辩]、 [学位论文致谢]、 [毕业典礼]、 [高校排行榜]、 [名校光环]、 [学术界和工业界]、 [博士婚姻研究]、 [AI论文调研]、 [中文期刊]、 [期刊评价]、 [科研政策]、 [科研经费管理]、 [导师招生神奇要求]、 [我国博士研究生累积招生情况]、 [我国博士研究生培养结构]、 [有多“内卷”]、 [科研故事]、 [大厂经历]、 [灵魂拷问]、 [被博士后割韭菜了没]、 [洋博士们]、 [谁说科学没有国界]、 [毕业生的去向]、 [如何指导学生]、 [青椒的苦恼]、 [贤内助]、 [科技成果评价]、 [高校岗位设置与评价体制]、 [国家自然科学基金]、 [重点研发计划]、 [重大研究计划]、 [国家科技部政策]、 [重庆市科技政策]、 [教师法]、 [教师待遇]、 [谨慎破除“唯论文”现象]、 [把论文写在祖国大地上]、 [这些事不干]、 [毛主席话语]、 [严正声明]、 [症状]、 [英才陨落]、 [海里游荡]数个主题，期待更多的研究人员关注并给予建议。
 
 
 
@@ -35,6 +35,7 @@ Table of Contents
 * [延期毕业问题](#延期毕业问题)
 * [博士学位的重要性](#博士学位的重要性)
 * [博士学位论文](#博士学位论文)
+* [学位论文答辩](#学位论文答辩)
 * [学位论文致谢](#学位论文致谢)
 * [毕业典礼](#毕业典礼)
 * [高校排行榜](#高校排行榜)
@@ -402,6 +403,9 @@ Table of Contents
 10. [读论文七步走！CV老司机万字长文：一篇论文需要读4遍](https://mp.weixin.qq.com/s/wk7Hye3YxrgkegwDeUKkww). 2021.12.29 
 
 
+11. [全面梳理丨吴恩达给AI领域学生的发展建议](https://mp.weixin.qq.com/s/utTzDUNHabTwxL5yLEF3GA). 2022.01.02 
+
+
 
 ## 如何做实验
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
@@ -732,47 +736,49 @@ Table of Contents
 1. [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf) 2020.11.06.
 
 
-1. [这篇博士毕业论文致谢句句诛心......](https://mp.weixin.qq.com/s/ZcplsvbATBWUOQyrYsHxfQ) 2020.10.10.
+2. [这篇博士毕业论文致谢句句诛心......](https://mp.weixin.qq.com/s/ZcplsvbATBWUOQyrYsHxfQ) 2020.10.10.
 
 
-2. [重磅：学位论文作假将纳入信用记录！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247514797&idx=2&sn=ab303e8b4d71deaeed47cf74da3a6105&chksm=fd43c834ca3441220dc9366e4353a73505a3b3d291192feab01a646e4560f33fdb917d9998df&scene=21#wechat_redirect) 2020.09.
+3. [重磅：学位论文作假将纳入信用记录！](https://mp.weixin.qq.com/s?__biz=MzU4MTg1NTIyMg==&mid=2247514797&idx=2&sn=ab303e8b4d71deaeed47cf74da3a6105&chksm=fd43c834ca3441220dc9366e4353a73505a3b3d291192feab01a646e4560f33fdb917d9998df&scene=21#wechat_redirect) 2020.09.
 
 
-3. [最新！教育部发文：立刻全面排查近5年博士、硕士学位论文作假行为！](https://mp.weixin.qq.com/s/T3J8Xsel0zz8AgdrKk46wA) 2020.09.05.
+4. [最新！教育部发文：立刻全面排查近5年博士、硕士学位论文作假行为！](https://mp.weixin.qq.com/s/T3J8Xsel0zz8AgdrKk46wA) 2020.09.05.
 
 
-4. [如何撰写高水平的博士论文？超全论文指导！](https://mp.weixin.qq.com/s/TTbWrCzNTtg3IYdjnLhs-A) 2020.09.28.
+5. [如何撰写高水平的博士论文？超全论文指导！](https://mp.weixin.qq.com/s/TTbWrCzNTtg3IYdjnLhs-A) 2020.09.28.
 
 
-5. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ)
+6. [论文答辩，老师会仔细看论文内容吗？](https://mp.weixin.qq.com/s/TFiB-7N5xBN_ZbrH8eXmJQ)
 
 
-6. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
+7. [怎样写好开题报告？](https://zhuanlan.zhihu.com/p/158163908)  知乎.
 
 
-7. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
+8. Karl Whelan. [Writing Tips for PhD Theses (博士论文写作技巧)](https://www.karlwhelan.com/Teaching/PhD/phd-writing-talk.pdf).
 
 
-8. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
+9. 宗成庆. [如何撰写毕业论文](https://mp.weixin.qq.com/s/UaniW1Ba8lMFtwx4O5yhuw). 2020.04.03. [[PPT]](http://www.nlpr.ia.ac.cn/cip/ZongReportandLecture/Reports/2014.02.27%20Writing.pdf)
 
 
-9. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874) 2019.08.23.
+10. [盘点世上最牛的5篇博士论文，跪拜！](https://www.sohu.com/a/335823038_466874) 2019.08.23.
 
 
-10. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
+11. [世上最牛博士论文是这样的！](https://mp.weixin.qq.com/s/GVR9CqOntFh_D9hD2AWBMQ)  2019.02.06.
 
 
-11. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/th9Vey-CM_MLHpGl2cM_6A)  2021.02.06.
+12. [我是如何在3个月内写出博士论文的？](https://mp.weixin.qq.com/s/th9Vey-CM_MLHpGl2cM_6A)  2021.02.06.
 
 
-12. [从选题到答辩：优秀博士论文写作最全面的经验分享](https://mp.weixin.qq.com/s/KwwOkrY2flDOFQiBDdly6g)  2021.03.02.
+13. [从选题到答辩：优秀博士论文写作最全面的经验分享](https://mp.weixin.qq.com/s/KwwOkrY2flDOFQiBDdly6g)  2021.03.02.
 
 
-13. [教育部：学术不端，撤销学位！博士答辩未通过的，可建议授予硕士学位](https://mp.weixin.qq.com/s/ahyXg6EBCQAn_F1yLYTyBg). 2021.03.16.
+14. [教育部：学术不端，撤销学位！博士答辩未通过的，可建议授予硕士学位](https://mp.weixin.qq.com/s/ahyXg6EBCQAn_F1yLYTyBg). 2021.03.16.
 
 
-14. [研究生学位论文开题的要件、要素和程序](https://mp.weixin.qq.com/s/KQDZfnF70gN45_fuDXDbyQ). 2021.04.03.
+15. [研究生学位论文开题的要件、要素和程序](https://mp.weixin.qq.com/s/KQDZfnF70gN45_fuDXDbyQ). 2021.04.03.
 
+
+16. [“最强”博士论文答辩阵容：6位院士，副院长任答辩秘书！](https://mp.weixin.qq.com/s/o-sOdpjT7crKQkkiOL1KXw) 2022.01.02.
 
 
 ## 学位论文致谢
@@ -1115,6 +1121,7 @@ Table of Contents
 
 
 
+
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
 
@@ -1232,6 +1239,9 @@ Table of Contents
 
 
 12. [青椒亲历：满屏尴尬！博士去面试被建议做博士后](https://www.toutiao.com/i6996840478708859405/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629087374&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202108161216130101512070292CBD7486&share_token=a12bbdfd-4993-4685-8166-a00851cf4eb6&group_id=6996840478708859405) 2021.08.16.
+
+
+13. [高校青椒不如博士后挣得多？国内博士后的真实收入到底有多少](https://mp.weixin.qq.com/s/c2m5lHtCkHvIYkaLjOjucA) 2022.01.02.
 
 
 
