@@ -1120,6 +1120,8 @@ Table of Contents
 50. [31岁成为博导！从小乡村走出的985高校教授坦言：读书这条路最简单！](https://mp.weixin.qq.com/s/yQQyGjpUH9Ae-jjsUuTGpA?) 2021.12.29.
 
 
+51. [专访ICCV2021最佳论文Swin Transformer 作者胡瀚：面向计算机视觉中的「开放问题」](https://mp.weixin.qq.com/s/mvbceth2XKUDMn0iLjP3ew). 2022.01.03.
+
 
 
 ## 大厂经历
