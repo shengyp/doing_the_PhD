@@ -1620,6 +1620,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 29. [刚刚！2022年度国自然基金申请通知出炉](https://mp.weixin.qq.com/s/7J9OPIymnqHpC8YFqqArjQ). 2022.01.05.
 
 
+30. [基金委：论文不再标注通讯和一作了，影响有多大？](https://mp.weixin.qq.com/s/sELkWY2PxMsk9MEweuwsag). 2022.01.06.
+
+
 
 ## 重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
