@@ -564,20 +564,19 @@ Table of Contents
 48. [博士论文写不好？Barrett博士发超强攻略，手把手教你写论文](https://ebn.bmj.com/content/ebnurs/24/1/1.full.pdf). 2021.10.18. [[Report]](https://mp.weixin.qq.com/s/XkjdgWFoamxIMIP7pv-Yhw). 
 
 
-
 49. [Writing for Impact:	How	to Prepare a Journal Article](https://www.medicine.umich.edu/sites/default/files/content/downloads/WritingResearchPaper_Ibrahim_0.pdf). 2021.10.22. [[如何撰写好一篇论文？密歇根Andrew教授为你细致讲解论文写作]](https://www.toutiao.com/i7020383362401518092/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634915062&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110222304220101511521440F8EA947&share_token=f2c1c6fd-def4-4260-884d-519879daf2d0&group_id=7020383362401518092). 
-
 
 
 50. [CVPR 9999 Best Paper——《一种加辣椒的番茄炒蛋》](https://zhuanlan.zhihu.com/p/433237905?utm_source=wechat_session&utm_medium=social&utm_oi=34034784665600&wechatShare=2&s_r=0). 2021.11.15.
 
 
-
 51. [吐血整理：论文写作中注意这些细节，能显著提升成稿质量](https://mp.weixin.qq.com/s/1ykqoLWjy3WhczAvb_eOoQ). 2021.11.26.
 
 
-
 52. [如何论文避雷？中南大学喻海良教授：研究生第一篇科研论文常犯问题总结](https://mp.weixin.qq.com/s/oycnTCCJ6NpbhTiy26kFGw). 2022.01.08.
+
+
+53. [医学影像AI新晋IEEE Fellow「大论道」：后深度学习时代的记录、风向与产学思考](https://mp.weixin.qq.com/s/xITvLtP9sMwArReE159ZAw). 2022.01.16.
 
 
 
