@@ -1724,7 +1724,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 1. [论文中了顶会，却被曝抄袭前导师小组论文，多处原文及公式完全一致丨Reddit高热](https://mp.weixin.qq.com/s/eBTja_QRiODpSU7S-3p9RA). 2020.12.07
 
 
-2. [正道的光！苦等六年，天津大学原硕士研究生 123 页 PDF 实名举报学术不端教授，现已被天大火速解聘](https://mp.weixin.qq.com/s/BtZjHu9g1tsVCzVkiFZmig). 2020.11.20
+2. [正道的光！苦等六年，天津大学原硕士研究生 123 页 PDF 实名举报学术不端教授，现已被天大火速解聘](https://mp.weixin.qq.com/s/BtZjHu9g1tsVCzVkiFZmig). 2020.11.20 | [123页PDF实名举报天津大学教授学术造假后续来了](https://www.toutiao.com/i7054135550525342211/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1642475039&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202201181103580101512070481149CD2F&share_token=ea7d91b2-cb27-45b9-a6c4-418d35195495&group_id=7054135550525342211). 2022.01.17
 
 
 3. [2005年IOI满分得主周源陷学术不端风波：以女友为一作身份发表学生论文](https://mp.weixin.qq.com/s/3cCtoSoiwRQ84kPgSJSSDA). 2020.11.07
