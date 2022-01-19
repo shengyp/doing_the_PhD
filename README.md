@@ -1623,6 +1623,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 30. [基金委：论文不再标注通讯和一作了，影响有多大？](https://mp.weixin.qq.com/s/sELkWY2PxMsk9MEweuwsag). 2022.01.06.
 
 
+31. [【重磅】2022年国家自然科学基金项目指南正式公布！(附下载)](https://mp.weixin.qq.com/s/F0fGLTyVbansyBoooxj_Pw). 2022.01.19.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -1981,12 +1985,13 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 2. [骗20名女大学生550万，有人为他怀孕：“超级海王”是怎么炼成的](https://www.toutiao.com/i6994718371262546462/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1629264400&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210818132640010151207140090677F1&share_token=ee3c88aa-b75c-4a42-ad02-50ccc55964a2&group_id=6994718371262546462). 2021.08.18.
 
 
-3. [24岁阿里P8被爆「睡60女」！达摩院专家：让道德的归道德，法律的归法律](https://mp.weixin.qq.com/s/BzOD2OwfaVqroS5-_tYabQ). 2021.10.09.
+3. [24岁阿里P8被爆「睡60女」！达摩院专家：让道德的归道德，法律的归法律](https://mp.weixin.qq.com/s/BzOD2OwfaVqroS5-_tYabQ). 2021.10.09. | [阿里P8“海王”睡60女：已被公司劝退！](https://mp.weixin.qq.com/s/nbu1BV2D00B8SSHxL8OYdg). 2022.01.19.
 
 
 4. [王力宏劣迹爆出，音乐系本科生论文受牵连，凌晨两点求助导师](https://mp.weixin.qq.com/s/Ks1MQDBZKOchK_dkgZd6JQ). 2021.12.21.
 
 
-updated in 2022.1.16
+
+updated in 2022.1.19
 
 
