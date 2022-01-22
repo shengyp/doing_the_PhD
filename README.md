@@ -695,6 +695,10 @@ Table of Contents
 9. [对号入座：最让人讨厌的10种研究生导师！](https://mp.weixin.qq.com/s/E_sLxI-4tqQkMx0jD0CwsA) 2021.11.02. 
 
 
+10. [研究生如何与导师沟通？来自青年教师的视角](https://mp.weixin.qq.com/s/-cugdkrpZ2h7nmhmoZa7cA) 2022.11.22. 
+
+
+
 
 ## 读博期间
 1. [博一结束后的一些反思](https://mp.weixin.qq.com/s/DQevJoclXgdNa47_mlGokA) 2021.08.30. 
@@ -1992,6 +1996,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.1.19
+updated in 2022.1.22
 
 
