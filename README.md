@@ -1411,6 +1411,8 @@ Table of Contents
 28. [对13名高校教师的访谈研究：不发表就出局、非升即走……](https://mp.weixin.qq.com/s/wDME_kUKHZ60ro67kS0hJA). 2021.12.21. 
 
 
+29. [2人未通过准长聘考核被解雇！给年轻教师的5点建议](https://mp.weixin.qq.com/s/GKC5iwBpfW103_ifNf7HZA). 2022.01.27. 
+
 
 
 ## 贤内助
