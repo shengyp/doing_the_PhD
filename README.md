@@ -419,6 +419,9 @@ Table of Contents
 3. [佐治亚理工学院硕士建议：2022年你应该掌握这些机器学习算法](https://mp.weixin.qq.com/s/bsSNVNa71LQynsfsEydBow). 2021.12.11
 
 
+4. [论文复现不出来？Maria小姐姐这份《论文复现指南：要求、挑战与技巧》33页ppt帮你指点如何高效复现论文](https://drive.google.com/file/d/10kOi-h8B3Xzp_7KbwxYqkDM7Rp9oBcNm/view). 2021.12.11. [[Report]](https://mp.weixin.qq.com/s/pjlBiktwwns_YPR7YBx3kg)
+
+
 
 ## 如何写论文
 1. [如何写好摘要——毕业论文](https://mp.weixin.qq.com/s/H8-WPDO8voDIIvr99zSKew) 2021.01.14.
