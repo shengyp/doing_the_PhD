@@ -1130,6 +1130,9 @@ Table of Contents
 51. [专访ICCV2021最佳论文Swin Transformer 作者胡瀚：面向计算机视觉中的「开放问题」](https://mp.weixin.qq.com/s/mvbceth2XKUDMn0iLjP3ew). 2022.01.03.
 
 
+52. [女博士三胎后重返科研：我是这样平衡家庭和工作的](https://mp.weixin.qq.com/s/TQLJ3OJUNz72gK6pEzI-rw). 2022.01.30.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
