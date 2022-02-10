@@ -303,6 +303,9 @@ Table of Contents
 31. [姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题](./report/姚期智演讲实录：做研究最好的方法是提出深刻、大胆和关键性的问题.pdf). 2021.11.
 
 
+32. [【学术人生】读博五年！我总结出了7条帮你「少走弯路」的真理！](https://mp.weixin.qq.com/s/mkoHnfJQkhiseDX-7oRS5Q). 2022.02.05
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
