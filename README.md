@@ -1646,6 +1646,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 31. [【重磅】2022年国家自然科学基金项目指南正式公布！(附下载)](https://mp.weixin.qq.com/s/F0fGLTyVbansyBoooxj_Pw). 2022.01.19.
 
 
+32. [国自然标书，要打动评委，让专家产生共鸣！国家优青获得者经验分享](https://mp.weixin.qq.com/s/3ytsyH4DLuEjh3RaLHfESw). 2022.02.11.
+
+
 
 
 ## 国家重点研发计划
