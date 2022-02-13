@@ -1652,6 +1652,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 32. [国自然标书，要打动评委，让专家产生共鸣！国家优青获得者经验分享](https://mp.weixin.qq.com/s/3ytsyH4DLuEjh3RaLHfESw). 2022.02.11.
 
 
+33. [2022国自然申请，这件事不要再弄错了！](https://www.toutiao.com/w/i1724605924905998/?tt_from=weixin&utm_campaign=client_share&timestamp=1644720747&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&share_token=4ff3f7f6-61aa-4f27-9e12-44ea4cd48742&wxshare_count=1). 2022.02.13.
+
 
 
 ## 国家重点研发计划
