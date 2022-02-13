@@ -635,6 +635,9 @@ Table of Contents
 1. [How to be a good reviewer?  Reviewer Tutorial for CVPR 2022](https://cvpr2022.thecvf.com/sites/default/files/2021-11/How%20to%20be%20a%20good%20reviewer-tutorials%20for%20cvpr2022%20reviewers.pptx.pdf) 2021.11.15. [[Report]](https://mp.weixin.qq.com/s/G-tYOXGMjTTj9RIKmIX7xQ) 
 
 
+2. [当我们谈科学研究的创新性时，我们在谈些什么？——给审稿人的一封信](https://mp.weixin.qq.com/s/PO8kn0oK_9EqplzYHc2UBQ) 2022.02.13. 
+
+
 
 ## 同行评审
 1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
