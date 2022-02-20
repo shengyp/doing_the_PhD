@@ -1433,6 +1433,9 @@ Table of Contents
 29. [2人未通过准长聘考核被解雇！给年轻教师的5点建议](https://mp.weixin.qq.com/s/GKC5iwBpfW103_ifNf7HZA). 2022.01.27. 
 
 
+30. [申终身教职被拒后，MIT校长亲口告诉我：转正与研究贡献无关](https://mp.weixin.qq.com/s/rSYu0PTLSuLL4puqybN2_w). 2022.02.19. 
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
@@ -2014,6 +2017,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 13. [83岁巨星陨落！北大计算语言学家俞士汶去世，清华孙茂松献「七绝」缅怀](https://mp.weixin.qq.com/s/rIkvoI-W-CDQT_NSsrQkvA). 2021.11.05. 
 
 
+14. [痛惜！中科院研究员周传不幸病逝，年仅38岁！](https://mp.weixin.qq.com/s/5cThj6asBXeoRIE8nQZ8og). 2022.02.20. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
@@ -2029,6 +2035,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.2.15
+updated in 2022.02.20
 
 
