@@ -871,6 +871,9 @@ Table of Contents
 1. [习近平：我国青年科技人才存在机会少、通道窄、生活压力大等问题，要重视解决面临的实际困难](https://mp.weixin.qq.com/s/INUqSSrIiRKlgJKln0QjlQ). 2021.12.16. 
 
 
+2. [如果再这么玩下去，中国的科研就没戏了](https://mp.weixin.qq.com/s/IAP9p8lH_q_9ThgAY82F8A). 2022.02.21. 
+
+
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
