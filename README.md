@@ -311,6 +311,8 @@ Table of Contents
 33. [机器学习博士在获得学位之前需要掌握的九种工具！](https://mp.weixin.qq.com/s/xVZuUWWUuRRsGcGxnkDy_g). 2022.02.20
 
 
+34. [如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw). 2022.02.23. [[Report]](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) | [[Video]](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)
+
 
 
 ## 好的研究想法如何产生
