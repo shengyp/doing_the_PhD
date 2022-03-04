@@ -314,6 +314,9 @@ Table of Contents
 34. [如何搞砸你的学术研究之路？图灵奖伯克利教授David Patterson经典报告让你避坑，附视频与报告](https://mp.weixin.qq.com/s/KDss_ap1ar8bnrtqDBMVvw). 2022.02.23. [[Report]](https://people.eecs.berkeley.edu/~pattrsn/talks/BadCareer.pdf) | [[Video]](https://finder.video.qq.com/251/20302/stodownload?encfilekey=Cvvj5Ix3eez3Y79SxtvVL0L7CkPM6dFibFeI6caGYwFGtHmjn3IFwsEyDO9cWZzW1dw7GuUNgM9bvDBe1iadqDiab4slj4fBdiaSPpAvMiaH9YUzeEqKUOjanzWGsWfpltxTSbRAvlribfrl7IXHQ43WaEsg&token=AxricY7RBHdVyd75w0drSTtjz9f25y2SibyQNBTIxiasg6eIX4nKdr65dspfn0ydtfrwMEUv8ibgjhw&idx=1&adaptivelytrans=943&bizid=1023&dotrans=2991&hy=SH&m=824da4ab1becdf974b789b979d37310d&scene=0&t=1)
 
 
+35. [钱颖一：从清华学生身上，我发现了这7个普遍现象……](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA). 2022.02.22
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
