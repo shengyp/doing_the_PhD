@@ -716,8 +716,10 @@ Table of Contents
 9. [对号入座：最让人讨厌的10种研究生导师！](https://mp.weixin.qq.com/s/E_sLxI-4tqQkMx0jD0CwsA) 2021.11.02. 
 
 
-10. [研究生如何与导师沟通？来自青年教师的视角](https://mp.weixin.qq.com/s/-cugdkrpZ2h7nmhmoZa7cA) 2022.11.22. 
+10. [研究生如何与导师沟通？来自青年教师的视角](https://mp.weixin.qq.com/s/-cugdkrpZ2h7nmhmoZa7cA) 2021.11.22. 
 
+
+11. [为什么博导都希望，自己的博士生毕业也去高校当老师？"直白点说, 自己人好办事"](https://mp.weixin.qq.com/s/74EUgGgL_XMazzGawrPyBA) 2022.03.04. 
 
 
 
