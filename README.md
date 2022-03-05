@@ -1550,6 +1550,9 @@ Table of Contents
 26. [动真格！大批高校事业编，将被收回！](https://www.toutiao.com/i7018872751247082019/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634219470&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110142151100101502202011E1F0CBA&share_token=5485a566-9294-4437-b47d-955a35784a8a&group_id=7018872751247082019) 2021.09.14
 
 
+27. [高校预聘制“非升即走”引争议，民盟中央建议优化教师评价机制](https://www.toutiao.com/i7071224067885859365/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1646445779&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202203051002590101501611582131C3FE&share_token=414a4815-9bb3-4b20-b43b-911e04c94ec7&group_id=7071224067885859365) 2022.03.04
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
