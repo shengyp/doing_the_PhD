@@ -1161,6 +1161,9 @@ Table of Contents
 52. [女博士三胎后重返科研：我是这样平衡家庭和工作的](https://mp.weixin.qq.com/s/TQLJ3OJUNz72gK6pEzI-rw). 2022.01.30.
 
 
+53. [复旦陈静静 | 把握当下，坚持热爱，与食物图像识别结缘的科研之路](https://mp.weixin.qq.com/s/Fl3UCQggPMJXXj_179x-KQ). 2022.03.03.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
