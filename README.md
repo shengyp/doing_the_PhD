@@ -53,6 +53,7 @@ Table of Contents
 * [我国博士研究生培养结构](#我国博士研究生培养结构)
 * [有多“内卷”](#有多“内卷”)
 * [科研故事](#科研故事)
+* [女性科学家](#女性科学家)
 * [大厂经历](#大厂经历)
 * [灵魂拷问](#灵魂拷问)
 * [被博士后割韭菜了没](#被博士后割韭菜了没)
@@ -1165,6 +1166,17 @@ Table of Contents
 53. [复旦陈静静 | 把握当下，坚持热爱，与食物图像识别结缘的科研之路](https://mp.weixin.qq.com/s/Fl3UCQggPMJXXj_179x-KQ). 2022.03.03.
 
 
+54. [他发表SCI论文9篇，其中一区TOP期刊4篇！曾每天花14个小时看论文](https://mp.weixin.qq.com/s/H8PsbFEhrbem-VwkEur9nw). 2022.03.09.
+
+
+
+## 女性科学家
+1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
+
+
+1. [智源伍昱：被AI“耽误”的文艺青年，用技术对抗偏见](https://mp.weixin.qq.com/s/FPvijB3U207HHZvstRAVcQ). 2022.03.09.
+
+
 
 ## 大厂经历
 1. [入职腾讯第9年，我辞职了](https://mp.weixin.qq.com/s/kgOvoL-SNhWhgOkexwjHOg). 2021.03.28.
@@ -1453,6 +1465,9 @@ Table of Contents
 
 
 30. [申终身教职被拒后，MIT校长亲口告诉我：转正与研究贡献无关](https://mp.weixin.qq.com/s/rSYu0PTLSuLL4puqybN2_w). 2022.02.19. 
+
+
+31. [青年教师沦为“科研民工”，“非升即走”终于引发两会关注！](https://mp.weixin.qq.com/s/o3etILE1Qe_OIVASdQesiA) 2022.03.09. 
 
 
 
