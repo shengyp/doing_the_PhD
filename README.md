@@ -1174,7 +1174,13 @@ Table of Contents
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
 
 
-1. [智源伍昱：被AI“耽误”的文艺青年，用技术对抗偏见](https://mp.weixin.qq.com/s/FPvijB3U207HHZvstRAVcQ). 2022.03.09.
+2. [智源伍昱：被AI“耽误”的文艺青年，用技术对抗偏见](https://mp.weixin.qq.com/s/FPvijB3U207HHZvstRAVcQ). 2022.03.09.
+
+
+3. [专访Women in AI学者黄萱菁：计算机非常适合女性，NLP研究正值朝阳](https://mp.weixin.qq.com/s/l3wUntFx9WE4bjQxTfAzHA). 2022.03.09.
+
+
+4. [专访Women in AI学者陈静静：以兴趣为驱动，以严谨为标准做科研](https://mp.weixin.qq.com/s/ZzRZFb4FKIy2mDwMNguf3g). 2022.03.11.
 
 
 
@@ -1491,6 +1497,9 @@ Table of Contents
 
 ## 科技成果评价
 1. [重磅文件落地！科技成果评价体系改革全面发力](https://mp.weixin.qq.com/s/9_DwStH0YuAObgwPeuF4YA). 2021.08.06
+
+
+2. [李家洋院士：只认第一作者，还怎么鼓励合作？引发网友热议！](https://mp.weixin.qq.com/s/TVoWgui__jBssO7m3JOvEw) 2022.03.10
 
 
 
