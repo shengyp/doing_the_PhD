@@ -655,6 +655,9 @@ Table of Contents
 2. [当我们谈科学研究的创新性时，我们在谈些什么？——给审稿人的一封信](https://mp.weixin.qq.com/s/PO8kn0oK_9EqplzYHc2UBQ) 2022.02.13. 
 
 
+3. [摘要拒稿、直接拒稿都太粗暴：近万篇论文，AAAI、IJCAI、ICML都是怎么审的？](https://mp.weixin.qq.com/s/yypFQhyfCZTV9qgknZ5BoA) 2022.03.12. 
+
+
 
 ## 同行评审
 1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
