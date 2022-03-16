@@ -29,6 +29,7 @@ Table of Contents
 * [同行评审](#同行评审)
 * [审稿状态](#审稿状态)
 * [如何做报告](#如何做报告)
+* [不可小觑的论文工厂](#不可小觑的论文工厂)
 * [顶会存在的意义](#顶会存在的意义)
 * [博士生的导师](#博士生的导师)
 * [读博期间](#读博期间)
@@ -603,7 +604,10 @@ Table of Contents
 
 53. [医学影像AI新晋IEEE Fellow「大论道」：后深度学习时代的记录、风向与产学思考](https://mp.weixin.qq.com/s/xITvLtP9sMwArReE159ZAw). 2022.01.16.
 
-大数据与软件学院盛泳潘报博士后1月科研劳务
+
+54. [【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf). 2022.01.16. | [清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9). 2022.03.13. 
+
+
 
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
@@ -680,6 +684,11 @@ Table of Contents
 
 
 2. [如何做好一场报告？斯坦福Kayvon教授《清晰报告指南》为您讲解](https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf). 2021.05.27. [[Report]](https://mp.weixin.qq.com/s/UEp8zhCpsrQFEQ51tQ8wKg) 
+
+
+
+## 不可小觑的论文工厂
+1. [海外学术造假“论文工厂”正在蓬勃发展](https://www.toutiao.com/i7075222373150016038/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647395724&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316095523010158149148202F5F54&share_token=5e748cdc-0f78-4efe-97ee-0b9b0e27ea7e&group_id=7075222373150016038). 2022.03.15.
 
 
 
