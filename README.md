@@ -1605,7 +1605,10 @@ Table of Contents
 26. [动真格！大批高校事业编，将被收回！](https://www.toutiao.com/i7018872751247082019/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634219470&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110142151100101502202011E1F0CBA&share_token=5485a566-9294-4437-b47d-955a35784a8a&group_id=7018872751247082019) 2021.09.14
 
 
-27. [高校预聘制“非升即走”引争议，民盟中央建议优化教师评价机制](https://www.toutiao.com/i7071224067885859365/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1646445779&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202203051002590101501611582131C3FE&share_token=414a4815-9bb3-4b20-b43b-911e04c94ec7&group_id=7071224067885859365) 2022.03.04
+27. [高校预聘制“非升即走”引争议，民盟中央建议优化教师评价机制](https://www.toutiao.com/i7071224067885859365/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1646445779&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202203051002590101501611582131C3FE&share_token=414a4815-9bb3-4b20-b43b-911e04c94ec7&group_id=7071224067885859365). 2022.03.04
+
+
+28. [量化评估对高校教师的规训隐忧——从《慢教授》看学术职业的异化](https://mp.weixin.qq.com/s/0CHeqt-TKSFbE76WdHqkQQ). 2022.03.04
 
 
 
@@ -2103,7 +2106,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 13. [83岁巨星陨落！北大计算语言学家俞士汶去世，清华孙茂松献「七绝」缅怀](https://mp.weixin.qq.com/s/rIkvoI-W-CDQT_NSsrQkvA). 2021.11.05. 
 
 
-14. [痛惜！中科院研究员周传不幸病逝，年仅38岁！](https://mp.weixin.qq.com/s/5cThj6asBXeoRIE8nQZ8og). 2022.02.20. 
+14. [痛惜！中科院研究员周传不幸病逝，年仅38岁！](https://mp.weixin.qq.com/s/5cThj6asBXeoRIE8nQZ8og)  2022.02.20. 
 
 
 
