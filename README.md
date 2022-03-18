@@ -1359,6 +1359,9 @@ Table of Contents
 3. [钱学森23年前的来信曝光！写给中科大这位院士，事关国家大事！](https://k.sina.cn/article_1806503894_6bad0fd6019011lgc.html?wm=13500_0055&vt=4) 2021.07.15.
 
 
+4. [美国针对华人学者的“围猎”仍在继续：耶鲁教授、美国两院院士林海帆被停职调查](https://mp.weixin.qq.com/s/X-YEBFnWZcp8c9C_2IUd0g) 2022.03.18.
+
+
 
 ## 毕业生的去向
 1. [清华本科生0人去阿里，交叉信息院硕士没人再深造 | 清华大学2020年毕业生就业质量报告](https://mp.weixin.qq.com/s/nXn4bbp1fuQuyb_h3sEp4Q). 2021.01.08.
