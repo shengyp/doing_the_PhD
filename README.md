@@ -1216,6 +1216,8 @@ Table of Contents
 2. [如何看待2022年秋招算法岗车毁人亡？](https://mp.weixin.qq.com/s/HC6u1gEYVRr0djcY4omx6A) 2021.04.07.
 
 
+3. [我与NLP这七年](https://mp.weixin.qq.com/s/bfMqhxeTURNGUsUugtOKlw). 2022.03.19.
+
 
 
 ## 灵魂拷问
