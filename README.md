@@ -211,6 +211,9 @@ Table of Contents
 29. [美国顶尖大学的博士是怎样练成的？](https://mp.weixin.qq.com/s/75e546cOzdFYeQPnFsZ7hw) 2021.10.20. 
 
 
+30. [美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g) 2022.03.19. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
