@@ -925,6 +925,8 @@ Table of Contents
 5. [国务院：科研资源向优秀人才和团队倾斜，谁能干、谁干得好，就支持谁！](https://mp.weixin.qq.com/s/osNupz_kSt0yGN9-srcOqA) 2021.08.23. 
 
 
+6. [科研经费管理更细更实（深阅读·关注科研经费管理）](https://wap.peopleapp.com/article/6586075/6463443). 2022.03.23. 
+
 
 
 ## 导师招生神奇要求
