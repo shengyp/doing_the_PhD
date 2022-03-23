@@ -407,7 +407,7 @@ Table of Contents
 3. [如何读论文才不至于发疯？](https://mp.weixin.qq.com/s/ERaLDI4bVTbbEmX8aVwrOg)  2019.10.11. 
 
 
-4. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf). [[如何学会读论文？三轮阅读法]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697)
+4. [How to Read a Paper](https://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf) | [[如何学会读论文？三轮阅读法]](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/103839697) | [【MIT Sam Hopkins教授】如何读论文？How to Read a Paper](https://mp.weixin.qq.com/s/_CoukV6mD6WI5rAYAEsKbQ). 2022.03.21
 
 
 5. [一文教你如何快速高效阅读Paper（硕士生版)](https://blog.csdn.net/tmb8z9vdm66wh68vx1/article/details/87871121). 2019.02.25. 
@@ -1206,6 +1206,9 @@ Table of Contents
 
 
 4. [专访Women in AI学者陈静静：以兴趣为驱动，以严谨为标准做科研](https://mp.weixin.qq.com/s/ZzRZFb4FKIy2mDwMNguf3g). 2022.03.11.
+
+
+5. [专访Women in AI学者黄惠：绘图形之梦，寻突破之门](https://mp.weixin.qq.com/s/GU8TouLQMomJwrlIfe4YBw). 2022.03.23.
 
 
 
