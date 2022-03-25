@@ -1765,6 +1765,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 35. [申请国家自然科学基金心得与体会（PPT版）—刘家军教授](https://mp.weixin.qq.com/s/F6nhE063Le0cN8904A6pqg). 2022.02.24. [[Report]](https://pan.baidu.com/s/1Eum03eQMMJWSSAOH3B0TwA?pwd=h9ji)
 
 
+36. [基金委：2022年总预算经费再次增加!](https://mp.weixin.qq.com/s/EywAbunhnR-fIp2t02tgDg). 2022.03.24.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2063,6 +2066,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 64. [华人科研新星伪造数据，遭公开通报科研不端](https://www.toutiao.com/i7076793208679694863/?app=news_article&timestamp=1647707441&use_new_style=1&req_id=20220320003041010151186080176090C7&group_id=7076793208679694863&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=12d6102f-d639-479e-b98a-f5a951dd5ce4). 2022.03.19. 
 
 
+65. [看麻了！35岁奥地利总理辞职当码农](https://mp.weixin.qq.com/s/ckNaSvmKwNzMreQkdfgpvQ). 2022.03.25. 
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
@@ -2146,6 +2152,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.02.22
+updated in 2022.03.25
 
 
