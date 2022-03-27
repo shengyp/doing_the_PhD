@@ -1225,6 +1225,9 @@ Table of Contents
 3. [我与NLP这七年](https://mp.weixin.qq.com/s/bfMqhxeTURNGUsUugtOKlw). 2022.03.19.
 
 
+4. [在 Google 工作十年后的感悟](https://mp.weixin.qq.com/s/rODrRWm_uOGOw2388SjR7g). 2022.03.27.
+
+
 
 ## 灵魂拷问
 1. [谷歌大脑高级研究科学家：在康奈尔读博6年，我收获了什么](https://mp.weixin.qq.com/s/tX64TpXmPZZC90zQME5puw). 2021.01.08.
