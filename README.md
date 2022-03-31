@@ -1197,6 +1197,12 @@ Table of Contents
 54. [他发表SCI论文9篇，其中一区TOP期刊4篇！曾每天花14个小时看论文](https://mp.weixin.qq.com/s/H8PsbFEhrbem-VwkEur9nw). 2022.03.09.
 
 
+55. [手握6篇SCI，全额奖学金赴美留学，这位准博士“开挂”了吗？](https://www.toutiao.com/article/7080526142687756803/?app=news_article&timestamp=1648619494&use_new_style=1&req_id=2022033013513401015811821012360BC4&group_id=7080526142687756803&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=7e835ba0-007b-4b83-803d-147754eb030f). 2022.03.29.
+
+
+56. [这位斯坦福PhD新生的论文被引数：接近4万](https://mp.weixin.qq.com/s/ruOaKL59sJtu-JUR4iLaBg). 2022.03.30.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -1226,6 +1232,9 @@ Table of Contents
 
 
 4. [在 Google 工作十年后的感悟](https://mp.weixin.qq.com/s/rODrRWm_uOGOw2388SjR7g). 2022.03.27.
+
+
+5. [阿里算法，浙大博士带你写项目经历！](https://mp.weixin.qq.com/s/JkoWwWdsBh3GmMx6PmC5SA). 2022.03.28.
 
 
 
