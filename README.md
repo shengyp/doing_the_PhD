@@ -1032,6 +1032,9 @@ Table of Contents
 23. [国科大回应：博士生每月不低于4300元！](https://mp.weixin.qq.com/s/C1brsJHOPzP0L2o22DhdtQ) 2021.04.22.
 
 
+24. [科研经费博士与普通博士有什么差别？](https://zhuanlan.zhihu.com/p/447957891) | [近期好多高校招收的「科研经费博士」是什么？为什么这样招收？](https://www.zhihu.com/question/328911352/answer/1260176174) | [有小伙伴了解科研经费博士吗？和普通的学术型博士有没有差别？另外导师让学生承担交给学校的科研经费合理吗？](https://www.zhihu.com/question/453228975/answer/2156480451)
+
+
 
 ## 有多“内卷”
 1. [清华北大博士“内卷”的尽头，是去深圳当中学老师吗？](https://mp.weixin.qq.com/s/p3YdDHyPn20y0QZ7UTbeLg). 2021.10.12.
