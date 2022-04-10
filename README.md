@@ -329,6 +329,10 @@ Table of Contents
 35. [钱颖一：从清华学生身上，我发现了这7个普遍现象……](https://mp.weixin.qq.com/s/CV0VPJwb4QW7sGFJglKisA). 2022.02.22
 
 
+36. [吴恩达知乎问答：如何系统学习机器学习？](https://mp.weixin.qq.com/s/Gx05WDzIaGkBNlptD7KIyg). 2022.04.10
+
+
+
 
 ## 好的研究想法如何产生
 1. [我有一个顶会idea还没做实验，NeurIPS：先占坑再实验！](https://mp.weixin.qq.com/s/T4aRAHJILLZZ2CSd_m6wWw)
