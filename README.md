@@ -218,6 +218,9 @@ Table of Contents
 30. [美“每周的运动必不可少” 有哪些东西是你读博士以后才懂的？](https://mp.weixin.qq.com/s/erlCqwtTRUwUstGMprMT5g) 2022.03.19. 
 
 
+31. [博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享](./book/The_A-Z_of_the_Phd_Trajectory.pdf). 2022.04.11. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
