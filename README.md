@@ -445,6 +445,9 @@ Table of Contents
 12. [CVPR放榜季，算法工程师怎样读论文？](https://mp.weixin.qq.com/s/YsR6gEjk9tgAniM4VBMI_A). 2022.03.12 
 
 
+13. [三位科研牛人介绍的文献阅读经验、点点滴滴](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA). 2022.04.02 
+
+
 
 ## 如何做实验
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
