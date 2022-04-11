@@ -1461,7 +1461,7 @@ Table of Contents
 10. [许多研究生的一个通病：对导师过度依赖！](https://mp.weixin.qq.com/s/xkWXQknLzhQnilTM8w5BoQ) 2022.04.10.
 
 
-11. [数据科学研究型人才培养的思考与实践](https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA) 2022.04.11.
+11. [数据科学研究型人才培养的思考与实践](https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA). 2022.04.11.
 
 
 
