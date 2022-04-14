@@ -2138,6 +2138,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 65. [看麻了！35岁奥地利总理辞职当码农](https://mp.weixin.qq.com/s/ckNaSvmKwNzMreQkdfgpvQ). 2022.03.25. 
 
 
+66. [百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ). 2022.04.14.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
