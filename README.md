@@ -448,6 +448,9 @@ Table of Contents
 13. [三位科研牛人介绍的文献阅读经验、点点滴滴](https://mp.weixin.qq.com/s/F_mhExyHoBBkCXjLT6--nA). 2022.04.02 
 
 
+14. [如何做好科研？德国图宾根大学Andreas这份《科研阅读、写作与报告》82页PPT，手把手教你实操科研: 读写评讲论文](https://pan.baidu.com/s/1KqblVQc0hyPFFg3JoAPTVw?pwd=ge41). 2022.04.13 | [[Report]](https://mp.weixin.qq.com/s/hX-x0BXSHGVxvb0-7uhdng)
+
+
 
 ## 如何做实验
 1. [7步！顶会Paper 复现方法！](https://mp.weixin.qq.com/s/bE4F7uqNP5toQFvS7G6Axw). 2021.07.13 
