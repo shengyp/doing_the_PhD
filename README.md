@@ -1241,6 +1241,9 @@ Table of Contents
 57. [现在的本科生太厉害了](https://www.toutiao.com/w/1729876673605644/?app=news_article&timestamp=1649819269&use_new_style=1&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c595641a-b13a-4bb9-936e-ac27ee1b2b62). 2022.04.12.
 
 
+58. [智能青年｜苟向阳：以长期事业的态度对待科研](https://mp.weixin.qq.com/s/ukT_kiYCxsB_DTSTSLVb4g). 2022.04.15.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
