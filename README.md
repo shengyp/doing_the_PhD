@@ -1696,6 +1696,10 @@ Table of Contents
 28. [量化评估对高校教师的规训隐忧——从《慢教授》看学术职业的异化](https://mp.weixin.qq.com/s/0CHeqt-TKSFbE76WdHqkQQ). 2022.03.04
 
 
+29. [打破「铁饭碗」：佐治亚理工取消终身教授制度，启动全员「末位淘汰」](https://mp.weixin.qq.com/s/SX7zE4HoD82PvkyaITEE2Q). 2022.04.23
+
+
+
 
 ## 国家自然科学基金
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
