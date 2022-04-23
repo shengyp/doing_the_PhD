@@ -1244,6 +1244,9 @@ Table of Contents
 58. [智能青年｜苟向阳：以长期事业的态度对待科研](https://mp.weixin.qq.com/s/ukT_kiYCxsB_DTSTSLVb4g). 2022.04.15.
 
 
+59. [疫情封闭在校的一个复旦教授的坚守：不停教，不停研，助抗疫](https://mp.weixin.qq.com/s/VxSdXoYPIL6xjGwQ_ZGXTA). 2022.04.23.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2151,6 +2154,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 67. [“90后”博士生发Nature造假，怕被调查扔掉实验室万元电脑，结局拖累导师受罚](https://mp.weixin.qq.com/s/XZ0yvB-mjbTW5N0p6iw-uA). 2022.04.21.
+
+
+68. [震惊！北外教授、长江学者何伟，被多位学者举报学术不端](https://www.toutiao.com/article/7089623971444097572/?app=news_article&timestamp=1650704486&use_new_style=1&req_id=202204231701260101510790230B458463&group_id=7089623971444097572&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=4811109f-323b-4335-9a4c-44035a0aafe8&wid=1650706229664). 2022.04.23.
 
 
 
