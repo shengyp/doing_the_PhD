@@ -1696,7 +1696,7 @@ Table of Contents
 28. [量化评估对高校教师的规训隐忧——从《慢教授》看学术职业的异化](https://mp.weixin.qq.com/s/0CHeqt-TKSFbE76WdHqkQQ). 2022.03.04
 
 
-29. [打破「铁饭碗」：佐治亚理工取消终身教授制度，启动全员「末位淘汰」](https://mp.weixin.qq.com/s/SX7zE4HoD82PvkyaITEE2Q). 2022.04.23
+29. [打破「铁饭碗」：佐治亚理工取消终身教授制度，启动全员「末位淘汰」](https://mp.weixin.qq.com/s/SX7zE4HoD82PvkyaITEE2Q). 2022.04.23 | [得州、佛州也对「终身教授」制度下手了，每年评绩效，有大学准备捡漏](https://mp.weixin.qq.com/s/4z6y1Kn4njgCAUy-ZzbJcg). 2022.04.23 
 
 
 
