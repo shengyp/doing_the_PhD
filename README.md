@@ -1355,6 +1355,7 @@ Table of Contents
 24. [清华姚班教授劝退文： 我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/ebMZS06L5HGFe1ODsaVKQA). 2021.12.04
 
 
+
 ## 被博士后割韭菜了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
 
@@ -2225,6 +2226,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 14. [痛惜！中科院研究员周传不幸病逝，年仅38岁！](https://mp.weixin.qq.com/s/5cThj6asBXeoRIE8nQZ8og)  2022.02.20. 
+
+
+15. [李三立院士逝世：中国计算机体系结构先驱，曾为国防计算机项目总负责人](https://mp.weixin.qq.com/s/IHR9oLPh5pkis9i2FUrlMg)  2022.04.24. 
 
 
 
