@@ -1911,6 +1911,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 5. [太真实了！成为助教、讲师、副教授、教授后的变化](https://mp.weixin.qq.com/s/ROULYSs1bPm9n7fI4kU-PQ). 2021.03.26
 
 
+6. [重磅！100位校高校教师晒工资，详细晒，全国各地！要进高校的博士们参考](https://mp.weixin.qq.com/s/LXo6Cc8wUAU-i1NFF3MZSw). 2022.04.27
+
+
+
 
 ## 谨慎破除“唯论文”现象
 1. [诺奖得主本庶佑: 不要相信论文里写的东西，Nature、Science这些杂志上的观点有九成是不正确的.](https://mp.weixin.qq.com/s/jDIfhMKLISv0YtRPOmQHZw)  2020.10.01. 
