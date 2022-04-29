@@ -1247,6 +1247,9 @@ Table of Contents
 59. [疫情封闭在校的一个复旦教授的坚守：不停教，不停研，助抗疫](https://mp.weixin.qq.com/s/VxSdXoYPIL6xjGwQ_ZGXTA). 2022.04.23.
 
 
+60. [美国莱斯大学副教授胡侠｜“没有人会为无聊的事情奋斗一辈子”](https://mp.weixin.qq.com/s/OW4_zwKJ55c3SzLE_8OjvQ). 2022.04.29.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
