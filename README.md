@@ -1483,6 +1483,10 @@ Table of Contents
 11. [数据科学研究型人才培养的思考与实践](https://mp.weixin.qq.com/s/cw8gAinn4iWgKGh86xxxGA). 2022.04.11.
 
 
+12. [教授建议：科研人员压力太大，要培养一些吃喝玩乐之类庸俗的爱好](https://mp.weixin.qq.com/s/rk2Zv6jCdQOAFoTt_n6ImA). 2022.04.30.
+
+
+
 
 ## 青椒的苦恼
 1. [新进老师没编制！至少34所施行“非升即走”制度的985高校](https://www.toutiao.com/i6915294088258437636/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610217687&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101100241270101441311342C77A9BA&share_token=7efebb59-8c8e-4089-b9f2-6091908aa52c&group_id=6915294088258437636). 2021.01.08.
