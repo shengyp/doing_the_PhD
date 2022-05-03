@@ -221,6 +221,10 @@ Table of Contents
 31. [博士入坑必读教材-《A-Z博士（PhD）顺利毕业必读指南》新书免费分享](./book/The_A-Z_of_the_Phd_Trajectory.pdf). 2022.04.11. | [[Report]](https://mp.weixin.qq.com/s/siwSoapCfI20Sa7i-faiwQ)
 
 
+32. [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw) 2022.05.03. 
+
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
@@ -333,6 +337,9 @@ Table of Contents
 
 
 36. [吴恩达知乎问答：如何系统学习机器学习？](https://mp.weixin.qq.com/s/Gx05WDzIaGkBNlptD7KIyg) 2022.04.10
+
+
+37. [读博期间应该明确的50件事！](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw) 2022.05.02
 
 
 
