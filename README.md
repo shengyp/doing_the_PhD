@@ -1257,6 +1257,9 @@ Table of Contents
 60. [美国莱斯大学副教授胡侠｜“没有人会为无聊的事情奋斗一辈子”](https://mp.weixin.qq.com/s/OW4_zwKJ55c3SzLE_8OjvQ). 2022.04.29.
 
 
+61. [我在MIT人工智能研究实验室工作一年学到的5件事](https://mp.weixin.qq.com/s/FZcaf3slXklmoWDHBrkHOQ). 2022.05.09.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
