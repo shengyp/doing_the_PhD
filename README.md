@@ -637,6 +637,10 @@ Table of Contents
 54. [【经典】清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf). 2022.01.16. | [清华大学刘洋老师：244页机器翻译学术论文写作方法和技巧，讲透学术论文写作](https://pan.baidu.com/s/1Ynq94J7v2kXs_ZTvSSu9gA?pwd=qrd9). 2022.03.13. 
 
 
+55. [写好一篇机器学习顶会论文](https://pan.baidu.com/s/1jHblTOZOuotktjVc9PzCEg?pwd=63dt). 2022.05.18.  [[Report]](
+https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g). 
+
+
 
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
