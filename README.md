@@ -1801,7 +1801,9 @@ http://www.360doc.com/content/20/0315/17/8729276_899375743.shtml). 2020.03.15.
 
 
 21. [国家自然科学基金上会评审(会评)基本情况介绍](
-https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04.
+https://www.medsci.cn/article/show_article.do?id=e4c213996308). 2018.06.04. | [【学术相关】国家自然科学基金申请——函评等级与上会](
+https://mp.weixin.qq.com/s/fc5Lrozw2MKgGxhn4f1png). 2022.05.18. 
+
 
 
 22. [国家自然科学基金委员会2020年度报告出炉！](
