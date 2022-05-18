@@ -2184,6 +2184,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 68. [震惊！北外教授、长江学者何伟，被多位学者举报学术不端](https://www.toutiao.com/article/7089623971444097572/?app=news_article&timestamp=1650704486&use_new_style=1&req_id=202204231701260101510790230B458463&group_id=7089623971444097572&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=4811109f-323b-4335-9a4c-44035a0aafe8&wid=1650706229664). 2022.04.23.
 
 
+69. [湖南师范大学国家重点实验室的早期论文被撤回，因WB图背景重复](https://www.toutiao.com/article/7098604668741354024/?app=news_article&timestamp=1652843172&use_new_style=1&req_id=2022051811061001015801820023017049&group_id=7098604668741354024&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=6f9df539-72c4-49e3-a59a-78411acf384a). 2022.05.17.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
