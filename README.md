@@ -225,6 +225,9 @@ Table of Contents
 32. [犹豫是否读个博士？这里综合前途、家庭、爱好帮你分析下~](https://mp.weixin.qq.com/s/_wlKYSkESHkLWeueU13Ayw) 2022.05.03. 
 
 
+33. [读博士可能后悔四年，不读博士可能后悔一辈子](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ). 2022.05.18. 
+
+
 
 
 <!-- ## Datasets_Shared_Tasks -->
