@@ -2205,6 +2205,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 69. [湖南师范大学国家重点实验室的早期论文被撤回，因WB图背景重复](https://www.toutiao.com/article/7098604668741354024/?app=news_article&timestamp=1652843172&use_new_style=1&req_id=2022051811061001015801820023017049&group_id=7098604668741354024&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=6f9df539-72c4-49e3-a59a-78411acf384a). 2022.05.17.
 
 
+70. [西南交大29岁博士生曹瑞洲跳楼自杀，年迈母亲校外哭泣20余天](https://mp.weixin.qq.com/s/rLQKm95Er3DDC-B5JhGXLw). 2022.05.20.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
