@@ -886,6 +886,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 1. [川大校长李言荣：提出真问题比热衷“填补空白”更重要](https://www.toutiao.com/i7075306374225330702/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647430307&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316193147010158155167100D0B36&share_token=5102bfa8-74d1-4850-b28a-b57f6ab07233&group_id=7075306374225330702). 2022.03.15. 
 
 
+2. [川大校长李言荣：培养拔尖人才，教师科研经费应保持在合理区间内](https://www.toutiao.com/article/7099700795288961570/?app=news_article&timestamp=1653091461&use_new_style=1&req_id=202205210804200101502221571017D811&group_id=7099700795288961570&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=16b1489d-bc9f-430c-825f-b1fc19b041a2&wid=1653101876719). 2022.05.20. 
+
+
 
 ## 毕业典礼
 1. [所长致辞 | 徐波所长：创新驱动发展，培育拔尖人才](https://mp.weixin.qq.com/s/-M84dYXr4Vd5IboUNY8YzQ). 2021.06.24. 
