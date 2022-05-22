@@ -1004,6 +1004,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [机器学习内卷化：博士数量激增，本硕毕业生有点慌 | reddit热议](https://mp.weixin.qq.com/s/BZcla8Xmz9V12KS7-P0j4Q). 2021.04.05.
 
 
+5. [2022年我国博士研究生招生人数突破13万大关！](https://mp.weixin.qq.com/s/3EpBSuqWZ1Pk88h2o3HKCw) 2022.05.22.
+
+
 
 ## 我国博士研究生培养结构
 1. [国内部分高校硕博补贴汇总！（据说某校博士在读已经年薪25w了）](https://mp.weixin.qq.com/s/jwbKrSg-wnBahSHuBq-mvg). 2020.12.13.
