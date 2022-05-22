@@ -418,6 +418,9 @@ Table of Contents
 23. [刘铁岩：科研到底怎么做？什么是高质量研究？](https://mp.weixin.qq.com/s/mOo6N1QWp4eRRhTuLh1K_Q). 2021.10.31.
 
 
+24. [46岁院士，用自身科研经历给研究生提了6个建议！](https://mp.weixin.qq.com/s/XaPEuDBFHf1iDE3fk1MZRA). 2022.05.22.
+
+
 
 ## 如何读论文
 1. [沈向洋、华刚：读科研论文的三个层次、四个阶段与十个问题](https://mp.weixin.qq.com/s/xGC8JGNWvOOV8IT0fMViGg). 2020.08.04. 
