@@ -2223,6 +2223,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 70. [西南交大29岁博士生曹瑞洲跳楼自杀，年迈母亲校外哭泣20余天](https://mp.weixin.qq.com/s/rLQKm95Er3DDC-B5JhGXLw). 2022.05.20.
 
 
+71. [请人代写论文，反手敲诈勒索，两位名校女大学生出名了](https://view.inews.qq.com/a/20220523A0B19Y04?uid=1047040977&c_buffer=aid%3D20220523A0B19Y00%3Bappver%3D6.8.50%3Bts%3D1653371203167&sign=AAwhmxTamx2PTY3UGibaxFYlhM5kfjcLVFgr2Z0ySdFOBvWpB%2B3eoRyMQhgcDL%2F7m%2BsTj6oS8zgP%2BWWHlNsr0NG4OZZhw1GqdB7xHoA5RNMFlviQRRWPZ5cQE2PvbCLJHrJ%3D&shareto=wx). 2022.05.23.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
@@ -2309,6 +2312,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.03.25
+updated in 2022.05.24
 
 
