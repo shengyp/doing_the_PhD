@@ -816,6 +816,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 8. [这所高校再动真格！11名博士要被退学](https://mp.weixin.qq.com/s/_p0Tejw8ebjX5ibOPILxJw) . 2020.08.10
 
 
+9. [博士第六年还没有发Paper是一种什么样的体验？](https://mp.weixin.qq.com/s/RYQlWZqSL4hnTysvbToz5A)  2022.05.28
+
+
 
 ## 博士学位的重要性
 1. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞，网友：这是知乎最好的回答](https://mp.weixin.qq.com/s/P_0UlEC4F90SC7ENNQn4bw). 2020.04.18.
