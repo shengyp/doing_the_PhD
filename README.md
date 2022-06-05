@@ -1289,6 +1289,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 62. [手握8篇SCI，她直博西湖大学！](https://mp.weixin.qq.com/s/WHXRTsjzDLIotdYlYdD6Rg) 2022.05.25.
 
 
+63. [一个AI PhD的毕业随感 (1) 学术篇](https://mp.weixin.qq.com/s/xmKDrbty_z6v12fQE6YnWA) 2022.06.05.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2305,6 +2308,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 15. [李三立院士逝世：中国计算机体系结构先驱，曾为国防计算机项目总负责人](https://mp.weixin.qq.com/s/IHR9oLPh5pkis9i2FUrlMg)  2022.04.24. 
+
+
+16. [名校博士生临近毕业突然离世，去世前一直在熬夜完善毕业论文](https://www.toutiao.com/article/7105390911336661539/?app=news_article&timestamp=1654436537&use_new_style=1&req_id=202206052142170101512030261AC825D0&group_id=7105390911336661539&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a7ac1a6f-5865-4b9d-8997-2f530e786a4d&wid=1654472280041). 2022.06.04. 
 
 
 
