@@ -228,6 +228,8 @@ Table of Contents
 33. [读博士可能后悔四年，不读博士可能后悔一辈子](https://mp.weixin.qq.com/s/9hNl7FPEKBhPM4x0XdkzBQ). 2022.05.18. 
 
 
+34. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122). 2022.04.14. 
+
 
 
 <!-- ## Datasets_Shared_Tasks -->
