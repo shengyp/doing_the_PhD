@@ -2315,6 +2315,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 16. [名校博士生临近毕业突然离世，去世前一直在熬夜完善毕业论文](https://www.toutiao.com/article/7105390911336661539/?app=news_article&timestamp=1654436537&use_new_style=1&req_id=202206052142170101512030261AC825D0&group_id=7105390911336661539&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a7ac1a6f-5865-4b9d-8997-2f530e786a4d&wid=1654472280041). 2022.06.04. 
 
 
+17. [旷视首席科学家、知名AI学者孙剑博士去世](https://mp.weixin.qq.com/s/6QI3ttbi01g1AVzF3TnKTA). 2022.06.14. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
@@ -2330,6 +2333,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.05.24
+updated in 2022.06.15
 
 
