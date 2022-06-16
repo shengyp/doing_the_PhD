@@ -787,6 +787,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 11. [为什么博导都希望，自己的博士生毕业也去高校当老师？"直白点说, 自己人好办事"](https://mp.weixin.qq.com/s/74EUgGgL_XMazzGawrPyBA) 2022.03.04. 
 
 
+12. [博士读一半，导师跳槽了！博士生把亲身经历发在了Science上](https://mp.weixin.qq.com/s/_FXSWudHOV33EcijNL2m0A). 2022.06.06. 
+
+
 
 ## 读博期间
 1. [博一结束后的一些反思](https://mp.weixin.qq.com/s/DQevJoclXgdNa47_mlGokA) 2021.08.30. 
