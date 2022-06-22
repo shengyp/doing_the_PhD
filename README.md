@@ -2324,7 +2324,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 16. [名校博士生临近毕业突然离世，去世前一直在熬夜完善毕业论文](https://www.toutiao.com/article/7105390911336661539/?app=news_article&timestamp=1654436537&use_new_style=1&req_id=202206052142170101512030261AC825D0&group_id=7105390911336661539&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a7ac1a6f-5865-4b9d-8997-2f530e786a4d&wid=1654472280041). 2022.06.04. 
 
 
-17. [旷视首席科学家、知名AI学者孙剑博士去世](https://mp.weixin.qq.com/s/6QI3ttbi01g1AVzF3TnKTA). 2022.06.14. 
+17. [旷视首席科学家、知名AI学者孙剑博士去世](https://mp.weixin.qq.com/s/6QI3ttbi01g1AVzF3TnKTA). 2022.06.14. | [为了不曾忘却的纪念： 孙剑专题](https://mp.weixin.qq.com/s/pc10THWHOKPJb16HDPsPaw) | [CVPR2022来了：华人学生斩获最佳学生论文，特设缅怀孙剑博士环节](https://mp.weixin.qq.com/s/CKP3J1-KXDdUwgK64tqqtQ) |  [研究与解读丨残差网络解决了什么，为什么有效？](https://mp.weixin.qq.com/s/hfGIn4O6fGqlaFzJnMkajQ) | [怀念与追忆丨R.I.P, Jian. We already miss you.](https://mp.weixin.qq.com/s/bXiYatUnbf1CpQjo3VWzow) | [演讲整理丨孙剑博士演讲合集](https://mp.weixin.qq.com/s/gGeQX6_A5VqfmlzVHLfzqA). 2022.06.22.
 
 
 
@@ -2342,6 +2342,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2022.06.15
+updated in 2022.06.22
 
 
