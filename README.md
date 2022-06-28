@@ -1303,6 +1303,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 63. [一个AI PhD的毕业随感 (1) 学术篇](https://mp.weixin.qq.com/s/xmKDrbty_z6v12fQE6YnWA) 2022.06.05.
 
 
+64. [河狸生存记：90后女博士与AI开发者们](https://mp.weixin.qq.com/s/M1r8kR7bssyUvB2Kay4vbA) 2022.06.28.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
