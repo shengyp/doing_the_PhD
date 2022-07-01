@@ -790,6 +790,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 12. [博士读一半，导师跳槽了！博士生把亲身经历发在了Science上](https://mp.weixin.qq.com/s/_FXSWudHOV33EcijNL2m0A). 2022.06.06. 
 
 
+13. [导师对帮助研究生顺利完成学业提出了20条劝告：第一，不要有度假休息的打算..](https://mp.weixin.qq.com/s/9LKu4TQcLTgsYafzzOxGOg). 2022.07.02. 
+
+
 
 ## 读博期间
 1. [博一结束后的一些反思](https://mp.weixin.qq.com/s/DQevJoclXgdNa47_mlGokA) 2021.08.30. 
@@ -2249,8 +2252,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 71. [请人代写论文，反手敲诈勒索，两位名校女大学生出名了](https://view.inews.qq.com/a/20220523A0B19Y04?uid=1047040977&c_buffer=aid%3D20220523A0B19Y00%3Bappver%3D6.8.50%3Bts%3D1653371203167&sign=AAwhmxTamx2PTY3UGibaxFYlhM5kfjcLVFgr2Z0ySdFOBvWpB%2B3eoRyMQhgcDL%2F7m%2BsTj6oS8zgP%2BWWHlNsr0NG4OZZhw1GqdB7xHoA5RNMFlviQRRWPZ5cQE2PvbCLJHrJ%3D&shareto=wx). 2022.05.23. | [世风日下！211学生找人代做毕业设计，结果就只是留校察看？](https://mp.weixin.qq.com/s/EfhIWG7EJkFSwa4Kdt-0Zg). 2022.06.01. 
 
 
-
 72. [郑州大学一女生私自外出染新冠被立案，校方回应：开除！](https://mp.weixin.qq.com/s/iJkVkzic2mBHgLnYtVbXbA) 2022.05.24.
+
+
+73. [2022年谷歌学术指标发布，影响力前5名中4席为AI/ML顶会；IBM研究团队涉嫌抄袭中国研究者思路；通信顶会“时间检验奖”发布](https://mp.weixin.qq.com/s/3baVyI19fhWzSGqeHZFrBA) 2022.06.30.
 
 
 
