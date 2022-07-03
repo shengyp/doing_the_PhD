@@ -2338,6 +2338,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 17. [旷视首席科学家、知名AI学者孙剑博士去世](https://mp.weixin.qq.com/s/6QI3ttbi01g1AVzF3TnKTA). 2022.06.14. | [为了不曾忘却的纪念： 孙剑专题](https://mp.weixin.qq.com/s/pc10THWHOKPJb16HDPsPaw) | [CVPR2022来了：华人学生斩获最佳学生论文，特设缅怀孙剑博士环节](https://mp.weixin.qq.com/s/CKP3J1-KXDdUwgK64tqqtQ) |  [研究与解读丨残差网络解决了什么，为什么有效？](https://mp.weixin.qq.com/s/hfGIn4O6fGqlaFzJnMkajQ) | [怀念与追忆丨R.I.P, Jian. We already miss you.](https://mp.weixin.qq.com/s/bXiYatUnbf1CpQjo3VWzow) | [演讲整理丨孙剑博士演讲合集](https://mp.weixin.qq.com/s/gGeQX6_A5VqfmlzVHLfzqA). 2022.06.22.
 
 
+18. [痛惜！一位优秀青年学者不幸去世，年仅38岁](https://mp.weixin.qq.com/s/9z5CvxOby6reCoMoZXp0Hw). 2022.07.03. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
