@@ -1312,6 +1312,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 64. [河狸生存记：90后女博士与AI开发者们](https://mp.weixin.qq.com/s/M1r8kR7bssyUvB2Kay4vbA) 2022.06.28.
 
 
+65. [一则“亿万富翁给妻子捐5亿美元科研经费”的八卦，引发科研筹钱难的思考](https://mp.weixin.qq.com/s/xol4KfeqtOFo-JQNM8_B3g) 2022.07.06.
+
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
