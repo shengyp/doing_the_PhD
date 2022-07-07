@@ -96,6 +96,8 @@ Table of Contents
 
 
 
+[【夜读】靠谱的最高境界：事不拖，言有信，心态稳](https://mp.weixin.qq.com/s/BNtO0aQ0F-m6AImS2xB8nA). 
+
 
 [ReadPaper 专业的学术讨论社区](https://readpaper.com/). 
 
