@@ -884,6 +884,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 16. [“最强”博士论文答辩阵容：6位院士，副院长任答辩秘书！](https://mp.weixin.qq.com/s/o-sOdpjT7crKQkkiOL1KXw) 2022.01.02.
 
 
+17. [盲审挂了，博士惨遭清退，导师发声炮轰某985：不尊重人才，不再与其有任何瓜葛！](https://mp.weixin.qq.com/s/ADcYCT4sJM_Et0ymHtNrVA) 2022.07.09.
+
+
+
 ## 学位论文致谢
 1. [一位中科院自动化研究所博士的论文致谢：求学22载，计算机终成一生的事业与希望](https://mp.weixin.qq.com/s/HMUfTUpmvKSq8gQG1HG37w). AI科技评论. 2021.04.18. | [论文致谢走红后，中科院博士回信了！](https://mp.weixin.qq.com/s/boMW0QTa_YMbg_1Hdwn-ng) 2021.04.19. | [博士论文致谢走红后，黄国平母校演讲再刷屏！](https://mp.weixin.qq.com/s/9sWQyo2GQF5085DXdm6SHw) 2021.06.24. 
 
