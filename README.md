@@ -912,6 +912,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 2. [川大校长李言荣：培养拔尖人才，教师科研经费应保持在合理区间内](https://www.toutiao.com/article/7099700795288961570/?app=news_article&timestamp=1653091461&use_new_style=1&req_id=202205210804200101502221571017D811&group_id=7099700795288961570&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=16b1489d-bc9f-430c-825f-b1fc19b041a2&wid=1653101876719). 2022.05.20. 
 
 
+3. [朱松纯院长在北京大学智能学院2022届毕业典礼上的讲话：未名之问、人生之问、时代之问](https://mp.weixin.qq.com/s/ME-rG9iEih4Vc3RtyzuIWA). 2022.07.09.
+
+
 
 ## 毕业典礼
 1. [所长致辞 | 徐波所长：创新驱动发展，培育拔尖人才](https://mp.weixin.qq.com/s/-M84dYXr4Vd5IboUNY8YzQ). 2021.06.24. 
