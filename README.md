@@ -2250,7 +2250,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 65. [看麻了！35岁奥地利总理辞职当码农](https://mp.weixin.qq.com/s/ckNaSvmKwNzMreQkdfgpvQ). 2022.03.25. 
 
 
-66. [百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ). 2022.04.14.
+66. [百位学者署名的大模型综述研究被质疑「抄袭」，智源研究院官方发布致歉信](https://mp.weixin.qq.com/s/MbmJPaZYKYNqH1z0zzvsqQ). 2022.04.14. | [智源内部承担抄袭责任，重组大模型研究中心，被指抄袭的大模型综述有了调查结果](https://mp.weixin.qq.com/s/Mq_WygMYO0LahH8utElqkw). 2022.07.17.
 
 
 67. [“90后”博士生发Nature造假，怕被调查扔掉实验室万元电脑，结局拖累导师受罚](https://mp.weixin.qq.com/s/XZ0yvB-mjbTW5N0p6iw-uA). 2022.04.21.
