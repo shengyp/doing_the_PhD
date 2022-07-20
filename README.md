@@ -233,6 +233,9 @@ Table of Contents
 34. [博士学位真的那么重要吗？上交大博士亲述科研心路，获4万高赞](https://www.toutiao.com/article/7086361789520429601/?app=news_article&timestamp=1654753462&use_new_style=1&req_id=20220609134421010158167134233BB555&group_id=7086361789520429601&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=f584f801-7885-4728-b736-38a881564891&source=m_redirect&wid=1654830597122). 2022.04.14. 
 
 
+35. [行业现状令人失望，工作之后我又回到UC伯克利读博了](https://mp.weixin.qq.com/s/KW2hFdvitKYtmIiKmwANAw). 2022.07.19. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
