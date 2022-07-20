@@ -2277,6 +2277,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 73. [2022年谷歌学术指标发布，影响力前5名中4席为AI/ML顶会；IBM研究团队涉嫌抄袭中国研究者思路；通信顶会“时间检验奖”发布](https://mp.weixin.qq.com/s/3baVyI19fhWzSGqeHZFrBA) 2022.06.30.
 
 
+74. [如此批发进货博士的“权宜之计”不可取](https://mp.weixin.qq.com/s/haXuicK8XSPGyjmVv0SMrA). 2022.07.19.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
