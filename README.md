@@ -1324,11 +1324,13 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 63. [一个AI PhD的毕业随感 (1) 学术篇](https://mp.weixin.qq.com/s/xmKDrbty_z6v12fQE6YnWA) 2022.06.05.
 
 
-64. [河狸生存记：90后女博士与AI开发者们](https://mp.weixin.qq.com/s/M1r8kR7bssyUvB2Kay4vbA) 2022.06.28.
+64. [河狸生存记：90后女博士与AI开发者们](https://mp.weixin.qq.com/s/M1r8kR7bssyUvB2Kay4vbA). 2022.06.28.
 
 
-65. [一则“亿万富翁给妻子捐5亿美元科研经费”的八卦，引发科研筹钱难的思考](https://mp.weixin.qq.com/s/xol4KfeqtOFo-JQNM8_B3g) 2022.07.06.
+65. [一则“亿万富翁给妻子捐5亿美元科研经费”的八卦，引发科研筹钱难的思考](https://mp.weixin.qq.com/s/xol4KfeqtOFo-JQNM8_B3g). 2022.07.06.
 
+
+66. [入职腾讯AI Lab 算法博士崔乐阳的西湖回忆录丨我在西湖读博士](https://mp.weixin.qq.com/s/2Ut1rWHfk7Q-k4VtaP1MFg). 2022.07.21.
 
 
 
