@@ -722,6 +722,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [ICML 2022审稿结果惹争议！LeCun：我3篇全拒了！马毅：我再也不投了...](https://mp.weixin.qq.com/s/05m-5qvg5N7DBG7niBydxQ). 2022.05.18.
 
 
+5. [盛名之下，其实难副？两篇ICML杰出论文受质疑，作者亲自回应了](https://mp.weixin.qq.com/s/34AiRDSEcc0BOPb1ZjuY2Q). 2022.07.22.
+
 
 ## 审稿状态
 1. [发表的sci论文怎么样了，分享15种sci投稿状态](https://www.toutiao.com/i6961988009797468676/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1620996150&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20210514204229010151180084320B8775&share_token=4cbeda6e-33ce-4dcf-80c4-eafb91432fd3&group_id=6961988009797468676). 2021.05.14.
