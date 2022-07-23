@@ -236,6 +236,9 @@ Table of Contents
 35. [行业现状令人失望，工作之后我又回到UC伯克利读博了](https://mp.weixin.qq.com/s/KW2hFdvitKYtmIiKmwANAw). 2022.07.19. 
 
 
+36. [清华姚班教授: 「读博，你真的想好了吗？」与 UIUC 王鸿伟「读博，我想好了！」](https://mp.weixin.qq.com/s/6kXKWCOgLutXl6quzJbkBw). 2022.07.23. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
