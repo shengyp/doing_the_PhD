@@ -920,6 +920,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 3. [朱松纯院长在北京大学智能学院2022届毕业典礼上的讲话：未名之问、人生之问、时代之问](https://mp.weixin.qq.com/s/ME-rG9iEih4Vc3RtyzuIWA). 2022.07.09.
 
 
+4. [川大校长李言荣：培养基础拔尖人才，就要舍得投入人力物力和财力](https://mp.weixin.qq.com/s/QVNCYdwgTe-WutWg7661Fw). 2022.07.22.
+
+
 
 ## 毕业典礼
 1. [所长致辞 | 徐波所长：创新驱动发展，培育拔尖人才](https://mp.weixin.qq.com/s/-M84dYXr4Vd5IboUNY8YzQ). 2021.06.24. 
