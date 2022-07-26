@@ -953,7 +953,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 2. [Nature：大批学者正在涌向工业界，与国内趋势相反？](https://mp.weixin.qq.com/s/Ote4COGiS93dFR_NPVNkBQ) 2022.06.07.
 
 
-3. [一位博士在华为的22年](https://mp.weixin.qq.com/s/M2g04lvovmb02Nzmbv3_6A) 2022.07.03.
+3. [一位博士在华为的22年](https://mp.weixin.qq.com/s/M2g04lvovmb02Nzmbv3_6A). 2022.07.03.
+
+
+4. [工业界和学术界最大区别是什么？](https://mp.weixin.qq.com/s/WcXSLHEPkeTU8NTHXE1MRQ) 2022.07.26.
 
 
 
