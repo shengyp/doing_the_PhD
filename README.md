@@ -1380,7 +1380,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [在 Google 工作十年后的感悟](https://mp.weixin.qq.com/s/rODrRWm_uOGOw2388SjR7g). 2022.03.27.
 
 
-5. [阿里算法，浙大博士带你写项目经历！](https://mp.weixin.qq.com/s/JkoWwWdsBh3GmMx6PmC5SA). 2022.03.28.
+5. [阿里算法，浙大博士带你写项目经历！](https://mp.weixin.qq.com/s/JkoWwWdsBh3GmMx6PmC5SA) 2022.03.28.
+
+
+6. [一位博士在华为的 22 年](https://mp.weixin.qq.com/s/TQCPFEHbAcf7pFtK_dyvDg). 2022.07.30.
 
 
 
