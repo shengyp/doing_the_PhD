@@ -239,6 +239,9 @@ Table of Contents
 36. [清华姚班教授: 「读博，你真的想好了吗？」与 UIUC 王鸿伟「读博，我想好了！」](https://mp.weixin.qq.com/s/6kXKWCOgLutXl6quzJbkBw). 2022.07.23. 
 
 
+37. [【视频版】 辞职考研读博？年龄收入焦虑怎么办？](https://mp.weixin.qq.com/s/bCuQ9RdA84c63KFMsODw1Q) 2022.08.10. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
