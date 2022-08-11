@@ -1347,6 +1347,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 66. [入职腾讯AI Lab 算法博士崔乐阳的西湖回忆录丨我在西湖读博士](https://mp.weixin.qq.com/s/2Ut1rWHfk7Q-k4VtaP1MFg). 2022.07.21.
 
 
+67. [杨易：“我好像一直都在遇到黄金时代”](https://mp.weixin.qq.com/s/84hDE1H7DM8ICd7ggJksbg). 2022.08.11.
+
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
