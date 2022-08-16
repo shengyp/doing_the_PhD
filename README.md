@@ -1975,6 +1975,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 40. [2022年国自然信息科学部评审专家](https://mp.weixin.qq.com/s/TDoFZJqLrGQ9ipiP_BPzwg). 2022.08.09.
 
 
+41. [写在2022年国家自然科学基金放榜前](https://mp.weixin.qq.com/s/5b_Qjh5W8VpzMmGXUiEMBQ). 2022.08.16.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
