@@ -1350,6 +1350,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 67. [杨易：“我好像一直都在遇到黄金时代”](https://mp.weixin.qq.com/s/84hDE1H7DM8ICd7ggJksbg). 2022.08.11.
 
 
+68. [享受科研，心怀远方：青年学者刘元玮的成长之路](https://mp.weixin.qq.com/s/umVjP6Jol3sUjG6-mc-Xrg). 2022.08.17.
+
 
 
 ## 女性科学家
