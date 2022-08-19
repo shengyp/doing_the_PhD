@@ -242,6 +242,8 @@ Table of Contents
 37. [【视频版】 辞职考研读博？年龄收入焦虑怎么办？](https://mp.weixin.qq.com/s/bCuQ9RdA84c63KFMsODw1Q) 2022.08.10. 
 
 
+38. [工作20年，大龄青年去MIT读博：从经济读到航天](https://mp.weixin.qq.com/s/B4H6WfCe0VI6tQkIIaN0yA) 2022.08.18. 
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
