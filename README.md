@@ -1361,6 +1361,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 69. [博士期间未发一篇论文，她现任985高校青年首席教授](https://www.toutiao.com/article/7133192241530962462/?app=news_article&timestamp=1660840733&use_new_style=1&req_id=202208190038520101500662110A26D514&group_id=7133192241530962462&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=08140c85-4e3f-4a48-9da1-9078c6a829cc&source=m_redirect&wid=1660879019706). 2022.08.18.
 
 
+70. [享受科研，心怀远方：青年学者刘元玮的成长之路](https://mp.weixin.qq.com/s/9nC4fO2IIEK0sY1HX-sBYw). 2022.08.20.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
