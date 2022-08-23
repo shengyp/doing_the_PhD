@@ -245,6 +245,10 @@ Table of Contents
 38. [工作20年，大龄青年去MIT读博：从经济读到航天](https://mp.weixin.qq.com/s/B4H6WfCe0VI6tQkIIaN0yA) 2022.08.18. 
 
 
+39. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/anksGByVDQbw9znCsCrhww) 2022.08.22. 
+
+
+
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
 1. [鸡汤 | 一篇所有研究生都该读的好文：阳光温热 科研静好](https://mp.weixin.qq.com/s/sPHPpKpza8n7a0zKG8rIhA) 2020.11.06.
