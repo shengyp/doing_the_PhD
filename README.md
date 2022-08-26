@@ -771,6 +771,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 5. [计算机视觉顶尖期刊和会议的段子](https://mp.weixin.qq.com/s/JfsovwifZzSCl-5wa1_1hA). 2022.03.31.
 
 
+6. [3000块能买AAAI的Strong Accept？](https://mp.weixin.qq.com/s/Tf7PLghrF-CiYTaFXT41NA) 2022.08.23.
+
+
 
 ## 博士生的导师
 1. [学生不努力，导师能怎么办？](https://hub.baai.ac.cn/view/3027) 2020.10.22. 
