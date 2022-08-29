@@ -2426,6 +2426,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 18. [痛惜！一位优秀青年学者不幸去世，年仅38岁](https://mp.weixin.qq.com/s/9z5CvxOby6reCoMoZXp0Hw). 2022.07.03. 
 
 
+19. [李少谦教授不幸逝世](https://mp.weixin.qq.com/s/R111NYl8vgQ45y3pVTFn3A). 2022.08.27. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
