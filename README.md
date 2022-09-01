@@ -2429,6 +2429,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 19. [李少谦教授不幸逝世](https://mp.weixin.qq.com/s/R111NYl8vgQ45y3pVTFn3A). 2022.08.27. 
 
 
+20. [差点猝死！杭州某互联网大厂员工连续熬夜加班后，引发心肌炎被送ICU病房，公司：她加班是自愿的！](https://mp.weixin.qq.com/s/ytuA4gSJqn42GA4qrYXxwA) 2022.09.01. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
