@@ -2006,6 +2006,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 41. [写在2022年国家自然科学基金放榜前](https://mp.weixin.qq.com/s/5b_Qjh5W8VpzMmGXUiEMBQ). 2022.08.16.
 
 
+42. [刚刚,2022年度国家自然科学基金申请项目评审结果公布！](https://mp.weixin.qq.com/s/kwsYTF5YBqPUNBEs0CSQBg) 2022.09.08.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
