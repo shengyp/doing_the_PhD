@@ -2135,6 +2135,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 [学术出版规范 期刊学术不端行为界定](http://www.jsjkx.com/fileup/ITEM/20190719133537.pdf). 
 
+[科技部发布新规：论文挂名属于学术不端，记入科研诚信数据库！](https://mp.weixin.qq.com/s/PVM_L1QI2ClFZ5T4cZHDQQ)
+
+
 [知网又火了！网传中科院停用知网，近千万续订费太贵了](https://mp.weixin.qq.com/s/ywu7RVGeXLfdVcgwEjPZ5g). 2022.04.17 
 
 
