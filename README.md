@@ -1386,6 +1386,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 70. [享受科研，心怀远方：青年学者刘元玮的成长之路](https://mp.weixin.qq.com/s/9nC4fO2IIEK0sY1HX-sBYw). 2022.08.20.
 
 
+71. [建国后首次！华科副研究员以独作身份投中数学顶刊，曾因换方向重读博士7年](https://mp.weixin.qq.com/s/iv3rDr6m9RtBF4Hh8NafLQ). 2022.10.11.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
