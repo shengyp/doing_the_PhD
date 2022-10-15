@@ -1389,6 +1389,12 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 71. [建国后首次！华科副研究员以独作身份投中数学顶刊，曾因换方向重读博士7年](https://mp.weixin.qq.com/s/iv3rDr6m9RtBF4Hh8NafLQ). 2022.10.11.
 
 
+72. [人物 | 中国首位聋人语言博士郑璇：携手王者共创专用手语指南 让沟通无障碍](https://mp.weixin.qq.com/s/6q6SYpXzRwfEUKJGXaKplA). 2022.10.14.
+
+
+73. [17岁高中生证明数学界存在27年难题，「他的论文值得任何数学家为之自豪」](https://mp.weixin.qq.com/s/wjEMtXlsrVmtqkGRXgtXLw). 2022.10.15.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
