@@ -2150,7 +2150,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 [科技部发布新规：论文挂名属于学术不端，记入科研诚信数据库！](https://mp.weixin.qq.com/s/PVM_L1QI2ClFZ5T4cZHDQQ)
 
 
-[知网又火了！网传中科院停用知网，近千万续订费太贵了](https://mp.weixin.qq.com/s/ywu7RVGeXLfdVcgwEjPZ5g). 2022.04.17 
+[科技部发布新规：论文挂名属于学术不端，记入科研诚信数据库！](https://mp.weixin.qq.com/s/PVM_L1QI2ClFZ5T4cZHDQQ)
+
+
+[西南大学科研诚信与作风学风建设宣传册](http://kjc.swu.edu.cn/u/cms/kjc/202210/14100847z6qj_%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6%E7%A7%91%E7%A0%94%E8%AF%9A%E4%BF%A1%E4%B8%8E%E4%BD%9C%E9%A3%8E%E5%AD%A6%E9%A3%8E%E5%BB%BA%E8%AE%BE%E5%AE%A3%E4%BC%A0%E5%86%8C.pdf). 2022.10.17 
 
 
 1. [论文中了顶会，却被曝抄袭前导师小组论文，多处原文及公式完全一致丨Reddit高热](https://mp.weixin.qq.com/s/eBTja_QRiODpSU7S-3p9RA). 2020.12.07
