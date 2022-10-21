@@ -1171,7 +1171,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 3. [美国版“非升即走”瞄准终身教授，2年评审不通过就减薪撤职](https://www.toutiao.com/i7020998585441550855/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1634731251&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110202000500101580330160E339CBB&share_token=8d35129a-0305-49b0-91ea-6f13e79543e2&group_id=7020998585441550855). 2021.10.20.
 
 
-4. [拒绝数量为王：“卷”出来的论文，正在阻碍科学发展？](https://mp.weixin.qq.com/s/-eI3COuOOo6DFFUGfRJxlg). 2021.10.25.
+4. [拒绝数量为王：“卷”出来的论文，正在阻碍科学发展？](https://mp.weixin.qq.com/s/-eI3COuOOo6DFFUGfRJxlg) 2021.10.25.
+
+
+5. [复旦校长官宣：复旦大学即将推出“不升也能留”计划！](https://mp.weixin.qq.com/s/nGYXqq8eZ9lK5K_0r3Uk2g) 2022.10.21.
 
 
 
