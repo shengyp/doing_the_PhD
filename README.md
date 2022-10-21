@@ -976,6 +976,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [工业界和学术界最大区别是什么？](https://mp.weixin.qq.com/s/WcXSLHEPkeTU8NTHXE1MRQ) 2022.07.26.
 
 
+5. [工业界和学术界最大区别是什么？](https://mp.weixin.qq.com/s/DSxkYxBL9cAC3D7O5bzfgQ) 2022.10.21.
+
+
 
 ## 博士婚姻研究
 1. [在名校“垫底”和二流学校“拔尖”，哪条路更容易成功？研究结果令人惊讶…](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 2021.06.01. 
