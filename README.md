@@ -1034,6 +1034,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 3. [院士发声：科研人也要养家，非升即走只能做短平快的研究](https://mp.weixin.qq.com/s/_J8-Z4006XkfR3wDR1MZGA). 2022.07.19. 
 
 
+4. [工信部：加大青年科技人才薪酬、住房、子女入学支持力度](https://mp.weixin.qq.com/s/i0hnSExcGumjr2m7b_cQwA). 2022.10.20. 
+
+
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
