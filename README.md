@@ -2394,6 +2394,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 75. [继邵阳学院之后，邢台学院又被爆出聘13名韩国高校博士](https://mp.weixin.qq.com/s/mUm_W7eJ4htbsisAPS85GA). 2022.07.26.
 
 
+76. [学术不端！基金委通报批评（第三批次）](https://mp.weixin.qq.com/s/6c42JX1p03fokuzT-YEVvw). 2022.10.25.
+
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
