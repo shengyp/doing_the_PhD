@@ -1016,6 +1016,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 1. [如何评价IEEE Access成为了Top期刊？](https://mp.weixin.qq.com/s/r-a-5-OV5kWJ5dOx2jYE6w) 2021.03.14. 
 
 
+2. [重磅！顶级一区期刊官宣：明年起将不再拒稿！](https://mp.weixin.qq.com/s/hHPp-L-1ReTJMX4cqUZS8Q) 2022.10.26. 
+
+
 
 ## 考研热潮
 1. [太卷了？大学生“逆向考研”引热议](https://mp.weixin.qq.com/s/T3GaiboB2cIJMhRxbF5Vzg) 2022.09.17. 
