@@ -1789,6 +1789,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 2. [李家洋院士：只认第一作者，还怎么鼓励合作？引发网友热议！](https://mp.weixin.qq.com/s/TVoWgui__jBssO7m3JOvEw) 2022.03.10
 
 
+3. [科技人才评价改革 启动为期两年试点](https://www.toutiao.com/article/7164809788063220224/?app=news_article&timestamp=1668559189&use_new_style=1&req_id=202211160839490101501550792774FE23&group_id=7164809788063220224&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=8f95f036-c212-49ec-849e-a84eb6dc626e&source=m_redirect) 2022.11.12
+
+
+
 
 ## 科技制度对比
 1. [为什么日本没有拔尖人才计划，诺奖得主却比中国多？| 科技袁人](https://mp.weixin.qq.com/s/wXIcYzQLr5CAmu430VysFA). 2022.03.29
