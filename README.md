@@ -1407,6 +1407,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 73. [17岁高中生证明数学界存在27年难题，「他的论文值得任何数学家为之自豪」](https://mp.weixin.qq.com/s/wjEMtXlsrVmtqkGRXgtXLw). 2022.10.15.
 
 
+74. [读博发论文：屡投屡拒，屡拒屡投](https://mp.weixin.qq.com/s/4RLrUuHYvAYywzaqaNvO1w). 2022.11.5.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2043,6 +2046,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 43. [新增1199人！自然科学基金委各学部评审专家名单公布情况](https://mp.weixin.qq.com/s/2AJxe8n7HmrHNb-xdS53pw) 2022.09.27.
+
+
+44. [重磅！国家自然科学基金“十四五”发展规划【全文】附完整115个优先发展领域](https://mp.weixin.qq.com/s/U_QwIyqAhyqq-1dl54iIxw) 2022.11.15.
 
 
 
