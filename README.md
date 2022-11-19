@@ -2497,6 +2497,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 21. [沉痛悼念！中国NLP 先行者、机器翻译鼻祖刘倬逝世](https://mp.weixin.qq.com/s/Wkhmr_c5cyCsMrj7Dd8dtQ) 2022.09.15. 
 
 
+22. [享年91岁！图灵奖得主、软件工程圣经《人月神话》作者Fred Brooks逝世](https://mp.weixin.qq.com/s/RzWd7z3wT3grUtKDTk11-A) 2022.11.19. 
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
