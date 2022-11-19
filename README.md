@@ -2494,10 +2494,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 20. [差点猝死！杭州某互联网大厂员工连续熬夜加班后，引发心肌炎被送ICU病房，公司：她加班是自愿的！](https://mp.weixin.qq.com/s/ytuA4gSJqn42GA4qrYXxwA) 2022.09.01. 
 
 
-21. [沉痛悼念！中国NLP 先行者、机器翻译鼻祖刘倬逝世](https://mp.weixin.qq.com/s/Wkhmr_c5cyCsMrj7Dd8dtQ) 2022.09.15. 
+21. [沉痛悼念！中国NLP 先行者、机器翻译鼻祖刘倬逝世](https://mp.weixin.qq.com/s/Wkhmr_c5cyCsMrj7Dd8dtQ). 2022.09.15. 
 
 
-22. [享年91岁！图灵奖得主、软件工程圣经《人月神话》作者Fred Brooks逝世](https://mp.weixin.qq.com/s/RzWd7z3wT3grUtKDTk11-A) 2022.11.19. 
+22. [享年91岁！图灵奖得主、软件工程圣经《人月神话》作者Fred Brooks逝世](https://mp.weixin.qq.com/s/RzWd7z3wT3grUtKDTk11-A). 2022.11.19. 
 
 
 
