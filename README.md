@@ -2411,6 +2411,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 76. [学术不端！基金委通报批评（第三批次）](https://mp.weixin.qq.com/s/6c42JX1p03fokuzT-YEVvw). 2022.10.25.
 
 
+77. [斯坦福校长被曝学术不端，正接受校方调查！11篇论文「篡改图片」涉嫌造假](https://mp.weixin.qq.com/s/p-XRkFPM7nDFPGZOTwfMtg). 2022.12.04.
+
 
 
 ## 毛主席话语
