@@ -2414,6 +2414,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 77. [斯坦福校长被曝学术不端，正接受校方调查！11篇论文「篡改图片」涉嫌造假](https://mp.weixin.qq.com/s/p-XRkFPM7nDFPGZOTwfMtg). 2022.12.04.
 
 
+78. [线上会议不雅事件，中科院、北理工通报方岱宁院士处理结果](https://mp.weixin.qq.com/s/qC40NcvMLCmrbSHBMczzaA). 2022.12.08.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
