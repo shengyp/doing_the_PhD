@@ -864,7 +864,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 
-## 博士学位论文
+## 学位论文答辩
 1. [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf) 2020.11.06.
 
 
@@ -914,6 +914,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 17. [盲审挂了，博士惨遭清退，导师发声炮轰某985：不尊重人才，不再与其有任何瓜葛！](https://mp.weixin.qq.com/s/ADcYCT4sJM_Et0ymHtNrVA) 2022.07.09.
+
+
+18. [计算机科学博士经验：准备几个月，答辩半小时](https://www.toutiao.com/article/7174662564612768312/?app=news_article&timestamp=1670516754&use_new_style=1&req_id=202212090025549F83CC7924DF5E745135&group_id=7174662564612768312&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=197c0e01-5332-495c-ae82-c43505576eb5&source=m_redirect&wid=1670596084418). 2022.12.08.
+
 
 
 
@@ -2510,6 +2514,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 23. [痛悼！著名语言学家鲍厚星教授逝世](https://mp.weixin.qq.com/s/pr_Aatt7qnfMqH7lIN30lg). 2022.11.29. 
+
+
+24. [清华大学一个月发了17份讣告，真的有点儿多](https://www.163.com/dy/article/HOFJI7S60553B6Y5.html). 2022.12.13. 
 
 
 
