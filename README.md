@@ -1901,6 +1901,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 29. [打破「铁饭碗」：佐治亚理工取消终身教授制度，启动全员「末位淘汰」](https://mp.weixin.qq.com/s/SX7zE4HoD82PvkyaITEE2Q). 2022.04.23 | [得州、佛州也对「终身教授」制度下手了，每年评绩效，有大学准备捡漏](https://mp.weixin.qq.com/s/4z6y1Kn4njgCAUy-ZzbJcg). 2022.04.23 
 
 
+30. [重磅！破“四唯” 立“五元”，工信部发布完善科技成果评价机制实施方案](https://mp.weixin.qq.com/s/pVBIfU17XDOvvTUV2sgM5Q). 2023.01.03
+
+
 
 
 ## 国家自然科学基金
