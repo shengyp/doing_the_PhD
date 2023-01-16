@@ -672,6 +672,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 56. [我是如何从头开始写一篇顶级论文的](https://mp.weixin.qq.com/s/X-3qmuFPNA2YTVvMRUGVdA). 2022.09.02.
 
 
+57. [看懂这25个核心概念，就没有啃不动的机器学习论文](https://mp.weixin.qq.com/s/MGV7vpS0ZSQW0XpM5E0wxA). 2023.01.16.
+
+
 
 ## ArXiv
 1. [上传arXiv如何选择期刊允许的license](https://mp.weixin.qq.com/s/cK_AZklHlivvgUjM76JLaw). 2021.09.23.
