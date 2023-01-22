@@ -2124,6 +2124,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 2. [同时开展四项新行动！重庆启动科研人员“减负行动2.0”](https://mp.weixin.qq.com/s/5iGvmpIjI-74Q26jz7uTww) 2021.05.31
 
 
+3. [重庆市深入实施软件和信息服务业“满天星”行动计划2023年专项行动方案印发](https://mp.weixin.qq.com/s/RgmDpJqy7MQeuPgs4sTI9A). 2023.01.19
+
 
 
 ## 科学城建设
