@@ -2084,6 +2084,15 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 46. [重磅！2023年国自然申请指南发布](https://mp.weixin.qq.com/s/DQCtixx5v-KuTEDyh4O5Lw). 2023.01.12.
 
 
+47. [2023年国自然的申请应对策略](https://mp.weixin.qq.com/s/Tqq4jUd3WkvCfDlsvPoZ0g). 2023.01.24.
+
+
+48. [“优青”本子这样改，评审专家不给“特优”才怪](https://mp.weixin.qq.com/s/8RR01Rc8qFiS9ng2AKXejw). 2023.01.24.
+
+
+49. [评审专家：基金本子“瘦”点好](https://mp.weixin.qq.com/s/28sdnTEvz3jQ5k2Nc37DOQ). 2023.01.25.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
