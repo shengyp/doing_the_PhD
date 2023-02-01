@@ -1425,6 +1425,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 75. [学生专访 | 薛冰聪：走过的路，就都算数](https://mp.weixin.qq.com/s/vpgXom2drwFQOO4R_9Z0Lg). 2022.12.29.
 
 
+76. [连中两篇WWW顶会！！](https://mp.weixin.qq.com/s/Pu6Cpp5H1axgePk4z-xAXg). 2023.02.01.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
