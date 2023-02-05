@@ -1428,6 +1428,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 76. [连中两篇WWW顶会！！](https://mp.weixin.qq.com/s/Pu6Cpp5H1axgePk4z-xAXg). 2023.02.01.
 
 
+77. [本科生如何开启科研之路？复旦标兵们这样做→](https://mp.weixin.qq.com/s/0ZRy9ohqgnITTRtV3jxH0g). 2023.02.05.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2099,6 +2102,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 50. [国家级青年人才项目评审体会](https://mp.weixin.qq.com/s/CcK1_VboE8TSEhV0-JtetA). 2023.01.31.
 
 
+51. [申请国家自然科学基金心得与体会（PPT版）](https://mp.weixin.qq.com/s/TWM8rWfuc4fRL68wu1yzjA). 2023.02.01.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2140,6 +2147,12 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 3. [重庆市深入实施软件和信息服务业“满天星”行动计划2023年专项行动方案印发](https://mp.weixin.qq.com/s/RgmDpJqy7MQeuPgs4sTI9A). 2023.01.19
+
+
+4. [袁家军主政新重庆的顶层思路，哪些让人耳目一新](https://mp.weixin.qq.com/s/Rqjfgt9aSkFJn_H0tJm9Mg). 2023.02.01
+
+
+5. [要闻｜袁家军在市委农村工作会议上强调 推动农业农村现代化迈出坚实步伐 为加快建设农业强国贡献重庆力量](https://mp.weixin.qq.com/s/yDyjB85Sn8_ubWGyftx1jQ). 2023.02.02
 
 
 
