@@ -2105,6 +2105,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 51. [申请国家自然科学基金心得与体会（PPT版）](https://mp.weixin.qq.com/s/TWM8rWfuc4fRL68wu1yzjA). 2023.02.01.
 
 
+52. [基金委和科技部项目实行联合限项](https://mp.weixin.qq.com/s/xHZB8Au79xQNJdqRvZzZow). 2023.02.07.
+
 
 
 ## 国家重点研发计划
