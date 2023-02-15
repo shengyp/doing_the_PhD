@@ -1430,7 +1430,11 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 76. [连中两篇WWW顶会！！](https://mp.weixin.qq.com/s/Pu6Cpp5H1axgePk4z-xAXg). 2023.02.01.
 
 
-77. [本科生如何开启科研之路？复旦标兵们这样做→](https://mp.weixin.qq.com/s/0ZRy9ohqgnITTRtV3jxH0g). 2023.02.05.
+77. [本科生如何开启科研之路？复旦标兵们这样做](https://mp.weixin.qq.com/s/0ZRy9ohqgnITTRtV3jxH0g). 2023.02.05.
+
+
+78. [21岁，华科博士在读，我的赛事Top经验](https://mp.weixin.qq.com/s/kQ5QIXAie5kF97wBrfTIHA). 2023.02.16.
+
 
 
 
