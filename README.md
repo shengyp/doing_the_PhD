@@ -1436,6 +1436,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 78. [21岁，华科博士在读，我的赛事Top经验](https://mp.weixin.qq.com/s/kQ5QIXAie5kF97wBrfTIHA). 2023.02.16.
 
 
+79. [华为天才少年，宁博宇！](https://mp.weixin.qq.com/s/tn06KUVL-dEMrJRmKI8Y_Q) 2023.02.23.
+
 
 
 ## 女性科学家
@@ -2171,6 +2173,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 ## 农业发展政策
 1. [中央农办主任、农业农村部部长唐仁健解读2023年中央一号文件](https://mp.weixin.qq.com/s/CDFdwfSdGzvo8GnAvQ8CKg) 2023.02.14
 
+
+2. [中国农业何时能不再靠天吃饭？](https://mp.weixin.qq.com/s/Lp5wNMFRo6_rq9MYmI2Pkg) 2023.02.15
 
 
 
