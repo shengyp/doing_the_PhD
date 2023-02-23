@@ -2120,6 +2120,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 52. [基金委和科技部项目实行联合限项](https://mp.weixin.qq.com/s/xHZB8Au79xQNJdqRvZzZow). 2023.02.07.
 
 
+53. [评审“打招呼”！基金委重拳出击，开展专项整治工作](https://mp.weixin.qq.com/s/QI8JSpvd2U_jk5Wx4tbGGA). 2023.02.23.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
