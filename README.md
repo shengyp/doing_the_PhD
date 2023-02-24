@@ -2158,7 +2158,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
 
@@ -2173,6 +2172,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 5. [要闻｜袁家军在市委农村工作会议上强调 推动农业农村现代化迈出坚实步伐 为加快建设农业强国贡献重庆力量](https://mp.weixin.qq.com/s/yDyjB85Sn8_ubWGyftx1jQ). 2023.02.02
+
+
+6. [2023年重庆市科技创新工作会召开，小新带你一图读懂2023年重庆科技创新工作报告](https://mp.weixin.qq.com/s/br1QISC0cQNsZxCgRQ3cwg). 2023.02.23
 
 
 
