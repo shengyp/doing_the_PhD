@@ -943,6 +943,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 5. [这篇寒门博士论文致谢火了：回首望过去，可怜无数山](https://mp.weixin.qq.com/s/jDS9_yrSRYY_XTiuCnzJPA). 2022.06.21. 
 
 
+6. [【学术相关】西北大学博士论文鸣谢感人涕下， 抛弃“铁饭碗”的勇气激励迷茫的你](https://mp.weixin.qq.com/s/SWKvfnoA8G7-dlquBTe68A). 2023.02.24. 
+
+
 
 ## 校长演讲
 1. [川大校长李言荣：提出真问题比热衷“填补空白”更重要](https://www.toutiao.com/i7075306374225330702/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647430307&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316193147010158155167100D0B36&share_token=5102bfa8-74d1-4850-b28a-b57f6ab07233&group_id=7075306374225330702). 2022.03.15. 
