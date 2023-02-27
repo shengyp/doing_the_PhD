@@ -1445,6 +1445,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 79. [华为天才少年，宁博宇！](https://mp.weixin.qq.com/s/tn06KUVL-dEMrJRmKI8Y_Q) 2023.02.23.
 
 
+80. [“双非”高校博士生首发Nature后，决定留校继续科研](https://www.toutiao.com/article/7204635718163939901/?app=news_article&timestamp=1677471390&use_new_style=1&req_id=20230227121630743D039A1C6A03017CFF&group_id=7204635718163939901&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=e909a4ae-c428-47cd-bee8-4126836b98bc&source=m_redirect&wid=1677473330980). 2023.02.27.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2166,6 +2169,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
+
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
 
@@ -2183,6 +2187,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 6. [2023年重庆市科技创新工作会召开，小新带你一图读懂2023年重庆科技创新工作报告](https://mp.weixin.qq.com/s/br1QISC0cQNsZxCgRQ3cwg). 2023.02.23
+
+
+7. [关于《重庆市科研项目和经费管理办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s/biLRldA78tg5g_y7Yc3dmw). 2023.02.27
 
 
 
