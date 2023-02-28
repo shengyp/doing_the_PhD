@@ -2168,6 +2168,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 4. [科技部部长：科技真正的希望在青年科学家一代](https://mp.weixin.qq.com/s/bFBdtJDdVHRGnYGHy9izzg) 2023.02.26
 
 
+5. [中共中央　国务院印发《数字中国建设整体布局规划》](https://mp.weixin.qq.com/s/JuP_SX0djuDoLPYnNd-xJg) 2023.02.28
+
 
 
 ## 重庆市科技政策
