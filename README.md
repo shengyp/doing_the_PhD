@@ -2138,6 +2138,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 55. [最新！基金提交在即，基金委发布说明（含国自然最新限项规定）！](https://mp.weixin.qq.com/s/c56sD9ZwNpbnzLhHwJ2plw) 2023.03.03.
 
 
+56. [国自然限项规定，官方解读来了！](https://mp.weixin.qq.com/s/-H-Gr3mPZ0yz5CrP8lpiYQ) 2023.03.03.
+
 
 
 ## 国家重点研发计划
