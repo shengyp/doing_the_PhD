@@ -2141,6 +2141,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 56. [国自然限项规定，官方解读来了！](https://mp.weixin.qq.com/s/-H-Gr3mPZ0yz5CrP8lpiYQ) 2023.03.03.
 
 
+57. [2023年国自然：指南看不到的形式审查问题！请逐项核查！](https://mp.weixin.qq.com/s/kWRO0ZjLA-rizcQo_6Em8A) 2023.03.06.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2238,6 +2241,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 6. [重磅！100位校高校教师晒工资，详细晒，全国各地！要进高校的博士们参考](https://mp.weixin.qq.com/s/LXo6Cc8wUAU-i1NFF3MZSw). 2022.04.27
 
+
+7. [985高校副教授晒年薪，网友：公积金顶我一个月工资了......](https://mp.weixin.qq.com/s/VkNmZ4L5QvIFCQhrwY7Xwg). 2023.03.02
 
 
 
