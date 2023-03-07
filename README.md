@@ -2183,6 +2183,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 5. [中共中央　国务院印发《数字中国建设整体布局规划》](https://mp.weixin.qq.com/s/JuP_SX0djuDoLPYnNd-xJg) 2023.02.28
 
 
+5. [重磅！重新组建科学技术部](https://mp.weixin.qq.com/s/n3XvLjomN555gPwbcXvtDw). 2023.03.07
+
+
 
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
