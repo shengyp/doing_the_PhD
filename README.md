@@ -1063,6 +1063,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [工信部：加大青年科技人才薪酬、住房、子女入学支持力度](https://mp.weixin.qq.com/s/i0hnSExcGumjr2m7b_cQwA). 2022.10.20. 
 
 
+5. [讲座回顾｜傅其林：以重大科研项目为平台推动人才培养](https://mp.weixin.qq.com/s/jZYB2BCvEQb9CDEBfnWYkQ). 2023.03.07. 
+
+
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
@@ -2184,6 +2187,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 5. [重磅！重新组建科学技术部](https://mp.weixin.qq.com/s/n3XvLjomN555gPwbcXvtDw). 2023.03.07
+
+
+6. [组建国家数据局](https://wap.peopleapp.com/article/7025193/6880890). 2023.03.07
+
 
 
 
