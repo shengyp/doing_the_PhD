@@ -2187,7 +2187,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 5. [中共中央　国务院印发《数字中国建设整体布局规划》](https://mp.weixin.qq.com/s/JuP_SX0djuDoLPYnNd-xJg) 2023.02.28
 
 
-5. [重磅！重新组建科学技术部](https://mp.weixin.qq.com/s/n3XvLjomN555gPwbcXvtDw). 2023.03.07
+5. [重磅！重新组建科学技术部](https://mp.weixin.qq.com/s/n3XvLjomN555gPwbcXvtDw). 2023.03.07 | [科技部将重组，不再参与具体科研项目的评审和管理](https://mp.weixin.qq.com/s/SecuacGe_1Mobsl3JafkjQ). 2023.03.09 
 
 
 6. [组建国家数据局](https://wap.peopleapp.com/article/7025193/6880890). 2023.03.07
