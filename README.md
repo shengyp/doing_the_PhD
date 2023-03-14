@@ -2156,6 +2156,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 58. [通知| 2023年国自然申请常见问答](https://mp.weixin.qq.com/s/KrgEgN_VE2NezziP8YYvUA). 2023.03.07.
 
 
+59. [基金委：稳步扩大青年基金资助规模！](https://mp.weixin.qq.com/s/4L0E0Aw6OLJ0TlJiJPylcg) 2023.03.14.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
