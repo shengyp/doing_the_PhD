@@ -1457,6 +1457,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 80. [“双非”高校博士生首发Nature后，决定留校继续科研](https://www.toutiao.com/article/7204635718163939901/?app=news_article&timestamp=1677471390&use_new_style=1&req_id=20230227121630743D039A1C6A03017CFF&group_id=7204635718163939901&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=e909a4ae-c428-47cd-bee8-4126836b98bc&source=m_redirect&wid=1677473330980). 2023.02.27.
 
 
+81. [华为最新「天才少年」：博士四年21篇论文，却自称是个「低能儿」](https://mp.weixin.qq.com/s/D93GMdikbCR3ZkWdR-SxUQ). 2023.03.21.
+
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2159,6 +2163,16 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 59. [基金委：稳步扩大青年基金资助规模！](https://mp.weixin.qq.com/s/4L0E0Aw6OLJ0TlJiJPylcg) 2023.03.14.
 
 
+60. [基金委通报！下达整改意见135份，退回资金3千万元](https://mp.weixin.qq.com/s/zXlE7xaBnn-yw3XYxJ1YrQ) 2023.03.15.
+
+
+61. [基金委：稳步扩大青年科学基金资助规模！](https://mp.weixin.qq.com/s/Z2kK_0SLJ-1Y1RufYlD7Yw) 2023.03.18.
+
+
+62. [TKDE 2023 | 交叉学科项目申请书学科代码生成](https://mp.weixin.qq.com/s/LsfyLcghzKi_70LRQ_Tz5A) 2023.03.20.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2201,6 +2215,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 6. [组建国家数据局](https://wap.peopleapp.com/article/7025193/6880890). 2023.03.07
 
 
+7. [最新！国务院机构设置公布](https://mp.weixin.qq.com/s/nXa29VQrw1qFFCEbYR8oIQ). 2023.03.20
+
+
 
 ## 国外科技部政策
 1. [教得好也能升教授！英国高校教师晋升发生重大转变](https://www.toutiao.com/article/7207240637165584931/?app=news_article&timestamp=1678364783&use_new_style=1&req_id=202303092026221FFB9FEF01DD04090F56&group_id=7207240637165584931&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=90a73f5c-9322-4dc5-a27a-9956cf4458c5&source=m_redirect). 2023.03.06
@@ -2228,6 +2245,12 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 7. [关于《重庆市科研项目和经费管理办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s/biLRldA78tg5g_y7Yc3dmw). 2023.02.27
+
+
+8. [重新打量重庆](https://mp.weixin.qq.com/s/Lw7tY2mEN-RIPzHpabzWdQ). 2023.03.15
+
+
+9. [重庆在西部陆海新通道建设中勇担“主角”](https://mp.weixin.qq.com/s/zDfcJyuNbvKF9YQ4tawz7g). 2023.03.27
 
 
 
@@ -2555,6 +2578,12 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 78. [线上会议不雅事件，中科院、北理工通报方岱宁院士处理结果](https://mp.weixin.qq.com/s/qC40NcvMLCmrbSHBMczzaA). 2022.12.08.
+
+
+79. [年纪轻轻就造假九篇SCI？是“学术天才”还是“造假高手”？](https://www.toutiao.com/article/7213987179402412582/?app=news_article&timestamp=1679726471&use_new_style=1&req_id=20230325144111FA061DBF0D625568781D&group_id=7213987179402412582&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=cb7c2bd3-cfd9-4765-bf9a-436307fb3115&source=m_redirect) 2023.03.24.
+
+
+80. [“日租女友”1000元一天：服务项目多到忙不过来，深挖细思极恐](https://www.toutiao.com/article/7213913381797888569/?app=news_article&timestamp=1679726971&use_new_style=1&req_id=20230325144930110AC9990F1AC769CC54&group_id=7213913381797888569&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=91ea6026-eba0-4d83-a70a-ed8a8f1f16dc&source=m_redirect) 2023.03.25.
 
 
 
