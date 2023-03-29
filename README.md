@@ -2218,6 +2218,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 7. [最新！国务院机构设置公布](https://mp.weixin.qq.com/s/nXa29VQrw1qFFCEbYR8oIQ). 2023.03.20
 
 
+8. [详解科技部“人工智能驱动的科学研究”专项部署工作！](https://mp.weixin.qq.com/s/xad5mC28rSps0sXiwI6trA) 2023.03.28
+
+
 
 ## 国外科技部政策
 1. [教得好也能升教授！英国高校教师晋升发生重大转变](https://www.toutiao.com/article/7207240637165584931/?app=news_article&timestamp=1678364783&use_new_style=1&req_id=202303092026221FFB9FEF01DD04090F56&group_id=7207240637165584931&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=90a73f5c-9322-4dc5-a27a-9956cf4458c5&source=m_redirect). 2023.03.06
@@ -2584,6 +2587,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 80. [“日租女友”1000元一天：服务项目多到忙不过来，深挖细思极恐](https://www.toutiao.com/article/7213913381797888569/?app=news_article&timestamp=1679726971&use_new_style=1&req_id=20230325144930110AC9990F1AC769CC54&group_id=7213913381797888569&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=91ea6026-eba0-4d83-a70a-ed8a8f1f16dc&source=m_redirect) 2023.03.25.
+
+
+81. [知名教授，被“双开”！](https://mp.weixin.qq.com/s/AoItY2JfJ8p61Rt9Jv_KGA) 2023.03.29.
 
 
 
