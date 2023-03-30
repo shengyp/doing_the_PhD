@@ -1460,6 +1460,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 81. [华为最新「天才少年」：博士四年21篇论文，却自称是个「低能儿」](https://mp.weixin.qq.com/s/D93GMdikbCR3ZkWdR-SxUQ). 2023.03.21.
 
 
+82. [8篇SCI，专攻冷门绝学，重大博士“科研力”拉满！](https://mp.weixin.qq.com/s/s-T0x6aUAZS2yfMU0ZF2ZA). 2023.03.29.
+
 
 
 ## 女性科学家
@@ -2171,6 +2173,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 62. [TKDE 2023 | 交叉学科项目申请书学科代码生成](https://mp.weixin.qq.com/s/LsfyLcghzKi_70LRQ_Tz5A) 2023.03.20.
 
+
+63. [青年人才项目评审体会](https://mp.weixin.qq.com/s/IFfgqACHJG7tFD5epMCncA) 2023.03.30.
 
 
 
