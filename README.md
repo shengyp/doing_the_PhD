@@ -371,6 +371,8 @@ Table of Contents
 37. [读博期间应该明确的50件事！](https://mp.weixin.qq.com/s/U8O-MgZ3K9pqLpcXWDwsXw) 2022.05.02
 
 
+38. [Nature专栏：博士生合理管理时间，走出泥潭](https://mp.weixin.qq.com/s/8s8_ARM4Cm4Hnvo-f2Ttnw). 2022.04.06
+
 
 
 ## 好的研究想法如何产生
@@ -1072,6 +1074,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 5. [讲座回顾｜傅其林：以重大科研项目为平台推动人才培养](https://mp.weixin.qq.com/s/jZYB2BCvEQb9CDEBfnWYkQ). 2023.03.07. 
 
 
+6. [33岁任加州伯克利终身教授！杨培东：要让青年学者有自己的“小金库”](https://www.toutiao.com/article/7218003977353429507/?app=news_article&timestamp=1680582994&use_new_style=1&req_id=20230404123633B70ABF11D8B47551B460&group_id=7218003977353429507&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=feb77c05-8f51-4eb7-a13d-ffdb9b3eebbc&source=m_redirect). 2023.04.04. 
+
+
+
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
@@ -1646,6 +1652,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 6. [热议：土博贡献八篇SCI才能正式入职、安家费却只有海外博士的十分之一！](https://mp.weixin.qq.com/s/UExzSBwiIzIMqPzKk389qA) 2021.11.28.
 
 
+7. [海外博士一般朝九晚五，国内博士动辄十几个小时科研时间。为什么普遍认为海外博士水平比较高？](https://mp.weixin.qq.com/s/5aE547SQKASyZoKYZ7ykng) 2023.04.13.
+
+
 
 ## 谁说科学没有国界
 1. [被中国资助的科学家，或被断绝联邦经费：美参议院提出新规](https://mp.weixin.qq.com/s/KoE668leRlPqfT8g6AIJ3w). 2021.05.14.
@@ -2177,6 +2186,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 63. [青年人才项目评审体会](https://mp.weixin.qq.com/s/IFfgqACHJG7tFD5epMCncA) 2023.03.30.
 
 
+64. [教授建议：大量增加青年和面上项目，砍掉重大项目，不为解决就业扩招博士生](https://mp.weixin.qq.com/s/PfB5FQ_Ar1YMeWkDHkcSOQ) 2023.04.03.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2223,6 +2235,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 8. [详解科技部“人工智能驱动的科学研究”专项部署工作！](https://mp.weixin.qq.com/s/xad5mC28rSps0sXiwI6trA) 2023.03.28
+
+
+9. [国家互联网信息办公室关于《生成式人工智能服务管理办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s/R_eY5Ntq3v2gzraA8zUPWw) 2023.04.11
 
 
 
@@ -2594,6 +2609,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 81. [知名教授，被“双开”！](https://mp.weixin.qq.com/s/AoItY2JfJ8p61Rt9Jv_KGA) 2023.03.29.
+
+
+82. [西南交通大学女博士熊某丽，出轨已婚教师，甘愿当小三生下女儿](https://www.toutiao.com/article/7219856303852798504/?app=news_article&timestamp=1681019091&use_new_style=1&req_id=20230409134451C812653D1C7447A824DD&group_id=7219856303852798504&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9c7bdad9-2b80-424a-bffb-8a38f3cd0d2b&source=m_redirect) 2023.04.09.
 
 
 
