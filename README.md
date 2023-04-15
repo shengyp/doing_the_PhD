@@ -2189,6 +2189,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 64. [教授建议：大量增加青年和面上项目，砍掉重大项目，不为解决就业扩招博士生](https://mp.weixin.qq.com/s/PfB5FQ_Ar1YMeWkDHkcSOQ) 2023.04.03.
 
 
+65. [基金申请书即将送审，这件事千万别做！]https://mp.weixin.qq.com/s/POwgVXg5eh-2mMUSPGfItw) 2023.04.15.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2238,6 +2241,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 9. [国家互联网信息办公室关于《生成式人工智能服务管理办法（征求意见稿）》公开征求意见的通知](https://mp.weixin.qq.com/s/R_eY5Ntq3v2gzraA8zUPWw) 2023.04.11
+
+
+10. [国家科技部发文：支持新建一批全国重点实验室](https://mp.weixin.qq.com/s/rVyWAHn78GqH7GKhpm9P3w) 2023.04.15
 
 
 
@@ -2612,6 +2618,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 82. [西南交通大学女博士熊某丽，出轨已婚教师，甘愿当小三生下女儿](https://www.toutiao.com/article/7219856303852798504/?app=news_article&timestamp=1681019091&use_new_style=1&req_id=20230409134451C812653D1C7447A824DD&group_id=7219856303852798504&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9c7bdad9-2b80-424a-bffb-8a38f3cd0d2b&source=m_redirect) 2023.04.09.
+
+
+83. [复旦大学吴宏翔，被查](https://mp.weixin.qq.com/s/5kyH307kVqynrEu6s1UrZg) 2023.04.15.
 
 
 
