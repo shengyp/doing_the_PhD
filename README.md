@@ -1469,6 +1469,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 82. [8篇SCI，专攻冷门绝学，重大博士“科研力”拉满！](https://mp.weixin.qq.com/s/s-T0x6aUAZS2yfMU0ZF2ZA). 2023.03.29.
 
 
+83. [成功实现亚微伏级非侵入式脑机接口信号识别，天大青年学者获华为资助，消费级“脑机”还有多远？](https://mp.weixin.qq.com/s/F1c4-wNwdns3Y9PUisOMxA). 2023.04.22.
+
+
 
 ## 女性科学家
 1. [UCLA李婧翌：女性最不需要做的就是「怀疑自己」| 妇女节特辑](https://mp.weixin.qq.com/s/zt9EHHMsxDPsyg68QpcNSQ). 2022.03.04.
@@ -2190,6 +2193,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 65. [基金申请书即将送审，这件事千万别做！]https://mp.weixin.qq.com/s/POwgVXg5eh-2mMUSPGfItw) 2023.04.15.
+
+
+66. [基金委学部主任：未来资助将把握3个重要方向，包括加大青年学者资助力度](https://mp.weixin.qq.com/s/FAeQGk1YM_4zWHtQr4SEcg) 2023.04.21.
+
 
 
 
