@@ -2630,6 +2630,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 83. [复旦大学吴宏翔，被查](https://mp.weixin.qq.com/s/5kyH307kVqynrEu6s1UrZg) 2023.04.15.
 
 
+84. [东南大学一院长在300多人工作群发色情照，校方：其已不担任学校党委宣传部长一职，已成立工作组调查](https://m.sohu.com/a/669814788_121019331?scm=1103.plate:198:0.0.1_1.0&spm=smwp.home.fd-important.5.1682325918613naF9VS5_1467) 2023.04.24.
+
+
 
 ## 毛主席话语
 1. [毛主席当年的六句话，不断被证明是正确的！](https://mp.weixin.qq.com/s/o6MsSH0QVFX_RLr3rWPn1w). 2017.07.29
