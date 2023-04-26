@@ -2198,6 +2198,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 66. [基金委学部主任：未来资助将把握3个重要方向，包括加大青年学者资助力度](https://mp.weixin.qq.com/s/FAeQGk1YM_4zWHtQr4SEcg) 2023.04.21.
 
 
+67. [初审结果即将公布！自然科学基金进入函评季，函评专家一般都是哪些人？](https://mp.weixin.qq.com/s/TjZflXkayZQQ0pnVP5eZ5A) 2023.04.26.
+
 
 
 ## 国家重点研发计划
@@ -2630,7 +2632,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 83. [复旦大学吴宏翔，被查](https://mp.weixin.qq.com/s/5kyH307kVqynrEu6s1UrZg) 2023.04.15.
 
 
-84. [东南大学一院长在300多人工作群发色情照，校方：其已不担任学校党委宣传部长一职，已成立工作组调查](https://m.sohu.com/a/669814788_121019331?scm=1103.plate:198:0.0.1_1.0&spm=smwp.home.fd-important.5.1682325918613naF9VS5_1467) 2023.04.24.
+84. [东南大学一院长在300多人工作群发色情照，校方：其已不担任学校党委宣传部长一职，已成立工作组调查](https://m.sohu.com/a/669814788_121019331?scm=1103.plate:198:0.0.1_1.0&spm=smwp.home.fd-important.5.1682325918613naF9VS5_1467) 2023.04.24. | [近年，多名公职人员发不雅信息被处理！](https://mp.weixin.qq.com/s/MahLTr-Jo603XFp3yhfc7w) 2023.04.24. 
 
 
 
