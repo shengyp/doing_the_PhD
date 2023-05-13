@@ -1963,6 +1963,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 30. [重磅！破“四唯” 立“五元”，工信部发布完善科技成果评价机制实施方案](https://mp.weixin.qq.com/s/pVBIfU17XDOvvTUV2sgM5Q). 2023.01.03
 
 
+31. [“助理教授”等于“讲师”？为何青年学者热衷于新兴的助理教授？](https://www.toutiao.com/article/7230043204388356645/?app=news_article&timestamp=1683970326&use_new_style=1&req_id=2023051317320671816378B530280E0225&group_id=7230043204388356645&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9c70dd78-5bbb-44f9-844d-1e825204508b&source=m_redirect&wid=1683976978900) 2023.05.06
+
+
 
 ## 应用型岗位设置与评价体制
 1. [深圳大学副校长张晓红：不能单纯以发论文、拿项目为标准考核产业型科技人才丨聚焦深圳两会](https://www.toutiao.com/article/7199551962579206711/?app=news_article&timestamp=1676301168&use_new_style=1&req_id=2023021323124712EC5C0EF3DE4B12BE3B&group_id=7199551962579206711&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=5942c574-6c97-472d-be4b-460f0f40fa61&source=m_redirect&wid=1676301858900). 2023.02.13
@@ -2633,6 +2636,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 84. [东南大学一院长在300多人工作群发色情照，校方：其已不担任学校党委宣传部长一职，已成立工作组调查](https://m.sohu.com/a/669814788_121019331?scm=1103.plate:198:0.0.1_1.0&spm=smwp.home.fd-important.5.1682325918613naF9VS5_1467) 2023.04.24. | [近年，多名公职人员发不雅信息被处理！](https://mp.weixin.qq.com/s/MahLTr-Jo603XFp3yhfc7w) 2023.04.24. 
+
+
+85. [惋惜！年仅31岁，985高校青椒逝世](https://mp.weixin.qq.com/s/Nlpal6CisKfcsmFkMaYyjg) 2023.05.06.
+
 
 
 
