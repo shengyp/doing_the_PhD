@@ -1828,6 +1828,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 31. [青年教师沦为“科研民工”，“非升即走”终于引发两会关注！](https://mp.weixin.qq.com/s/o3etILE1Qe_OIVASdQesiA) 2022.03.09. 
 
 
+32. [多任务并进：高校教师工作压力的源头](https://partners.sina.cn/html/vivo/browser/article?f=mgo&wm=6066&docUrl=https%3A%2F%2Ffinance.sina.cn%2Ftech%2F2023-05-16%2Fdetail-imytxiwk6699204.d.html&vivoBusiness=browser&en_dataid=655135e0a69762f959286a3cce4be5c81c477b4de4363ecf4106b65dfd6762f9&isNews=1&uuid=a3488c5b42ce37c499cca82094dceb43&showComments=0&vivo_news_source=99&vivo_news_comment_data=%7B%7D&vivo_news_comment_data_checksum=99914b932bd37a50b983c5e7c90ae93b&wxreshare=1). 2023.05.16. 
+
+
 
 ## 贤内助
 1. [Jeff Dean只是冰山一角！盘点劈柴哥的17个「贤内助」](https://mp.weixin.qq.com/s/x-7bhNG0t5TFiuuPdHtZLQ). 2021.03.30
