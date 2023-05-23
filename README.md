@@ -254,6 +254,9 @@ Table of Contents
 39. [为什么鼓励你读博士？自南大毕业后，我目睹了读博的千姿百态](https://mp.weixin.qq.com/s/anksGByVDQbw9znCsCrhww) 2022.08.22. 
 
 
+40. [2023 年，陆奇给 20、30、40 岁年轻人的建议](https://mp.weixin.qq.com/s/rxaCL1IoMe74o6LMFywQ-g) 2023.05.23. 
+
+
 
 <!-- ## Datasets_Shared_Tasks -->
 ## 如何开个好头
