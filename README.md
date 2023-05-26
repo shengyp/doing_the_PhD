@@ -879,6 +879,11 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 
+## 博士学位论文
+1. [毕业一年后，论文被“二次抽检”不合格，北大5名博士被撤销博士学位！](https://mp.weixin.qq.com/s/K-z6Is-avYoIBLqyVYfuEA) 2023.05.25.
+
+
+
 ## 学位论文答辩
 1. [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf) 2020.11.06.
 
