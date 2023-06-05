@@ -1481,7 +1481,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 82. [8篇SCI，专攻冷门绝学，重大博士“科研力”拉满！](https://mp.weixin.qq.com/s/s-T0x6aUAZS2yfMU0ZF2ZA). 2023.03.29.
 
 
-83. [成功实现亚微伏级非侵入式脑机接口信号识别，天大青年学者获华为资助，消费级“脑机”还有多远？](https://mp.weixin.qq.com/s/F1c4-wNwdns3Y9PUisOMxA). 2023.04.22.
+83. [成功实现亚微伏级非侵入式脑机接口信号识别，天大青年学者获华为资助，消费级“脑机”还有多远？](https://mp.weixin.qq.com/s/F1c4-wNwdns3Y9PUisOMxA) 2023.04.22.
+
+
+84. [施一公：我直到博士毕业，对研究也没兴趣，很迷茫，不知道将来干什么](https://mp.weixin.qq.com/s/j9d1WK1d3UNban6eLbkU0A). 2023.05.30.
 
 
 
