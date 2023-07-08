@@ -939,6 +939,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 18. [计算机科学博士经验：准备几个月，答辩半小时](https://www.toutiao.com/article/7174662564612768312/?app=news_article&timestamp=1670516754&use_new_style=1&req_id=202212090025549F83CC7924DF5E745135&group_id=7174662564612768312&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=197c0e01-5332-495c-ae82-c43505576eb5&source=m_redirect&wid=1670596084418). 2022.12.08.
 
 
+19. [好甜！工科男博士论文答辩后，现场又给女友准备了个恋爱答辩，成功求婚！](https://mp.weixin.qq.com/s/7FJIX_yuOr3dOOtIsfdLfA) 2023.06.20.
+
+
 
 
 ## 学位论文致谢
@@ -961,6 +964,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 7. [博士毕业论文致谢句句诛心，博士女朋友回应句句暖心](https://mp.weixin.qq.com/s/pZoco8eAGipAwBUmxkZRLQ). 2023.03.09. 
+
+
+8. [又一博士论文致谢，被顶上热搜！](https://mp.weixin.qq.com/s/dgIz64fvLFSwGHoWwkC-1Q) 2023.06.19. 
 
 
 
@@ -1600,7 +1606,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 23. [轮椅上的博士矣晓沅：9 年求学路，我从清华毕业了](https://mp.weixin.qq.com/s/jn7ntP2qV2vSezxHCaHtsQ). 2021.08.16
 
 
-24. [清华姚班教授劝退文： 我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/ebMZS06L5HGFe1ODsaVKQA). 2021.12.04
+24. [清华姚班教授劝退文： 我见过太多PhD，精神崩溃、心态失衡、身体垮掉、一事无成](https://mp.weixin.qq.com/s/ebMZS06L5HGFe1ODsaVKQA). 2021.12.04 | [清华教授发文劝退读博：我见过太多博士生精神崩溃、心态失衡、身体垮掉、一事无成！](https://mp.weixin.qq.com/s/D1QXC7xXmzqDmelWN1JFPw). 2023.07.06 
 
 
 25. [万字长文：上海交大校友、宾大直博博士细说五年读博经历](https://mp.weixin.qq.com/s/Pa2iXlc4yLTGHcEJq1lkiw). 2022.08.12
@@ -2772,7 +2778,11 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 4. [王力宏劣迹爆出，音乐系本科生论文受牵连，凌晨两点求助导师](https://mp.weixin.qq.com/s/Ks1MQDBZKOchK_dkgZd6JQ). 2021.12.21.
 
 
+5. [顺藤摸瓜，川大：张薇背后利益网，一捅即破！](https://www.toutiao.com/article/7251989288202797606/?app=news_article&timestamp=1688780345&use_new_style=1&req_id=202307080939047BFE33C1122667393B95&group_id=7251989288202797606&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=3d1048f4-acf9-499c-8d2a-868c1335f896&source=m_redirect). 2023.07.05.
 
-updated in 2023.05.26
+
+
+
+updated in 2023.07.08
 
 
