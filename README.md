@@ -2228,6 +2228,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 67. [初审结果即将公布！自然科学基金进入函评季，函评专家一般都是哪些人？](https://mp.weixin.qq.com/s/TjZflXkayZQQ0pnVP5eZ5A) 2023.04.26.
 
 
+68. [会评季：国自然“上会”标准分数](https://www.toutiao.com/article/7254122339213247015/?app=news_article&timestamp=1689059058&use_new_style=1&req_id=202307111504180404B62B4F8C5807B363&group_id=7254122339213247015&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=afe64007-818b-46df-a69d-03505d7da2d5&source=m_redirect) 2023.07.10.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
