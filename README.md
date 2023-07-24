@@ -2235,6 +2235,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 69. [瞭望 | 持续深化科学基金改革夯实科技自立自强根基——专访国家自然科学基金委员会主任、中科院院士窦贤康](https://www.toutiao.com/article/7256771268769514036/?app=news_article&timestamp=1689640221&use_new_style=1&req_id=202307180830211C88D7FC1942E2318EF9&group_id=7256771268769514036&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=71f98407-61d6-4bf4-a0fe-5bcdaca68723&source=m_redirect) 2023.07.17.
 
 
+70. [基金委主任窦贤康：今年将探索长周期、稳定资助青年科研人员，最高可获15年稳定支持！](https://mp.weixin.qq.com/s/1TqznYJr974Lv8Zu32cGmw) 2023.07.18.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2287,6 +2290,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 10. [国家科技部发文：支持新建一批全国重点实验室](https://mp.weixin.qq.com/s/rVyWAHn78GqH7GKhpm9P3w) 2023.04.15
+
+
+11. [施一公：拿出经费，放开手脚，一定有人能做出划时代的研究](https://www.toutiao.com/article/7259185056583778835/?app=news_article&timestamp=1690173503&use_new_style=1&req_id=20230724123823C2BAE55595D6170595D7&group_id=7259185056583778835&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9d68afab-4276-4de4-9aa9-30a154fc2602&source=m_redirect) 2023.07.24
 
 
 
