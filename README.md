@@ -2231,6 +2231,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 68. [会评季：国自然“上会”标准分数](https://www.toutiao.com/article/7254122339213247015/?app=news_article&timestamp=1689059058&use_new_style=1&req_id=202307111504180404B62B4F8C5807B363&group_id=7254122339213247015&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=afe64007-818b-46df-a69d-03505d7da2d5&source=m_redirect) 2023.07.10.
 
 
+69. [瞭望 | 持续深化科学基金改革夯实科技自立自强根基——专访国家自然科学基金委员会主任、中科院院士窦贤康](https://www.toutiao.com/article/7256771268769514036/?app=news_article&timestamp=1689640221&use_new_style=1&req_id=202307180830211C88D7FC1942E2318EF9&group_id=7256771268769514036&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=71f98407-61d6-4bf4-a0fe-5bcdaca68723&source=m_redirect) 2023.07.17.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2292,6 +2295,12 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
+## 重庆市发展战略
+1. [重庆市人民政府关于印发重庆市先进制造业发展“渝西跨越计划”（2023—2027年）的通知](https://mp.weixin.qq.com/s/7GLmAf0TFZVu0yySd8szBQ) 2023.07.21
+
+
+
+
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
 
@@ -2331,6 +2340,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 ## 科学城建设
 1. [多地科学城建设集体冲刺，如何兼顾“科学”与“城”？](https://www.toutiao.com/article/7079010222953464350/?app=news_article&timestamp=1648271305&use_new_style=1&req_id=202203261308250101502221450F41EBA0&group_id=7079010222953464350&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9b308e38-2b9a-4eec-a9ea-df8fca9c26e2). 2022.03.25
+
 
 
 
