@@ -2220,7 +2220,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 64. [教授建议：大量增加青年和面上项目，砍掉重大项目，不为解决就业扩招博士生](https://mp.weixin.qq.com/s/PfB5FQ_Ar1YMeWkDHkcSOQ) 2023.04.03.
 
 
-65. [基金申请书即将送审，这件事千万别做！]https://mp.weixin.qq.com/s/POwgVXg5eh-2mMUSPGfItw) 2023.04.15.
+65. [基金申请书即将送审，这件事千万别做！](https://mp.weixin.qq.com/s/POwgVXg5eh-2mMUSPGfItw) 2023.04.15.
 
 
 66. [基金委学部主任：未来资助将把握3个重要方向，包括加大青年学者资助力度](https://mp.weixin.qq.com/s/FAeQGk1YM_4zWHtQr4SEcg) 2023.04.21.
@@ -2236,6 +2236,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 70. [基金委主任窦贤康：今年将探索长周期、稳定资助青年科研人员，最高可获15年稳定支持！](https://mp.weixin.qq.com/s/1TqznYJr974Lv8Zu32cGmw) 2023.07.18.
+
+
+71. [喜报！新疆农业大学多项科技计划项目喜获立项](https://mp.weixin.qq.com/s/qSpW_TT7PBK9iHP1qoJV2g?poc_token=HN4-v2SjhTUnam2q-_-NT1tDo4ncfi1FA1BJDVet) 2023.07.25.
 
 
 
