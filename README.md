@@ -1240,6 +1240,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 5. [复旦校长官宣：复旦大学即将推出“不升也能留”计划！](https://mp.weixin.qq.com/s/nGYXqq8eZ9lK5K_0r3Uk2g) 2022.10.21.
 
 
+6. [应届生至少8篇顶会才能应聘英伟达科学家，震惊前谷歌大脑研究员](https://www.toutiao.com/article/7260016330072408616/?app=news_article&timestamp=1690387728&use_new_style=1&req_id=20230727000847E0146AC4BC5461F366BD&group_id=7260016330072408616&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=6fa6ae08-ed36-49ba-8ea1-c0266e7e99dd&source=m_redirect) 2023.07.26.
+
+
 
 ## 科研故事
 1. [杨从自学CS知识到入职亚马逊，他只花了8个月](https://mp.weixin.qq.com/s/O-mFQooH2lh9-254YEHTCw). 2021.01.03.
@@ -1492,6 +1495,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 84. [施一公：我直到博士毕业，对研究也没兴趣，很迷茫，不知道将来干什么](https://mp.weixin.qq.com/s/j9d1WK1d3UNban6eLbkU0A). 2023.05.30.
+
+
+85. [本科毕业加入谷歌，还写了「思维链」开山之作，这位OpenAI新秀正为本科生答疑解惑](https://mp.weixin.qq.com/s/ZOMrLl_IemjONyN8Z9YEPA). 2023.07.25.
 
 
 
