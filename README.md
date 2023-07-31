@@ -2262,6 +2262,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 71. [喜报！新疆农业大学多项科技计划项目喜获立项](https://mp.weixin.qq.com/s/qSpW_TT7PBK9iHP1qoJV2g?poc_token=HN4-v2SjhTUnam2q-_-NT1tDo4ncfi1FA1BJDVet) 2023.07.25.
 
 
+72. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
