@@ -2265,10 +2265,14 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 72. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09.
 
 
-73. [基金委两个学部，公布面青地等项目会评专家](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw) 2023.07.31.
+73. [基金委两个学部，公布面青地等项目会评专家](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw). 2023.07.31.
 
 
-74. [2023国自然会评已全部结束！国自然放榜前必看问答](https://mp.weixin.qq.com/s/-E3FEfgVCG8VNoRuNvtsHA). 2023.08.03.
+74. [青基申请感想](https://mp.weixin.qq.com/s/P2oB6io_2n06hFxm5ItmkA). 2023.08.02.
+
+
+75. [2023国自然会评已全部结束！国自然放榜前必看问答](https://mp.weixin.qq.com/s/-E3FEfgVCG8VNoRuNvtsHA). 2023.08.03.
+
 
 
 
