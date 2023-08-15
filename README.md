@@ -1637,6 +1637,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 26. [计算所与北大往事回顾](https://mp.weixin.qq.com/s/viKajZbk5PzmY1suYHqaEg). 2022.08.20
 
 
+27. [「2023年度演讲全文」雷军：成长的经历和感悟](https://mp.weixin.qq.com/s/xbsVTWvUzYOmZFbosvdneA). 2023.08.14
+
+
 
 ## 被博士后割韭菜了没
 1. [【政策解读】2021年度中国博士后科学基金资助推出六项改革举措](https://mp.weixin.qq.com/s?__biz=MzAwMDc5MzcyNA==&mid=2652006075&idx=1&sn=0af60a3a92f8435bcc0f2cf9d7538fe8&chksm=81054ba8b672c2be481d19716cdb0ed153da21b7e0b8d6269d38b9ba288e517accaee89f48f3&mpshare=1&scene=23&srcid=1228lktssAF1e5dmNcxzoAka&sharer_sharetime=1609124842573&sharer_shareid=8a8a78324a566e911eee5ad4267992c7#rd). 2020.12.28.
