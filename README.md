@@ -2268,7 +2268,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 72. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09.
 
 
-73. [基金委两个学部，公布面青地等项目会评专家](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw). 2023.07.31.
+73. [基金委两个学部，公布面青地等项目会评专家](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw). 2023.07.31. | [九大学部，2023年度国自然会评专家名单（收藏）](https://mp.weixin.qq.com/s/dr0dvEEOkWJ4VzXZP7O8Bw). 2023.08.17.
 
 
 74. [青基申请感想](https://mp.weixin.qq.com/s/P2oB6io_2n06hFxm5ItmkA). 2023.08.02.
@@ -2832,6 +2832,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 25. [惋惜！年仅31岁，985高校青椒逝世](https://mp.weixin.qq.com/s/Nlpal6CisKfcsmFkMaYyjg) 2023.05.06.
 
 
+26. [34岁研究生凌晨猝死，聊天记录透露大量细节，导师责任逃不掉了。](https://www.toutiao.com/article/7267872401617322536/?app=news_article&timestamp=1692330691&use_new_style=1&req_id=202308181151319CC3B7D508EEB25A8FD8&group_id=7267872401617322536&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=7462beb6-1e86-4b29-b88b-5e73fced45aa&source=m_redirect) 2023.08.16.
+
+
 
 ## 海里游荡
 1. [长春某大学女海王的百男斩事件](https://mp.weixin.qq.com/s/nMwwZ_lM5cuXJb-6mzj9ew). 2021.06.04. 
@@ -2855,6 +2858,6 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 
-updated in 2023.07.08
+updated in 2023.08.15
 
 
