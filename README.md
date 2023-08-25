@@ -2280,7 +2280,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 76. [2023国自然会评已全部结束！国自然放榜前必看问答](https://mp.weixin.qq.com/s/-E3FEfgVCG8VNoRuNvtsHA). 2023.08.03.
 
 
-77. [重磅！2023 国家自然科学基金评审结果公布！附查询方式！](https://mp.weixin.qq.com/s/h5nSD-dfSeNVI0tsF36kKw). 2023.08.24.
+77. [重磅！2023 国家自然科学基金评审结果公布！附查询方式！](https://mp.weixin.qq.com/s/h5nSD-dfSeNVI0tsF36kKw). 2023.08.24. |  [重磅！2023年国家自然科学基金评审结果公布](https://mp.weixin.qq.com/s/KBDANvh6quS6MZQm-fETfA). 2023.08.24. 
 
 
 
@@ -2354,6 +2354,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 2. [城区人口1094万 武汉晋级为全国超大城市](https://www.toutiao.com/article/7258984576503611960/?app=news_article&timestamp=1690125518&use_new_style=1&req_id=20230723231838F5B4EC3E7EE93ADF3C7A&group_id=7258984576503611960&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=8510581e-a897-412a-90e4-6382318915f5&source=m_redirect) 2023.07.23
 
+
+3. [国家级先导区，重庆这样建！](https://mp.weixin.qq.com/s/IP_NfztdJ9bIuISfmDzgMA) 2023.07.26
 
 
 
