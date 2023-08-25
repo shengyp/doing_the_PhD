@@ -2280,7 +2280,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 76. [2023国自然会评已全部结束！国自然放榜前必看问答](https://mp.weixin.qq.com/s/-E3FEfgVCG8VNoRuNvtsHA). 2023.08.03.
 
 
-77. [重磅！2023 国家自然科学基金评审结果公布！附查询方式！](https://mp.weixin.qq.com/s/h5nSD-dfSeNVI0tsF36kKw). 2023.08.24. |  [重磅！2023年国家自然科学基金评审结果公布](https://mp.weixin.qq.com/s/KBDANvh6quS6MZQm-fETfA). 2023.08.24. 
+77. [自然科学基金委窦贤康最新发文：加强人才项目的结题管理与评估淘汰，筹建新的科研资助部](https://mp.weixin.qq.com/s/sdObBzF2U6_k_rmo4dQ9EQ). 2023.08.21.
+
+
+78. [重磅！2023 国家自然科学基金评审结果公布！附查询方式！](https://mp.weixin.qq.com/s/h5nSD-dfSeNVI0tsF36kKw). 2023.08.24. |  [重磅！2023年国家自然科学基金评审结果公布](https://mp.weixin.qq.com/s/KBDANvh6quS6MZQm-fETfA). 2023.08.24. 
 
 
 
