@@ -1111,7 +1111,7 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 6. [33岁任加州伯克利终身教授！杨培东：要让青年学者有自己的“小金库”](https://www.toutiao.com/article/7218003977353429507/?app=news_article&timestamp=1680582994&use_new_style=1&req_id=20230404123633B70ABF11D8B47551B460&group_id=7218003977353429507&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=feb77c05-8f51-4eb7-a13d-ffdb9b3eebbc&source=m_redirect). 2023.04.04. 
 
 
-7. [中共中央办公厅 国务院办公厅印发《关于进一步加强青年科技人才培养和使用的若干措施》](http://finance.people.com.cn/n1/2023/0827/c1004-40064760.html). 2023.08.27. 
+7. [中共中央办公厅 国务院办公厅印发《关于进一步加强青年科技人才培养和使用的若干措施》](http://finance.people.com.cn/n1/2023/0827/c1004-40064760.html). 2023.08.27. | [政策解读 | 科技部负责同志解读《关于进一步加强青年科技人才培养和使用的若干措施》](https://mp.weixin.qq.com/s/nfzzBRVXak5XHrHNV2GODg). 2023.08.28. | [青年科技工作者注意了，重磅政策发布！](https://mp.weixin.qq.com/s/Ii4ry3dKaqFmm9qyyP3r0w) 2023.08.28. 
 
 
 
