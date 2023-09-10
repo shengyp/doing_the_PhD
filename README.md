@@ -2270,7 +2270,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 72. [喜报！新疆农业大学多项科技计划项目喜获立项](https://mp.weixin.qq.com/s/qSpW_TT7PBK9iHP1qoJV2g?poc_token=HN4-v2SjhTUnam2q-_-NT1tDo4ncfi1FA1BJDVet) 2023.07.25.
 
 
-73. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09. | [太厉害了！国自然基金首次资助优秀本科生，中科大学生获批！](https://www.toutiao.com/article/7276439660618908160/?app=news_article&timestamp=1694186580&use_new_style=1&req_id=20230908232300DABEA794A86D09924A80&group_id=7276439660618908160&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=14ca7398-7393-4363-aa78-a8cd5ed45923&source=m_redirect&wid=1694229259017) 2023.09.08. 
+73. [知乎热议 | 如何看待国家自然科学基金委试点资助优秀本科生，本科生达到什么条件可获得该基金资助？](https://mp.weixin.qq.com/s/KiAUwSch7bDZSv0MhDaVkw) 2023.07.09. | [太厉害了！国自然基金首次资助优秀本科生，中科大学生获批！](https://www.toutiao.com/article/7276439660618908160/?app=news_article&timestamp=1694186580&use_new_style=1&req_id=20230908232300DABEA794A86D09924A80&group_id=7276439660618908160&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=14ca7398-7393-4363-aa78-a8cd5ed45923&source=m_redirect&wid=1694229259017) 2023.09.08.  | [窦贤康：下一步试点开展对博士生的直接资助](https://mp.weixin.qq.com/s/GbxRnsEDJHlVefZP-yoDig) 2023.09.09. 
 
 
 74. [基金委两个学部，公布面青地等项目会评专家](https://mp.weixin.qq.com/s/6V-9ckmz6wAwX18VVUmYIw). 2023.07.31. | [自然科学基金委地球科学部公布2023年度国自然（杰青、优青、学科等）会评专家名单](https://mp.weixin.qq.com/s/rqO1Um96RiZP7_IkDY1ihw). 2023.08.16. | [九大学部，2023年度国自然会评专家名单（收藏）](https://mp.weixin.qq.com/s/dr0dvEEOkWJ4VzXZP7O8Bw). 2023.08.17.
@@ -2294,7 +2294,16 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 81. [重磅！2023 国家自然科学基金评审结果公布！附查询方式！](https://mp.weixin.qq.com/s/h5nSD-dfSeNVI0tsF36kKw). 2023.08.24. |  [重磅！2023年国家自然科学基金评审结果公布](https://mp.weixin.qq.com/s/KBDANvh6quS6MZQm-fETfA). 2023.08.24. 
 
 
-82. [国自然新风向！中央重磅发文，青年科学家的福音！](https://mp.weixin.qq.com/s/9fMcbdizGin9K_-1INpYPQ) 2023.08.29.
+82. [基金委收到‘请托’‘打招呼’投诉举报58件，均已启动调查！对科研不端行为，加大通报曝光力度！](https://mp.weixin.qq.com/s/Yf2n66qMok3gz1tiG5cFUg) 2023.08.24.
+
+
+83. [国自然新风向！中央重磅发文，青年科学家的福音！](https://mp.weixin.qq.com/s/9fMcbdizGin9K_-1INpYPQ) 2023.08.29.
+
+
+84. [揭榜！海南大学获批国家自然科学基金项目251项，实现连续5年快速增长！](https://www.toutiao.com/article/7275642226779456057/?app=news_article&timestamp=1694270877&use_new_style=1&req_id=20230909224757888EDA9A33E88EED0707&group_id=7275642226779456057&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=1ba28a0d-26f5-4c47-82ac-46e58c9bfebe&source=m_redirect) 2023.09.06.
+
+
+
 
 
 
