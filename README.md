@@ -2303,8 +2303,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 84. [揭榜！海南大学获批国家自然科学基金项目251项，实现连续5年快速增长！](https://www.toutiao.com/article/7275642226779456057/?app=news_article&timestamp=1694270877&use_new_style=1&req_id=20230909224757888EDA9A33E88EED0707&group_id=7275642226779456057&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=1ba28a0d-26f5-4c47-82ac-46e58c9bfebe&source=m_redirect) 2023.09.06.
 
 
+85. [申请国自然，普通人最大的劣势并不是人脉！](https://mp.weixin.qq.com/s/JEP2oNb8uGqegYjTiIj8eQ) 2023.09.10.
 
 
+86. [国自然基金委：在各科学部设立科普类项目！面青地等将科普成果列入项目成果；资助强度较大项目，应围绕项目开展科普工作](https://mp.weixin.qq.com/s/BePzbFvEN3fTSYFa2k0jdw) 2023.09.15.
 
 
 
