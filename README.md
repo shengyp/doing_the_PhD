@@ -2313,6 +2313,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 86. [国自然基金委：在各科学部设立科普类项目！面青地等将科普成果列入项目成果；资助强度较大项目，应围绕项目开展科普工作](https://mp.weixin.qq.com/s/BePzbFvEN3fTSYFa2k0jdw) 2023.09.15.
 
 
+87. [窦贤康：把有限的经费投入给最具活力的青年科学家身上](https://mp.weixin.qq.com/s/uhBcCm8myA1aM2lrje8dkg). 2023.10.05.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
