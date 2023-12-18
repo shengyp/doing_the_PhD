@@ -2333,6 +2333,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 87. [窦贤康：把有限的经费投入给最具活力的青年科学家身上](https://mp.weixin.qq.com/s/uhBcCm8myA1aM2lrje8dkg). 2023.10.05.
 
 
+88. [重磅，2024国自然申报新政，面上项目“审二停一”或取消](https://mp.weixin.qq.com/s/nfTzANiEuuAeQxE7haJUfg). 2023.12.18.
+
 
 
 ## 国家重点研发计划
