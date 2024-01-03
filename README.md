@@ -2336,6 +2336,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 88. [重磅，2024国自然申报新政，面上项目“审二停一”或取消](https://mp.weixin.qq.com/s/nfTzANiEuuAeQxE7haJUfg). 2023.12.18.
 
 
+89. [多所高校官宣：获批2023年国自然重大项目！多校打破校史](https://mp.weixin.qq.com/s/__qx7cK3oD85aDQ66kpS0w). 2023.12.29.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2915,12 +2919,15 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 5. [顺藤摸瓜，川大：张薇背后利益网，一捅即破！](https://www.toutiao.com/article/7251989288202797606/?app=news_article&timestamp=1688780345&use_new_style=1&req_id=202307080939047BFE33C1122667393B95&group_id=7251989288202797606&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=3d1048f4-acf9-499c-8d2a-868c1335f896&source=m_redirect). 2023.07.05.
 
 
+6. [武理工一年轻教授被快速解聘，原因引发热议](https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9845358656474198686%22%7D&n_type=-1&p_from=-1). 2024.01.02.
+
+
 
 ## 叫兽
 1. [鞋子还没脱，裤子就脱了！北大教授冯仁杰，大尺度聊骚多人乱搞](https://www.toutiao.com/article/7261158638792753719/?app=news_article&timestamp=1690638262&use_new_style=1&req_id=202307292144221E9D56B81B5195FC18FD&group_id=7261158638792753719&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=56ccfe78-65e5-47ba-a9e5-e1563dbe52cd&source=m_redirect). 2023.07.29.
 
 
 
-updated in 2023.08.15
+updated in 2024.01.03
 
 
