@@ -2339,6 +2339,11 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 89. [多所高校官宣：获批2023年国自然重大项目！多校打破校史](https://mp.weixin.qq.com/s/__qx7cK3oD85aDQ66kpS0w). 2023.12.29.
 
 
+90. [范进中举-国家自然科学基金版](https://mp.weixin.qq.com/s/b-yOhz1nXPIaUOgUkMe2WA). 2024.01.05.
+
+
+91. [【国自然结题报告】面上项目：不完全信息条件下基于链路预测的复杂网络瓦解问题研究](https://mp.weixin.qq.com/s/1d3fvji9h1s5DT9AGNAmXA). 2024.01.03.
+
 
 
 ## 国家重点研发计划
