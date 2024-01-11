@@ -2433,6 +2433,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 3. [国家级先导区，重庆这样建！](https://mp.weixin.qq.com/s/IP_NfztdJ9bIuISfmDzgMA) 2023.07.26
 
 
+4. [首批3个川渝共建重点实验室，正式认定！](https://mp.weixin.qq.com/s/A9vdscYUMmn0GPz4Oja1FA) 2024.01.11
+
+
 
 ## 重庆市科技政策
 1. [重庆出台《支持科技创新若干财政金融政策》 10大类30条全是干货](https://mp.weixin.qq.com/s/5cPhobuR9j1dt_C5-6yQXw) 2021.05.21
