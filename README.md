@@ -868,6 +868,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 1. [博一结束后的一些反思](https://mp.weixin.qq.com/s/DQevJoclXgdNa47_mlGokA) 2021.08.30. 
 
 
+2. [注意！这5种博士千万不要招进课题组](https://mp.weixin.qq.com/s/V-6jqON_bAA0dGwdN1TJAw). 2024.01.15. 
+
+
+
 
 ## 延期毕业问题
 1. [只七个案例，读博读废了是种什么样的体验？](https://mp.weixin.qq.com/s/h6mY8W0-boNLQgbc7lny_A) 2021.01.07.
