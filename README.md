@@ -2357,7 +2357,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 92. [重磅！2024年度国自然基金申报，来了！](重磅！2024年度国自然基金申报，来了！)2024.01.09.
 
 
-
+93. [雷区！2024年国自然各学部不予资助范围](https://mp.weixin.qq.com/s/cKRtN8fhMuEulL1Q5rs1xw). 2024.01.18.
 
 
 
@@ -2417,6 +2417,7 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 11. [施一公：拿出经费，放开手脚，一定有人能做出划时代的研究](https://www.toutiao.com/article/7259185056583778835/?app=news_article&timestamp=1690173503&use_new_style=1&req_id=20230724123823C2BAE55595D6170595D7&group_id=7259185056583778835&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=9d68afab-4276-4de4-9aa9-30a154fc2602&source=m_redirect) 2023.07.24
 
 
+12. [六部门发文：财政资助科研项目形成的专利需声明依托项目信息！已受理尚未授权的专利需在6月30日前补充提交声明](https://mp.weixin.qq.com/s/f5r0xxWaoXbiok-2lMtx2g). 2024.01.22
 
 
 
