@@ -764,6 +764,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 3. [摘要拒稿、直接拒稿都太粗暴：近万篇论文，AAAI、IJCAI、ICML都是怎么审的？](https://mp.weixin.qq.com/s/yypFQhyfCZTV9qgknZ5BoA) 2022.03.12. 
 
 
+4. [审稿 CVPR 有感：没落的顶会、空虚的文章和失败open review](https://mp.weixin.qq.com/s/KcMJrihuf1t--kdtCIO3Cw). 2024.01.26. 
+
+
+
 
 ## 同行评审
 1. [同行评审就是个笑话！Nature最新爆料计算机生成的垃圾文章竟还能被接受，64%来自中国](https://mp.weixin.qq.com/s/X94rjuqJTlT4juSzAAeYSQ). 2021.05.29.
@@ -2418,6 +2422,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 12. [六部门发文：财政资助科研项目形成的专利需声明依托项目信息！已受理尚未授权的专利需在6月30日前补充提交声明](https://mp.weixin.qq.com/s/f5r0xxWaoXbiok-2lMtx2g). 2024.01.22
+
+
+13. [全面布局未来产业，七部门发文](https://mp.weixin.qq.com/s/6szTgoYumHSmNnsX-cUWqg). 2024.01.29
 
 
 
