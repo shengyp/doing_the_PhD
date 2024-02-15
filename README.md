@@ -19,6 +19,7 @@ Table of Contents
 * [中美教育](#中美教育)
 * [自救指南](#自救指南)
 * [科学问题](#科学问题)
+* [CS专业](#CS专业)
 * [一个执着的决定](#一个执着的决定)
 * [如何开个好头](#如何开个好头)
 * [好的研究想法如何产生](#好的研究想法如何产生)
@@ -157,6 +158,11 @@ Table of Contents
 
 ## 科学问题
 1. [时隔16年，Science再次发布“全世界最前沿的125个科学问题”！](https://mp.weixin.qq.com/s/2KGyDH0WF58xbDVjoGHpfA) 2021.04.11. 
+
+
+
+## CS专业
+1. [留美10年计算机科学博士观察：科技公司裁员潮下，CS仍是值得选择的好专业](https://mp.weixin.qq.com/s/wQT8_vG3aocIho4H4Js77g). 2024.02.15. 
 
 
 
@@ -2427,6 +2433,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 13. [全面布局未来产业，七部门发文](https://mp.weixin.qq.com/s/6szTgoYumHSmNnsX-cUWqg). 2024.01.29
 
 
+14. [科技部发文禁止人工智能生成申报材料](https://mp.weixin.qq.com/s/2FJpDuVW7EJgW-_vrt24lg). 2024.02.10
+
+
 
 
 ## 国外科技部政策
@@ -2498,6 +2507,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 ## 教师法
 1. [教育部发布《教师法修订草案（征求意见稿）》](https://www.toutiao.com/i7035897484815745568/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1638182183&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=2021112918362301015120302608F64AD3&share_token=d50479ac-cb69-4004-ab17-584947dcf45c&group_id=7035897484815745568). 2021.11.29
+
+
+2. [中央规定！高校教师，不得借调！](https://mp.weixin.qq.com/s/6wUkbYgbc_ntb_8oXHTJig) 2024.02.15
+
 
 
 
