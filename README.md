@@ -2370,6 +2370,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 93. [雷区！2024年国自然各学部不予资助范围](https://mp.weixin.qq.com/s/cKRtN8fhMuEulL1Q5rs1xw). 2024.01.18.
 
 
+94. [青年和面上基金申请项目应聚焦于“小而精”的科学问题](https://mp.weixin.qq.com/s/40gste5t4C9WvCfcFTE6wA). 2024.02.17.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2455,6 +2458,10 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 4. [首批3个川渝共建重点实验室，正式认定！](https://mp.weixin.qq.com/s/A9vdscYUMmn0GPz4Oja1FA) 2024.01.11
+
+
+5. [3月“上线”！西南地区单一规模最大智算中心](https://mp.weixin.qq.com/s/K5LWr-ykfwkpXwbAEXTZVQ). 2024.02.25
+
 
 
 
