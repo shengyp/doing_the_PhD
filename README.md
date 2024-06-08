@@ -2373,6 +2373,15 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 94. [青年和面上基金申请项目应聚焦于“小而精”的科学问题](https://mp.weixin.qq.com/s/40gste5t4C9WvCfcFTE6wA). 2024.02.17.
 
 
+95. [自然基金|最近收到了report邮件了吗？](https://zhuanlan.zhihu.com/p/617620541?utm_id=0). 2024.03.22.
+
+
+96. [2024年国自然科研项目申请量激增！科研竞争日益激烈！](https://mp.weixin.qq.com/s/PWkwBr1Q5Mo3IyJid7JFJA) 2024.05.09.
+
+
+97. [国家自然科学基金改革方向！国家基金委主任窦贤康发表重要文章](https://mp.weixin.qq.com/s/yIjIOxzHGSawvTJDEe6MRQ). 2024.06.08.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
