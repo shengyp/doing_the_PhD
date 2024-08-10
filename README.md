@@ -773,6 +773,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [审稿 CVPR 有感：没落的顶会、空虚的文章和失败open review](https://mp.weixin.qq.com/s/KcMJrihuf1t--kdtCIO3Cw). 2024.01.26. 
 
 
+5. [国外SCI期刊居然还存在这样的骚操作](https://mp.weixin.qq.com/s/wXTM0L_RcHYimVpuoLV0Bw). 2024.08.09. 
+
 
 
 ## 同行评审
@@ -921,6 +923,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 1. [毕业一年后，论文被“二次抽检”不合格，北大5名博士被撤销博士学位！](https://mp.weixin.qq.com/s/K-z6Is-avYoIBLqyVYfuEA) 2023.05.25.
 
 
+2. [欧美博士论文，为何不像我国这样重视盲审？](https://mp.weixin.qq.com/s/pjYt621lBPZ1sP4MnWVXgw) 2024.06.29.
+
+
 
 ## 学位论文答辩
 1. [如何撰写好你的博士论文？CMU-Priya博士这30页ppt为你指点](http://tjzhifei.github.io/links/How%20To%20Write%20a%20Good%20(no,%20Great)%20PhD%20Dissertation.pdf) 2020.11.06.
@@ -1007,6 +1012,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 8. [又一博士论文致谢，被顶上热搜！](https://mp.weixin.qq.com/s/dgIz64fvLFSwGHoWwkC-1Q) 2023.06.19. 
 
 
+9. [泪目！博士论文致谢走红：感谢博一与我结婚的妻子](https://mp.weixin.qq.com/s/9FKxsf96dfMjnH4t5XXS8g). 2024.06.16. 
+
+
+
 
 ## 校长演讲
 1. [川大校长李言荣：提出真问题比热衷“填补空白”更重要](https://www.toutiao.com/i7075306374225330702/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1647430307&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=20220316193147010158155167100D0B36&share_token=5102bfa8-74d1-4850-b28a-b57f6ab07233&group_id=7075306374225330702). 2022.03.15. 
@@ -1029,6 +1038,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 ## 博士就业
 1. [英伟达LLM研究科学家岗位门槛狂卷，至少8篇顶会！](https://mp.weixin.qq.com/s/oCEJkQyUfeBEGjaHusxsNQ) 2023.07.28. 
+
+
+2. [安徽师范大学录6名博士辅导员，4人毕业于985高校，东南大学2人](https://mp.weixin.qq.com/s/0YytPrK_XSxbLcC_WtH_nA). 2024.07.06. 
 
 
 
@@ -1548,6 +1560,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 85. [本科毕业加入谷歌，还写了「思维链」开山之作，这位OpenAI新秀正为本科生答疑解惑](https://mp.weixin.qq.com/s/ZOMrLl_IemjONyN8Z9YEPA). 2023.07.25.
+
+
+86. [首届博士毕业生梅朗：11载人大生活，且行且收获](https://mp.weixin.qq.com/s/e-YVT1Ow2u2bZvIkPPNKYg). 2024.06.25.
+
 
 
 
@@ -2856,6 +2872,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 85. [TFboys粉丝群曝大瓜！为了门票陪睡黄牛，女孩们的底线去哪了？](https://www.toutiao.com/article/7265633045317698089/?app=news_article&timestamp=1691682398&use_new_style=1&req_id=20230810234638501902DFDE489E227476&group_id=7265633045317698089&wxshare_count=2&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=c7d9e196-0fea-4dc4-a6e3-4375edb15133&source=m_redirect) 2023.08.10.
+
+
+86. [教授被曝性骚扰！中国人民大学通报处理结果](https://mp.weixin.qq.com/s/kdJ2VBpKPcDQgpO3YefcXw). 2024.07.22.
 
 
 
