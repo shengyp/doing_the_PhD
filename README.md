@@ -1565,6 +1565,9 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 86. [首届博士毕业生梅朗：11载人大生活，且行且收获](https://mp.weixin.qq.com/s/e-YVT1Ow2u2bZvIkPPNKYg). 2024.06.25.
 
 
+87. [慕了！11年逆袭，寒门专升本终成MIT博士生！](https://mp.weixin.qq.com/s/3PP85c4DtqBaQZauwlrJdQ). 2024.08.21.
+
+
 
 
 ## 女性科学家
@@ -2398,6 +2401,16 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 97. [国家自然科学基金改革方向！国家基金委主任窦贤康发表重要文章](https://mp.weixin.qq.com/s/yIjIOxzHGSawvTJDEe6MRQ). 2024.06.08.
 
 
+98. [2024国自然最新数据，面上资助率骤降至11.19%，青年申报数增加11.31％、杰青增加15.87％](https://mp.weixin.qq.com/s/FiaH61kAqM7vsD8q-CLGyg). 2024.08.17.
+
+
+99. [窦贤康：改革支持青年科学家，尤其是女性研究人员](https://mp.weixin.qq.com/s/p0mdUsOMuDsQi0V8673htQ). 2024.08.17.
+
+
+100. [刚刚！2024国自然，放榜！附查询方法](https://www.163.com/dy/article/JA8TB7IL05525F0T.html). 2024.08.23.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -2516,6 +2529,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 9. [重庆在西部陆海新通道建设中勇担“主角”](https://mp.weixin.qq.com/s/zDfcJyuNbvKF9YQ4tawz7g). 2023.03.27
+
+
+10. [重庆市人民政府关于2023年度重庆市科学技术奖励的决定](https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202408/t20240819_13521213.html). 2024.08.09
 
 
 
@@ -2875,6 +2891,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 86. [教授被曝性骚扰！中国人民大学通报处理结果](https://mp.weixin.qq.com/s/kdJ2VBpKPcDQgpO3YefcXw). 2024.07.22.
+
+
+87. [通报批评！985博导给学生发放劳务费后再回收，套取科研经费！国自然基金委通报批评！](https://mp.weixin.qq.com/s/AUEZ8HGJPFTcyjH5HhSYjA) 2024.08.29.
 
 
 
