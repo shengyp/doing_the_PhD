@@ -1082,7 +1082,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 
 ## 博士婚姻研究
-1. [在名校“垫底”和二流学校“拔尖”，哪条路更容易成功？研究结果令人惊讶…](https://mp.weixin.qq.com/s/UXu54Y7h6uFAh18wkI02GQ). 2021.06.01. 
+
+1. [挤进名校“垫底”，还是在二流学校“拔尖”？听听这位著名的畅销书作者怎么说](https://mp.weixin.qq.com/s/2h1GyVeMhMzDp4ek1DM7Vw). 外滩教育. 2019.11.08. 
 
 
 2. [上海女博士“择偶条件”惹争议，相亲像是在许愿，网友：别做梦了 ！](https://mp.weixin.qq.com/s/u75ErH4mxd4xH7YC575yvw) 2022.05.23. 
@@ -3027,5 +3028,4 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 updated in 2024.01.03
-
 
