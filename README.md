@@ -1030,6 +1030,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 4. [川大校长李言荣：培养基础拔尖人才，就要舍得投入人力物力和财力](https://mp.weixin.qq.com/s/QVNCYdwgTe-WutWg7661Fw). 2022.07.22.
 
 
+5. [以创新之力高擎时代之帆|校长王树新在2024级研究生开学典礼上的讲话](https://mp.weixin.qq.com/s/LDDYxpN3w2-peC7tzakcCg). 2024.09.07.
+
+
+
 
 ## 毕业典礼
 1. [所长致辞 | 徐波所长：创新驱动发展，培育拔尖人才](https://mp.weixin.qq.com/s/-M84dYXr4Vd5IboUNY8YzQ). 2021.06.24. 
@@ -2894,6 +2898,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 87. [通报批评！985博导给学生发放劳务费后再回收，套取科研经费！国自然基金委通报批评！](https://mp.weixin.qq.com/s/AUEZ8HGJPFTcyjH5HhSYjA) 2024.08.29.
+
+
+88. [国家基金委通报2024年不端行为案件处理结果（第二批次）](https://mp.weixin.qq.com/s/n009WSbZdaPJhz9hxSKFUA) 2024.10.13.
 
 
 
