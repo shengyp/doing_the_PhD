@@ -1163,6 +1163,10 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 7. [中共中央办公厅 国务院办公厅印发《关于进一步加强青年科技人才培养和使用的若干措施》](http://finance.people.com.cn/n1/2023/0827/c1004-40064760.html). 2023.08.27. | [政策解读 | 科技部负责同志解读《关于进一步加强青年科技人才培养和使用的若干措施》](https://mp.weixin.qq.com/s/nfzzBRVXak5XHrHNV2GODg). 2023.08.28. | [青年科技工作者注意了，重磅政策发布！](https://mp.weixin.qq.com/s/Ii4ry3dKaqFmm9qyyP3r0w) 2023.08.28. 
 
 
+8. [教育部：每年遴选一批优秀青年教师，给予稳定支持](https://mp.weixin.qq.com/s/zWhhFf-QVYFFjcwlS5P0HA). 2024.10.24. 
+
+
+
 
 ## 科研经费管理
 1. [正式启动！三问四川科研经费“包干制”试点](https://www.toutiao.com/i6916850681014026759/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1610463810&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202101122303290101490602241C49C285&share_token=75cb9462-a98c-4eab-bb9b-d5986a3252d3&group_id=6916850681014026759). 2021.01.12. 
@@ -2412,6 +2416,15 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 100. [刚刚！2024国自然，放榜！附查询方法](https://www.163.com/dy/article/JA8TB7IL05525F0T.html). 2024.08.23.
+
+
+101. [《国家自然科学基金条例（修订草案）》审议通过！](https://mp.weixin.qq.com/s/zub4NyR2J0vZWsNrmoTk2g) 2024.10.26.
+
+
+102. [窦贤康：将大幅度提高优秀青年基金的额度和数量](https://mp.weixin.qq.com/s/ABU5fhqTjXABhkeKw9TW_w). 2024.11.02.
+
+
+103. [国自然发文：打招呼比率高达70%，评审机制或迎重大变化！](https://www.toutiao.com/article/7439345920761774607/?app=news_article&use_new_style=1&is_hit_share_recommend=0&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a0ba080d-7baf-404b-b163-702c8598b152&source=m_redirect). 2024.11.20.
 
 
 
