@@ -2090,6 +2090,8 @@ https://mp.weixin.qq.com/s/PQEmSAqnc_ax1W1BMPKk9g).
 
 [35岁青基挂了心态崩了怎么办?](https://www.zhihu.com/question/417631779) 
 
+[各基金项目名称中英文对照](https://mp.weixin.qq.com/s/_kT1ftpKyw8qBRfXyVwJKQ) 
+
 
 1. [2021年国家自科基金项目指南](http://m.nsfc.gov.cn/publish/portal0/tab882/) 2021.01.15. 
 
