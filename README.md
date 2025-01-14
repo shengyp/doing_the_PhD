@@ -2429,6 +2429,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 103. [国自然发文：打招呼比率高达70%，评审机制或迎重大变化！](https://www.toutiao.com/article/7439345920761774607/?app=news_article&use_new_style=1&is_hit_share_recommend=0&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a0ba080d-7baf-404b-b163-702c8598b152&source=m_redirect). 2024.11.20.
 
 
+104. [重磅！2025年度国家自然科学基金项目申报通知来了](https://mp.weixin.qq.com/s/Zx5Ejb1DR3Kfc_Q9lss0Fw). 2025.01.13.
+
 
 
 ## 国家重点研发计划
