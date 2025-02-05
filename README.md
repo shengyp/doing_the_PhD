@@ -2429,7 +2429,16 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 103. [国自然发文：打招呼比率高达70%，评审机制或迎重大变化！](https://www.toutiao.com/article/7439345920761774607/?app=news_article&use_new_style=1&is_hit_share_recommend=0&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=a0ba080d-7baf-404b-b163-702c8598b152&source=m_redirect). 2024.11.20.
 
 
-104. [重磅！2025年度国家自然科学基金项目申报通知来了](https://mp.weixin.qq.com/s/Zx5Ejb1DR3Kfc_Q9lss0Fw). 2025.01.13.
+104. [两小时定生死：揭开国家自然科学基金评审流程的神秘面纱](https://mp.weixin.qq.com/s/nS-S8IxHyUWRxJludmrxIA). 2025.01.06.
+
+
+105. [重磅！2025年度国家自然科学基金项目申报通知来了](https://mp.weixin.qq.com/s/Zx5Ejb1DR3Kfc_Q9lss0Fw). 2025.01.13.
+
+
+106. [关于2025年度国家自然科学基金项目申请与结题等有关事项的通告](https://www.nsfc.gov.cn/publish/portal0/tab442/info94273.htm). 2025.01.13.
+
+
+107. [2025国家自然科学基金188问](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
 
 
 
@@ -2497,6 +2506,8 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 14. [科技部发文禁止人工智能生成申报材料](https://mp.weixin.qq.com/s/2FJpDuVW7EJgW-_vrt24lg). 2024.02.10
 
+
+15. [科技部内设机构重大调整](https://mp.weixin.qq.com/s/OwdczIhHoi2J6fi3ptDzaQ). 2025.01.29
 
 
 
