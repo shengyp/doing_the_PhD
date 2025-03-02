@@ -2438,10 +2438,19 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 106. [关于2025年度国家自然科学基金项目申请与结题等有关事项的通告](https://www.nsfc.gov.cn/publish/portal0/tab442/info94273.htm). 2025.01.13.
 
 
-107. [2025国家自然科学基金188问](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
+107. [青年基金评审焦点：研究背景扎实还是创新点突出更关键？](https://mp.weixin.qq.com/s/aH7_o2QI_dfKUY6OlE-bwQ). 2025.01.21.
 
 
-108. [2025国家自然科学基金项目限项规定](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
+108. [2025国家自然科学基金188问](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
+
+
+109. [2025国家自然科学基金项目限项规定](https://mp.weixin.qq.com/s/3DuvhnIMK1RxkmU4AiwZ0w). 2025.02.05.
+
+
+110. [网民建议放宽“青年基金项目”申报35周岁的年龄限制，国自然基金委回应来了](https://mp.weixin.qq.com/s/GZ5WKv8icYwJulZRCn7jDw). 2025.02.08.
+
+
+111. [国自然项目，如何凝练关键科学问题？](https://mp.weixin.qq.com/s/jOf2Tv8Agkc5XVJoOp2kLQ). 2025.03.02.
 
 
 
@@ -3036,6 +3045,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 26. [34岁研究生凌晨猝死，聊天记录透露大量细节，导师责任逃不掉了。](https://www.toutiao.com/article/7267872401617322536/?app=news_article&timestamp=1692330691&use_new_style=1&req_id=202308181151319CC3B7D508EEB25A8FD8&group_id=7267872401617322536&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=7462beb6-1e86-4b29-b88b-5e73fced45aa&source=m_redirect) 2023.08.16.
+
+
+27. [年仅32岁！又一青年大学教师因病逝世……](https://mp.weixin.qq.com/s/in3KTgFt56xL-4jH0O9KaQ) 2025.02.17.
 
 
 
