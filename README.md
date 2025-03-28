@@ -2453,6 +2453,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 111. [国自然项目，如何凝练关键科学问题？](https://mp.weixin.qq.com/s/jOf2Tv8Agkc5XVJoOp2kLQ). 2025.03.02.
 
 
+112. [国自然的面上项目是什么意思？为什么叫面上项目？](https://www.toutiao.com/article/7479525770872750628/?app=news_article&use_new_style=1&is_hit_share_recommend=0&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&req_id_new=202503262059592ABCF9348D8EE5DA1823&chn_id=94349612189&category_new=text_inner_flow&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=60098027-139a-4bc7-8ffb-f0616efcb3e1&source=m_redirect&wid=1743193317970). 2025.03.09.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
