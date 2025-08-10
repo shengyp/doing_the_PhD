@@ -2456,6 +2456,15 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 112. [国自然的面上项目是什么意思？为什么叫面上项目？](https://www.toutiao.com/article/7479525770872750628/?app=news_article&use_new_style=1&is_hit_share_recommend=0&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&req_id_new=202503262059592ABCF9348D8EE5DA1823&chn_id=94349612189&category_new=text_inner_flow&wxshare_count=1&tt_from=weixin&utm_source=weixin&utm_medium=toutiao_android&utm_campaign=client_share&share_token=60098027-139a-4bc7-8ffb-f0616efcb3e1&source=m_redirect&wid=1743193317970). 2025.03.09.
 
 
+113. [基金委：严正声明](https://mp.weixin.qq.com/s/0QEWquUqTdkBfgH70yjeIw). 2025.06.13.
+
+
+114. [面上项目或将增设“申请限制”，国自然即将开启“分阶段评审”!](https://mp.weixin.qq.com/s/lNAvdz9wx3GiPweQEZ1P5w) 2025.08.07.
+
+
+115. [会评都结束了还没收到一点消息，是不是说明国自然就没戏了](https://www.toutiao.com/article/7536848061767631395/?app=news_article&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&upstream_biz=client_share&category_new=__all__&timestamp=1754818744&share_token=6f966023-ae99-49bb-8c28-3cb6b1fe47a9&source=m_redirect&wid=1754828973049). 2025.08.10.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
