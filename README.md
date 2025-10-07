@@ -2465,6 +2465,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 115. [会评都结束了还没收到一点消息，是不是说明国自然就没戏了](https://www.toutiao.com/article/7536848061767631395/?app=news_article&share_uid=MS4wLjABAAAAy-1VsU4rron5VrLGQOiYVK8SwldCs0OK6cS6-id-QMI&share_did=MS4wLjACAAAAkf5J_NysSiIEUntFipvfMLBcB16PWFrcfCHenVgr10uwvsFKcx-5oXJSNyk5nEGW&upstream_biz=client_share&category_new=__all__&timestamp=1754818744&share_token=6f966023-ae99-49bb-8c28-3cb6b1fe47a9&source=m_redirect&wid=1754828973049). 2025.08.10.
 
 
+116. [国家自然科学基金资助格局](https://mp.weixin.qq.com/s/9VOoBC_NPxwV71pi5H5XIg). 2025.10.05.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
@@ -3060,6 +3063,9 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 
 
 27. [年仅32岁！又一青年大学教师因病逝世……](https://mp.weixin.qq.com/s/in3KTgFt56xL-4jH0O9KaQ) 2025.02.17.
+
+
+28. [惋惜！南京大学一青年教师去世，年仅33岁](https://mp.weixin.qq.com/s/d46c_fdgU1yahj1gMUwcVg) 2025.08.28.
 
 
 
