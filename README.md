@@ -2468,6 +2468,12 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 116. [国家自然科学基金资助格局](https://mp.weixin.qq.com/s/9VOoBC_NPxwV71pi5H5XIg). 2025.10.05.
 
 
+117. [国自然漫画：讲述国自然申报历程，画尽科研人的喜怒哀乐](https://mp.weixin.qq.com/s/PQumpUnFgGUcNB2i7_ozSw). 2025.10.12.
+
+
+118. [重大调整！2026年国自然申请书改版！](https://mp.weixin.qq.com/s/ZlwA3ONV-FZS7JPeWWHduA) 2025.12.30.
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
