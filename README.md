@@ -2474,6 +2474,19 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 118. [重大调整！2026年国自然申请书改版！](https://mp.weixin.qq.com/s/ZlwA3ONV-FZS7JPeWWHduA) 2025.12.30.
 
 
+119. [2026 变局：国自然新增“T05”代码，深度思考国自然“科学工具”导向](https://mp.weixin.qq.com/s/VSUhZ602X4eyzqfP9GFk8w). 2026.01.12.
+
+
+120. [2025年度国自然科学基金青年学生基础研究项目（博士生）立项者| 刘家铭](https://mp.weixin.qq.com/s/DYBQlh7wkT_HFQiQeAumQw). 2026.01.14.
+
+
+121. [2026年度国家自然科学基金申请书正文LaTeX模板：青A、青B、青C、重点、面上、地区](https://mp.weixin.qq.com/s/JdmxS5luFufC8JYKj9BNjg). 2026.01.20.
+
+
+122. [自然科学基金委通报一批科研不端行为和项目资金违规案件处理结果](https://mp.weixin.qq.com/s/sh_EEPkbh2ICRtMcxbFV7w). 2026.01.24.
+
+
+
 
 ## 国家重点研发计划
 1. [“十四五”国家重点研发计划首批重点专项发布，设“揭榜挂帅”和青年科学家项目](https://mp.weixin.qq.com/s/5KThiK8e3WX6VdLvPEEyVg) 2021.05.11
