@@ -2480,10 +2480,13 @@ http://html.rhhz.net/tis/html/202111003.htm). 2021.11.17.
 120. [2025年度国自然科学基金青年学生基础研究项目（博士生）立项者| 刘家铭](https://mp.weixin.qq.com/s/DYBQlh7wkT_HFQiQeAumQw). 2026.01.14.
 
 
-121. [2026年度国家自然科学基金申请书正文LaTeX模板：青A、青B、青C、重点、面上、地区](https://mp.weixin.qq.com/s/JdmxS5luFufC8JYKj9BNjg). 2026.01.20.
+121. [关于2026年度国家自然科学基金项目申请与结题等有关事项的通告](https://www.nsfc.gov.cn/p1/3381/2824/99667.html). 2026.01.14.
 
 
-122. [自然科学基金委通报一批科研不端行为和项目资金违规案件处理结果](https://mp.weixin.qq.com/s/sh_EEPkbh2ICRtMcxbFV7w). 2026.01.24.
+122. [2026年度国家自然科学基金申请书正文LaTeX模板：青A、青B、青C、重点、面上、地区](https://mp.weixin.qq.com/s/JdmxS5luFufC8JYKj9BNjg). 2026.01.20.
+
+
+123. [自然科学基金委通报一批科研不端行为和项目资金违规案件处理结果](https://mp.weixin.qq.com/s/sh_EEPkbh2ICRtMcxbFV7w). 2026.01.24.
 
 
 
